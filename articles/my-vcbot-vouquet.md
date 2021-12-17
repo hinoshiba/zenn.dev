@@ -1,7 +1,7 @@
 ---
 title: "暗号資産自動取引ボットの紹介"
 emoji: "🐇"
-type: "idea"
+type: "tech"
 topics: ["bitcoin", "暗号資産", "自動売買bot"]
 published: true
 ---
@@ -57,11 +57,11 @@ Vouquet に、自分で開発した取引アルゴリズムを組み込みビル
 一部を紹介します。  
 こちらは、10時間で3,700円以上の利益が生まれたツイートです。  
 
-https://twitter.com/bitcoin20210208/status/1373364191008976896?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1373364191008976896%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fnote.com%2Fhinoshiba%2Fn%2Fn739b0f88abfc
+https://twitter.com/bitcoin20210208/status/1373364191008976896?s=20
 
 と、思ったら、損切のマイナス決済により、利益が800円程まで落ち着いてしまうこともあります。
 
-https://twitter.com/bitcoin20210208/status/1373941876080877570?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1373941876080877570%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fnote.com%2Fhinoshiba%2Fn%2Fn739b0f88abfc
+https://twitter.com/bitcoin20210208/status/1373941876080877570?s=20
 
 
 ツイートを遡っていただくとわかりますが、執筆時点の平均日利は、3000円程です。  

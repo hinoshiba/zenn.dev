@@ -1,7 +1,7 @@
 ---
 title: "非IT業界の妻にPullRequestを送ろう ~家計簿GitHubリポジトリ化の軌跡~"
 emoji: "🐇"
-type: "idea"
+type: "tech"
 topics: ["夫婦", "家計簿", "自動化"]
 published: true
 ---

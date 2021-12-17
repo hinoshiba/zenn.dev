@@ -1,7 +1,7 @@
 ---
 title: "暗号資産自動取引bot(Vouquet)の収益報告"
 emoji: "🐇"
-type: "idea"
+type: "tech"
 topics: ["bitcoin", "暗号資産", "自動売買bot"]
 published: true
 ---
