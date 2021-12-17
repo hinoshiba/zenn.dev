@@ -28,7 +28,7 @@ published: true
 それらの領域に関係する作業をしたい場合は、iPad Proの選択は難しいと思われます。  
 そのため、一部そのような作業を行いたい私は、アプリの機能を使うことは少なく、以下のような構成で、iPad Proをコンソール機器として利用していました。  
 
-![](/images/articles/ipadpro12tMBP14/overview.png)  
+![](/images/articles/ipadpro12-mbp14/overview.png)  
 
 主に、SSHクライアントアプリ（[Blink Shell](https://apps.apple.com/jp/app/blink-shell-mosh-ssh-client/id1156707581) ）と、RDPクライアントアプリ（[Microsoftリモートデスクトップ](https://apps.apple.com/jp/app/microsoft-%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88-%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/id714464092) ）を活用し、PCのように活用していました。  
 
@@ -54,7 +54,7 @@ SIMの刺さらないMacbook と異なり、どこでもさっと開いてSSHや
 
 「Ctrl - Space」や、「言語切り替えキー」で変更時に出現する以下のUIです。  
 
-![](/images/articles/ipadpro12tMBP14/switch_lang.png)  
+![](/images/articles/ipadpro12-mbp14/switch_lang.png)  
 
 このUI、macOSだと「Ctrl」もしくは、「Space」が離された時点で消えてくれますが、**iPadOSでは秒数（体感1秒ちょっと）画面上に残ります**。  
 文字列入力は受け付けてくれるため、入力は困りません。しかし、十字キーによる操作がこのUIに持っていかれ、意図せぬ言語切り替えが発生します。  
