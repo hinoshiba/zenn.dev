@@ -14,5 +14,5 @@ ls -lah
 ```
 
 ## img
-![](/images/articles/test.md/test100.png)  
+![img](/images/articles/my-test-markdown.md/test100.png)  
 https://www.irasutoya.com/2012/11/100.html  
