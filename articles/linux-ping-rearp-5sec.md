@@ -41,7 +41,7 @@ zennの方が技術者が集まるので、コメントがもらえればと転�
 	* フレームを送出している限り[Reachable]が続く
 
 ###  ステータス遷移
-![nd_flow01.jpg](/images/articles/nd_flow01.jpg)
+![nd_flow01.jpg](/images/articles/linux-ping-rearp-5sec/nd_flow01.jpg)
 
 ### ステータスの詳細説明
 |Status名|説明|
@@ -58,7 +58,7 @@ zennの方が技術者が集まるので、コメントがもらえればと転�
 * ICMP受信側のフローは以下の通りになり、[Delay]で5秒待ち、[Probe]でARP Requestを送出していた
 * RFC的には何もおかしくない
 
-![nd_flow02.jpg](/images/articles/nd_flow02.jpg)
+![nd_flow02.jpg](/images/articles/linux-ping-rearp-5sec/nd_flow02.jpg)
 
 1. ICMP送信側ホストは、MACアドレス解決のため、ARP Requestを実施
 2. ICMP受信側ホストは、ARP Requestを受信したため、StaleでICMP送信側ホストを登録し、ARP Replyを送出
@@ -83,7 +83,7 @@ zennの方が技術者が集まるので、コメントがもらえればと転�
 	* 第三者情報も多かったが、ARP Cahce話で調査中にWindows Vista以降。という文言をよく見たので、Windows Vistaよりも前だと動作が異なるのかもしれない
 
 #### Windowsの遷移図(推定)
-![nd_flow_windows.jpg](/images/articles/nd_flow_windows.jpg)
+![nd_flow_windows.jpg](/images/articles/linux-ping-rearp-5sec/nd_flow_windows.jpg)
 
 # 総括
 * Linuxホストに対して、ICMPを送出する場合、最初のARP Requestにより、ARP Cacheが[Stale]->[Delay]->[Probe]に遷移し、5秒後にARP Requestを発砲する
