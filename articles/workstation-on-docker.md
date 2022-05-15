@@ -153,8 +153,8 @@ LXCと異なり、Dockerは何も考えないとコンテナ内部のユーザ�
 このため、コンテナ起動時にユーザを作成すると言った方法を行っています。  
 具体的には、[exec_users.sh](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/dockerfiles/workbench/exec_user.sh) というスクリプトを用意しており、以下の工程でユーザを作成しています。  
 
-1. 呼び出し元Makefileにて、makeファイルを呼び出したUID, GID, Usernameを解決
-2. docker runの環境変数に、UID, GID, Usernameを含めることで、本スクリプトが受け取り、ユーザがいない場合、一致するユーザを作成する
+1. 呼び出し元Makefileにて、makeファイルを呼び出したUID, GID, Username等を解決
+2. docker runの環境変数に、UID, GID, Username等を含めることで、本スクリプトが受け取り、ユーザがいない場合、一致するユーザを作成する
 	```bash
 	USER_ID=${LOCAL_UID:-9001}
 	GROUP_ID=${LOCAL_GID:-9001}
