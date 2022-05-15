@@ -207,7 +207,7 @@ OSが異なる環境でも統一的なインタフェースで扱うことを実
 
 今回は、私の作業環境である`target=workbench`に焦点を当てて紹介しました。  
 他にも`target=golang`と行った形で、普段の作業環境を https://github.com/hinoshiba/dockerfiles/tree/master/dockerfiles にまとめています。  
-workbench以外では、ユーザ環境とPATHを揃える必要が無いので、そのような準備は特にされていませんが、dockerコマンドを意識しなくても扱える辺りは一緒です。  
+workbench以外では、ユーザ環境とPATHを揃える必要が無いので、そのような準備は特にしてませんが、dockerコマンドを意識しなくても扱える辺りは一緒です。  
 また、今回紹介はしていませんが、[用意しているMakefile](https://github.com/hinoshiba/dockerfiles/blob/master/Makefile) では、他のオプションも用意しており、  
 コンテナへのportマッピングやrootでの起動、任意のファイルのマウントもmakeから簡単に指定できるようにしており、dockerコマンドを意識することなく扱える構造にしています。  
 オプションの説明は、[こちら](https://github.com/hinoshiba/dockerfiles/blob/master/docs/options.md) にまとめています。  
