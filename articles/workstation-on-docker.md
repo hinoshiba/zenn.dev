@@ -103,7 +103,24 @@ dockerへの引数は、毎回同じようなものを指定することも多�
 いくら統一的な環境とはいえ、`.gnupg`や`.ssh`のようなシークレットファイルとすべきようなものを共通利用をすることは気が引けます。  
 他にも、`.gitconfig`や、`.muttrc`のようなある程度動作環境事に使い分けたいものもあります。  
 
-これらについては、複数の環境でまとめて扱うことが難しいので、[Makefileのこちらのセクション](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/Makefile#L52) で、mount対象とすることで、ホスト上に存在するファイルをそのまま利用しています。  
+これらについては、複数の環境でまとめて扱うことが難しいので、以下のようにmount対象とすることで、ホスト上に存在するファイルをそのまま利用しています。  
+```Makefile
+		useropt+= --mount type=bind,src=$(HOME)/.ssh,dst=$(HOME)/.ssh,ro
+		useropt+= --mount type=bind,src=$(HOME)/.ssh/known_hosts,dst=$(HOME)/.ssh/known_hosts
+		useropt+= --mount type=bind,src=$(HOME)/.gnupg/openpgp-revocs.d,dst=$(HOME)/.gnupg/openpgp-revocs.d,ro
+		useropt+= --mount type=bind,src=$(HOME)/.gnupg/private-keys-v1.d,dst=$(HOME)/.gnupg/private-keys-v1.d,ro
+		useropt+= --mount type=bind,src=$(HOME)/.gnupg/pubring.kbx,dst=$(HOME)/.gnupg/pubring.kbx,ro
+		useropt+= --mount type=bind,src=$(HOME)/.gnupg/pubring.kbx~,dst=$(HOME)/.gnupg/pubring.kbx~,ro
+		useropt+= --mount type=bind,src=$(HOME)/.gnupg/trustdb.gpg,dst=$(HOME)/.gnupg/trustdb.gpg,ro
+		useropt+= --mount type=bind,src=$(HOME)/.gitconfig,dst=$(HOME)/.gitconfig,ro
+		useropt+= --mount type=bind,src=$(HOME)/.muttrc.add,dst=$(HOME)/.muttrc.add,ro
+		useropt+= --mount type=bind,src=$(HOME)/.muttrc.signature,dst=$(HOME)/.muttrc.signature,ro
+		useropt+= --mount type=bind,src=$(HOME)/.muttrc.passwords.gpg,dst=$(HOME)/.muttrc.passwords.gpg,ro
+...#省略
+	$(D) run --name $(NAME) -it $(useropt) $(rm) $(mt) $(portopt) $(dopt) $(builder)/$(TGT) $(INIT_SHELL)
+```
+[Makefileのこちらのセクション](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/Makefile#L52) で、
+
 合わせて、以下のような手順を作成し、利用前の準備として作成する運用をしています。  
 https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/docs/workbench/setup.md  
 
@@ -119,7 +136,7 @@ https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af94
 
 しかし、それらの観点とは別に、「残しておきたい、作業中のファイルやhistoryファイル」や、「残しておくと処理が楽になる、cacheファイル」等があります。  
 
-これらについては、`.shared_cache`や`~/git`、`work`といったファイルを[ホストと共有するといったMakefile](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/Makefile#L43) を用意しており、コンテナを削除してもファイルが残るようにしています。  
+これらについては、`.shared_cache`や`~/git`、`work`といったファイルを[ホストと共有するといったオプションを用意するようにMakefileへ記述](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/Makefile#L43) しており、コンテナを削除してもファイルが残るようにしています。  
 このコンテナの用途は、共通の作業環境が欲しいのであり、ホスト自体のデータとしてのファイルをいじることは問題ではないので、このようにしています。  
 
 おかげで、コンテナを再起動しても、`ctrl + r`にて、`reverse-i-sseach`を起動し、先ほどのコマンドを利用することも可能です。  
@@ -156,6 +173,9 @@ LXCと異なり、Dockerは何も考えないとコンテナ内部のユーザ�
 docker outside of docker自体の説明は割愛しますが、  
 簡単に説明すると、dockerのsocketファイルをコンテナ内部に共有することによって、コンテナ内部から、コンテナエンジンのdockerに命令を出せるものです。  
 コンテナ内部から命令を出すのは、特に難しいものではなく、[Makefileのここ](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/Makefile#L60) でやっているように、`/var/run/docker.sock` をmount対象に追加するだけです。  
+```Makefile
+useropt+= --mount type=bind,src=/var/run/docker.sock,dst=/var/run/docker.sock
+```
 
 しかし、特に何も考えずにコンテナから命令を出すと少し悩ましい事が起きます。リソース周りの問題です。  
 リモートのコンテナエンジンを利用している時と少し近いのですが、docker outside of dockerのコンテナエンジンが参照するリソース（通信、ファイル等）は、コンテナ内部ではなく、コンテナエンジン側のリソースを扱います。  
@@ -172,7 +192,12 @@ docker outside of docker自体の説明は割愛しますが、
 Ubuntuのデフォルトのユーザホームは、`/home/<user>`ですが、macOSでは、`/Users/<user>`です。  
 これらの差分もスクリプト側などで吸収しきれないと、統一的な利用ができる環境ではなくなってしまいます。  
 
-これを解決するために、[exec_user.shにてユーザを作成する際に、任意のHOMEを指定できる](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/dockerfiles/workbench/exec_user.sh#L28) ようにしています。  
+これを解決するために、exec_user.shにてユーザを作成する際に、任意のHOMEを指定しています。  
+```bash
+test "${LOCAL_HOME}" == "/home/${LOCAL_WHOAMI}" || (rm -rf "/home/${LOCAL_WHOAMI}" && ln -s "${LOCAL_HOME}" "/home/${LOCAL_WHOAMI}" && usermod -d "${LOCAL_HOME}" "${LOCAL_WHOAMI}")
+```
+[該当箇所](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/dockerfiles/workbench/exec_user.sh#L28)  
+
 動作としては、[Makefileで環境変数LOCAL_HOMEを解決](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/Makefile#L36) し、`/home/<user>`ではないパターンだったらシンボリックリンクの作成と、ユーザのHomeを切り替えています。  
 
 これにより、`/Users/<user>`であっても、`/home/<user>`であっても、`/rabbit-love/<usre>`だったとしても統一的な利用が可能です。  
