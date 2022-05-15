@@ -1,5 +1,11 @@
-作業環境をDockerfileにまとめて、macOSでもLinuxでもWSL2でも快適に過ごせるようになった話
-===
+---
+title: "作業環境をDockerfileにまとめて、macOSでもLinuxでもWSL2でも快適に過ごせるようになった話"
+emoji: "🐇"
+type: "tech"
+topics: ["Docker", "Linux", "macOS", "WSL", "作業環境", "環境"]
+published: true
+---
+
 
 こんにちは、CLI生活至上主義？の、 ひのしば です。  
 まぁ、至上主義というのは、ちょっと言い過ぎかもしれませんが、screen, vim, mutt, newsboat, pass, あとは、gitやssh 辺りを使う生活をしており、1日の作業がこれだけで完結するような事もあるような生活を送っています。  
