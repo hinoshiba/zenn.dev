@@ -196,7 +196,7 @@ Ubuntuのデフォルトのユーザホームは、`/home/<user>`ですが、mac
 ```bash
 test "${LOCAL_HOME}" == "/home/${LOCAL_WHOAMI}" || (rm -rf "/home/${LOCAL_WHOAMI}" && ln -s "${LOCAL_HOME}" "/home/${LOCAL_WHOAMI}" && usermod -d "${LOCAL_HOME}" "${LOCAL_WHOAMI}")
 ```
-[該当箇所](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/dockerfiles/workbench/exec_user.sh#L28)  
+[上記のexec_user.shの該当箇所リンク](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/dockerfiles/workbench/exec_user.sh#L28)  
 
 動作としては、[Makefileで環境変数LOCAL_HOMEを解決](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/Makefile#L36) し、`/home/<user>`ではないパターンだったらシンボリックリンクの作成と、ユーザのHomeを切り替えています。  
 
