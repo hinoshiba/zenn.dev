@@ -125,7 +125,7 @@ dockerへの引数は、毎回同じようなものを指定することも多�
 ...#省略
 	$(D) run --name $(NAME) -it $(useropt) $(rm) $(mt) $(portopt) $(dopt) $(builder)/$(TGT) $(INIT_SHELL)
 ```
-[Makefileのこちらのセクション](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/Makefile#L52) で、
+[上記例が含まれるMakefileへのリンク](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/Makefile#L52)  
 
 合わせて、以下のような手順を作成し、利用前の準備として作成する運用をしています。  
 https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/docs/workbench/setup.md  
