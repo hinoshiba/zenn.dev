@@ -154,10 +154,37 @@ LXCと異なり、Dockerは何も考えないとコンテナ内部のユーザ�
 具体的には、[exec_users.sh](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/dockerfiles/workbench/exec_user.sh) というスクリプトを用意しており、以下の工程でユーザを作成しています。  
 
 1. 呼び出し元Makefileにて、makeファイルを呼び出したUID, GID, Usernameを解決
-2. docker runの環境変数に、UID, GID, Usernameを含めることで、本スクリプトが受け取り一致するユーザを作成する
+2. docker runの環境変数に、UID, GID, Usernameを含めることで、本スクリプトが受け取り、ユーザがいない場合、一致するユーザを作成する
+	```bash
+	USER_ID=${LOCAL_UID:-9001}
+	GROUP_ID=${LOCAL_GID:-9001}
+
+	getent passwd ${LOCAL_WHOAMI} > /dev/null && exec_usershell
+
+	echo "Starting with UID : $USER_ID, GID: $GROUP_ID"
+	useradd -u $USER_ID -o -m ${LOCAL_WHOAMI}
+	groupmod -g $GROUP_ID ${LOCAL_WHOAMI}
+	passwd -d ${LOCAL_WHOAMI}
+	usermod -L ${LOCAL_WHOAMI}
+	```
 3. sudo等の必要なグループへの追加
+	```bash
+	gpasswd -a ${LOCAL_WHOAMI} docker
+	...
+	echo "${LOCAL_WHOAMI} ALL=NOPASSWD: ALL" | sudo EDITOR='tee -a' visudo
+	```
 4. キャッシュファイル、設定ファイルのコピーや生成
+	```bash
+	chown -R ${LOCAL_WHOAMI}:${LOCAL_WHOAMI} /etc/dotfiles
+	...
+	sudo -u ${LOCAL_WHOAMI} cp /etc/dotfiles/bashrc /home/${LOCAL_WHOAMI}/.bashrc
+	# 等の続く処理...
+	```
 5. 作成したユーザにて、/bin/bashを呼び出すsudoを、execする
+	```bash
+	cd "${LOCAL_HOME}"
+	exec sudo -u ${LOCAL_WHOAMI} /bin/bash
+	```
 
 作成中に、sudoへの追加も行っているので、一般ユーザを作成したとしてもsudoによって後からコンテナに何か特権変更を加える事も可能としています。  
 ごく稀に何か足りなかった際に、`apt install`などができるため、重宝します。  
