@@ -117,9 +117,9 @@ https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af94
 先ほどあげた`pip`などで間違えてグローバルインストールした際などが該当します。  
 恒久的に欲しいと思ったものは、Dockerfileに追加すれば良いですし、`pip`で追加したものが一時的なもので恒久的に不要であれば、コンテナを上げ直せば元に戻ります。  
 
-しかし、それらの観点とは別に、
-残しておきたい、作業中のファイルやhistroyファイル。  
-残しておくと処理が楽になるcacheファイル等
+しかし、それらの観点とは別に、  
+残しておきたい、作業中のファイルやhistoryファイル。  
+残しておくと処理が楽になるcacheファイル等  
 があります。  
 
 これらについては、`.shared_cache`や`~/git`、`work`といったファイルを[ホストと共有するといったMakefile](https://github.com/hinoshiba/dockerfiles/blob/73efd001cea6d4998121944db52ad0af9431543b/Makefile#L43) を用意しており、コンテナを削除してもファイルが残るようにしています。  
