@@ -47,6 +47,7 @@ published: false
 * CVE-2024-2003: ESET Windows上で権限昇格の脆弱性
     * https://securityonline.info/eset-issues-security-patch-for-privilege-escalation-flaw-in-windows-products/
 
+
 # その他
 * MMCを利用したGrimResourceと呼ばれる新たなる攻撃手法
     * https://www.bleepingcomputer.com/news/security/new-grimresource-attack-uses-msc-files-and-windows-xss-flaw-to-breach-networks/
