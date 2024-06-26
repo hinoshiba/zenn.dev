@@ -27,11 +27,18 @@ published: false
 * ANYRUN フィッシング被害により電子メールが確認を受ける。本番環境への影響はないとのこと
     * https://securityonline.info/any-run-confirms-security-incident-involving-employee-email-compromise/
     * https://x.com/anyrun_app/status/1804157392935870466
+    * https://www.securityweek.com/malware-sandbox-any-run-targeted-in-phishing-attack/
+* WordPress Plugin のいくつかに悪意のあるバックドアが含まれる
+    * https://www.bleepingcomputer.com/news/security/plugins-on-wordpressorg-backdoored-in-supply-chain-attack/
+    * https://www.darkreading.com/cloud-security/wordpress-supply-chain-attack-multiple-plug-ins
+    * https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html
+    * https://www.security-next.com/158850
 
 # 脆弱性
 
 * CVE-2024-5739 LINE UXSS
     * https://www.security-next.com/158827
+    * https://news.mynavi.jp/techplus/article/20240624-2971510/
 * CVE-2024-5756: WordPress Plugin Email Subscribers SQLi
     * https://securityonline.info/cve-2024-5756-cvss-9-8-critical-icegram-express-flaw-puts-90000-wordpress-sites-at-risk/
 * CVE-2024-27815: Apple 6月中旬に修正したカーネル上で任意のコードを実行できる脆弱性、PoCリリース
@@ -42,15 +49,25 @@ published: false
     * https://patchstack.com/database/vulnerability/salon-booking-system/wordpress-salon-booking-system-plugin-9-9-arbitrary-file-deletion-vulnerability
 * CVE-2024-0762: Lenvo端末においてUEFI上の不具合から、バッファオーバフローの脆弱性の可能性
     * https://www.security-next.com/158794
+    * https://news.mynavi.jp/techplus/article/20240624-2970871/
 * CVE-2024-0087: 5月に公表されたNVIDIA Tritonの脆弱性。PoCリリース
     * https://securityonline.info/poc-published-for-critical-nvidia-triton-inference-server-vulnerabilities/
 * CVE-2024-2003: ESET Windows上で権限昇格の脆弱性
     * https://securityonline.info/eset-issues-security-patch-for-privilege-escalation-flaw-in-windows-products/
-
-
+* CVE-2024-5806 MOVEita 未認証のユーザによるファイルアップロード
+    * https://www.darkreading.com/remote-workforce/fresh-moveit-bug-under-attack-disclosure
+* CVE-2024-6290 to CVE-2024-6293 Google Chrome uafの脆弱性
+    * https://www.securityweek.com/chrome-126-update-patches-memory-safety-bugs/
+* CVE-2023-24871 昨年3月に修正されたWindows Bluetoothに関する脆弱性。PoCリリース
+    * https://securityonline.info/researcher-unveils-poc-for-windows-bluetooth-service-rce-vulnerability/
+* CVE-2024-5746 GHE ユーザ権限で管理者任意のコード実行の脆弱性
+    * https://www.security-next.com/158843
+* WP 6.5.5 リリース。XSS修正他
+    * https://www.security-next.com/158839
 # その他
 * MMCを利用したGrimResourceと呼ばれる新たなる攻撃手法
     * https://www.bleepingcomputer.com/news/security/new-grimresource-attack-uses-msc-files-and-windows-xss-flaw-to-breach-networks/
+    * https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html
 * シスコ、東京にサイバーセキュリティCoEを開設
     * https://news.mynavi.jp/techplus/article/20240621-2970215/
 * Kasperskey製品、米国の当局で禁止措置。他
