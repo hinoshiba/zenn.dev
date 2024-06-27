@@ -33,6 +33,9 @@ published: false
     * https://www.darkreading.com/cloud-security/wordpress-supply-chain-attack-multiple-plug-ins
     * https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html
     * https://www.security-next.com/158850
+    * https://securityboulevard.com/2024/06/wordpress-plugin-malware-richixbw/
+* Polyfill.io が売却される。マルウェアが混入され多くのサイトへ影響の可能性
+    * https://news.livedoor.com/article/detail/26673687/
 
 # 脆弱性
 
@@ -54,8 +57,12 @@ published: false
     * https://securityonline.info/poc-published-for-critical-nvidia-triton-inference-server-vulnerabilities/
 * CVE-2024-2003: ESET Windows上で権限昇格の脆弱性
     * https://securityonline.info/eset-issues-security-patch-for-privilege-escalation-flaw-in-windows-products/
-* CVE-2024-5806 MOVEita 未認証のユーザによるファイルアップロード
+* CVE-2024-5806 MOVEit Transfer 未認証のユーザによるファイルアップロード
     * https://www.darkreading.com/remote-workforce/fresh-moveit-bug-under-attack-disclosure
+    * https://www.bleepingcomputer.com/news/security/hackers-target-new-moveit-transfer-critical-auth-bypass-bug/
+    * https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html
+    * https://www.securityweek.com/exploitation-attempts-target-new-moveit-transfer-vulnerability/
+    * https://www.security-next.com/158957
 * CVE-2024-6290 to CVE-2024-6293 Google Chrome uafの脆弱性
     * https://www.securityweek.com/chrome-126-update-patches-memory-safety-bugs/
 * CVE-2023-24871 昨年3月に修正されたWindows Bluetoothに関する脆弱性。PoCリリース
@@ -64,6 +71,20 @@ published: false
     * https://www.security-next.com/158843
 * WP 6.5.5 リリース。XSS修正他
     * https://www.security-next.com/158839
+* CVE-2024-27867 AirPods等に盗聴の脆弱性
+    * https://www.darkreading.com/vulnerabilities-threats/apple-airpods-bug-allows-eavesdropping
+    * https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html
+    * https://www.security-next.com/158955
+* CVE-2024-5655 GitLab パイプライン実行のユーザ偽装
+    * https://about.gitlab.com/releases/2024/06/26/patch-release-gitlab-17-1-1-released/
+* CVE-2024-37085 ESXi 認証バイパスの脆弱性。ADを利用している場合に影響がある
+    * https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24505
+    * https://www.security-next.com/158909
+* CVE-2024-5756 WordPress Plugin Icegram Express SQLi
+    * https://www.security-next.com/158904
+* KEV追加
+    * CVE-2020-13965 Roundcube XSS
+
 # その他
 * MMCを利用したGrimResourceと呼ばれる新たなる攻撃手法
     * https://www.bleepingcomputer.com/news/security/new-grimresource-attack-uses-msc-files-and-windows-xss-flaw-to-breach-networks/
@@ -75,3 +96,7 @@ published: false
     * https://www.securityweek.com/us-bans-kaspersky-software/
     * https://securityboulevard.com/2024/06/u-s-bans-sale-of-kaspersky-cybersecurity-software/
     * https://thehackernews.com/2024/06/us-treasury-sanctions-12-kaspersky.html
+    * https://news.mynavi.jp/techplus/article/20240626-2970870/
+* GoogleChrome Core のEnterprise機能、ポリシー配布が追加
+    * https://www.securityweek.com/google-unveils-new-chrome-enterprise-core-features-for-it-security-teams/
+    * https://www.theregister.com/2024/06/26/google_chrome_enterprise/
