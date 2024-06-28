@@ -36,6 +36,7 @@ published: false
     * https://securityboulevard.com/2024/06/wordpress-plugin-malware-richixbw/
 * Polyfill.io が売却される。マルウェアが混入され多くのサイトへ影響の可能性
     * https://news.livedoor.com/article/detail/26673687/
+    * https://www.bleepingcomputer.com/news/security/cloudflare-we-never-authorized-polyfillio-to-use-our-name/
 
 # 脆弱性
 
@@ -75,13 +76,19 @@ published: false
     * https://www.darkreading.com/vulnerabilities-threats/apple-airpods-bug-allows-eavesdropping
     * https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html
     * https://www.security-next.com/158955
+    * https://news.mynavi.jp/techplus/article/20240627-2974525/
 * CVE-2024-5655 GitLab パイプライン実行のユーザ偽装
     * https://about.gitlab.com/releases/2024/06/26/patch-release-gitlab-17-1-1-released/
+    * https://www.bleepingcomputer.com/news/security/critical-gitlab-bug-lets-attackers-run-pipelines-as-any-user/
+    * https://securityonline.info/cve-2024-5655-gitlab-vulnerability/
 * CVE-2024-37085 ESXi 認証バイパスの脆弱性。ADを利用している場合に影響がある
     * https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24505
     * https://www.security-next.com/158909
 * CVE-2024-5756 WordPress Plugin Icegram Express SQLi
     * https://www.security-next.com/158904
+* CVE-2024-5276 Fotra File Cytalist RCEの脆弱性。PoCあり
+    * https://securityonline.info/cve-2024-5276-cvss-9-8-critical-sqli-flaw-in-fortra-filecatalyst-workflow-poc-available/
+    * https://thehackernews.com/2024/06/critical-sqli-vulnerability-found-in.html
 * KEV追加
     * CVE-2020-13965 Roundcube XSS
 
@@ -89,6 +96,7 @@ published: false
 * MMCを利用したGrimResourceと呼ばれる新たなる攻撃手法
     * https://www.bleepingcomputer.com/news/security/new-grimresource-attack-uses-msc-files-and-windows-xss-flaw-to-breach-networks/
     * https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html
+    * https://news.mynavi.jp/techplus/article/20240627-2972990/
 * シスコ、東京にサイバーセキュリティCoEを開設
     * https://news.mynavi.jp/techplus/article/20240621-2970215/
 * Kasperskey製品、米国の当局で禁止措置。他
@@ -100,3 +108,8 @@ published: false
 * GoogleChrome Core のEnterprise機能、ポリシー配布が追加
     * https://www.securityweek.com/google-unveils-new-chrome-enterprise-core-features-for-it-security-teams/
     * https://www.theregister.com/2024/06/26/google_chrome_enterprise/
+* Windows11 06/26リリースの更新プログラム適用後に一部端末が起動しなくなる不具合発生中
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-june-windows-11-kb5039302-update-causing-repeated-restarts/
+* BlackSuitランサムウェア集団がKADOKAWAを攻撃したとの公開
+    * https://www.bleepingcomputer.com/news/security/blacksuit-ransomware-gang-claims-attack-on-kadokawa-corporation/
+    * https://www.ransomlook.io/group/black%20suit
