@@ -34,9 +34,18 @@ published: true
     * https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html
     * https://www.security-next.com/158850
     * https://securityboulevard.com/2024/06/wordpress-plugin-malware-richixbw/
+    * https://news.mynavi.jp/techplus/article/20240628-2973724/
 * Polyfill.io が売却される。マルウェアが混入され多くのサイトへ影響の可能性
     * https://news.livedoor.com/article/detail/26673687/
     * https://www.bleepingcomputer.com/news/security/cloudflare-we-never-authorized-polyfillio-to-use-our-name/
+    * https://www.securityweek.com/polyfill-domain-shut-down-as-owner-disputes-accusations-of-malicious-activity/
+    * https://news.mynavi.jp/techplus/article/20240628-2974852/
+* APT29 がTeamViewerのネットワークへ侵入。顧客データが影響を受けた証拠は特にないとのこと
+    * https://www.darkreading.com/cyberattacks-data-breaches/teamviewer-network-segmentation-apt29-attack
+    * https://www.theregister.com/2024/06/28/teamviewer_russia/
+    * https://www.bleepingcomputer.com/news/security/teamviewer-links-corporate-cyberattack-to-russian-state-hackers/
+    * https://thehackernews.com/2024/06/teamviewer-detects-security-breach-in.html
+    * https://www.theregister.com/2024/06/28/teamviewer_network_breach/
 
 # 脆弱性
 
@@ -81,6 +90,8 @@ published: true
     * https://about.gitlab.com/releases/2024/06/26/patch-release-gitlab-17-1-1-released/
     * https://www.bleepingcomputer.com/news/security/critical-gitlab-bug-lets-attackers-run-pipelines-as-any-user/
     * https://securityonline.info/cve-2024-5655-gitlab-vulnerability/
+    * https://www.darkreading.com/application-security/critical-gitlab-bug-threatens-software-development-pipelines
+    * https://thehackernews.com/2024/06/gitlab-releases-patch-for-critical-cicd.html
 * CVE-2024-37085 ESXi 認証バイパスの脆弱性。ADを利用している場合に影響がある
     * https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24505
     * https://www.security-next.com/158909
@@ -89,6 +100,12 @@ published: true
 * CVE-2024-5276 Fotra File Cytalist RCEの脆弱性。PoCあり
     * https://securityonline.info/cve-2024-5276-cvss-9-8-critical-sqli-flaw-in-fortra-filecatalyst-workflow-poc-available/
     * https://thehackernews.com/2024/06/critical-sqli-vulnerability-found-in.html
+    * https://www.securityweek.com/fortra-patches-critical-sql-injection-in-filecatalyst-workflow/
+* CVE-2024-36072 CoCoSys社のDLP製品に対するRCE
+    * https://securityonline.info/cve-2024-36072-unauthenticated-rce-flaw-in-cososys-endpoint-protector
+* CVE-2024-2973 Juniper Session  Smart Router 認証bypassの脆弱性
+    * https://thehackernews.com/2024/06/teamviewer-detects-security-breach-in.html
+    * https://www.security-next.com/159040
 * KEV追加
     * CVE-2020-13965 Roundcube XSS
 
