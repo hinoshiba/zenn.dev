@@ -16,11 +16,20 @@ published: true
 
 # 事件事故
 
+* UberやX, TikTok等で利用する本人 確認サービス AU10TIX データ漏洩の可能性。(AU10TIXとして、悪用確認は、無しとのこと)
+    * https://news.mynavi.jp/techplus/article/20240629-2975378/
+    * https://www.malwarebytes.com/blog/news/2024/06/driving-licences-and-other-official-documents-leaked-by-authentication-service-used-by-uber-tiktok-x-and-more
+
 # 攻撃、脅威
 
 # 脆弱性
 * CVE-2024-2386 WP MAPS for WordPress SQL Injectionの脆弱性
     * https://securityvulnerability.io/vulnerability/CVE-2024-2386
+* CVE-2024-5535 OpenSSL 一部API関数にDoSの脆弱性。悪用は、攻撃者の制御下に限定的
+    * https://www.security-next.com/159094
+    * https://www.openssl.org/news/secadv/20240627.txt
 # その他
 * Windows11 再起動ループ不具合改善版のWindowsUpdate配信開始
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-resumes-rollout-of-windows-11-kb5039302-update-for-most-users/
+* Microsoft クラウドサービスに関してもCVE番号を付与していくと発表
+    * https://securityonline.info/microsoft-issues-cve-numbers-for-cloud-service-vulnerabilities/

@@ -106,6 +106,7 @@ published: true
 * CVE-2024-2973 Juniper Session  Smart Router 認証bypassの脆弱性
     * https://thehackernews.com/2024/06/teamviewer-detects-security-breach-in.html
     * https://www.security-next.com/159040
+    * https://www.bleepingcomputer.com/news/security/juniper-releases-out-of-cycle-fix-for-max-severity-auth-bypass-flaw/
 * KEV追加
     * CVE-2020-13965 Roundcube XSS
 
