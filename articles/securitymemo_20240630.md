@@ -19,5 +19,8 @@ published: true
 # 攻撃、脅威
 
 # 脆弱性
-
+* CVE-2024-2386 WP MAPS for WordPress SQL Injectionの脆弱性
+    * https://securityvulnerability.io/vulnerability/CVE-2024-2386
 # その他
+* Windows11 再起動ループ不具合改善版のWindowsUpdate配信開始
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-resumes-rollout-of-windows-11-kb5039302-update-for-most-users/
