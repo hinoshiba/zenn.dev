@@ -21,11 +21,15 @@ published: true
     * https://www.malwarebytes.com/blog/news/2024/06/driving-licences-and-other-official-documents-leaked-by-authentication-service-used-by-uber-tiktok-x-and-more
 * オーストラリア男性、空港や飛行機でのevil twin Wifiにより起訴
     * https://thehackernews.com/2024/07/australian-man-charged-for-fake-wi-fi.html
+    * https://www.darkreading.com/remote-workforce/hacker-busted-for-evil-twin-wi-fi-that-steals-airline-passenger-data
 
 # 攻撃、脅威
 
 * クボタクレジット ランサムウェア
     * https://www.itmedia.co.jp/news/articles/2407/01/news155.html
+* NTT ルーマニア拠点への不正アクセスに関して
+    * https://ascii.jp/elem/000/004/207/4207986/
+    * https://www.security-next.com/159248
 
 # 脆弱性
 * CVE-2024-2386 WP MAPS for WordPress SQL Injectionの脆弱性
@@ -44,6 +48,8 @@ published: true
     * https://securityboulevard.com/2024/07/latest-openssh-vulnerability-might-impact-14m-linux-systems/
     * https://securityboulevard.com/2024/07/openssh-remote-code-execution-vulnerability-cve-2024-6387-notification/
     * https://securityboulevard.com/2024/07/regresshion-rce-vulnerability-in-openssh-server-cve-2024-6387/
+    * https://news.mynavi.jp/techplus/article/20240703-2977749/
+    * https://www.securityweek.com/regresshion-openssh-flaw-potential-exploitation-attempts-seen-but-mass-attacks-unlikely/
 * CVE-2024-38513 Fiber セッショントークンのインジェクション脆弱性
     * https://github.com/gofiber/fiber/security/advisories/GHSA-98j2-3j3p-fw2v
     * https://nvd.nist.gov/vuln/detail/CVE-2024-38513
@@ -60,13 +66,30 @@ published: true
 * CVE-2024-21586 Juniper SRX DoS
     * https://supportportal.juniper.net/s/article/2024-07-Out-of-Cycle-Security-Bulletin-Junos-OS-SRX-Series-Specific-valid-traffic-leads-to-a-PFE-crash-CVE-2024-21586?language=en_US
     * https://www.cisa.gov/news-events/alerts/2024/07/02/juniper-networks-releases-security-bulletin-junos-os-srx-series
+    * https://securityonline.info/cve-2024-21586-juniper-srx-vulnerability-leaves-networks-open-to-attack/
 * CVE-2024-36985 Splunk Enterprise RCE
     * https://www.securityweek.com/splunk-patches-high-severity-vulnerabilities-in-enterprise-product/
+    * https://www.security-next.com/159257
 * CVE-2024-36984 Splunk Enterprise for Windows
     * https://www.securityweek.com/splunk-patches-high-severity-vulnerabilities-in-enterprise-product/
 * CVE-2024-36387 や CVE-2024-39573、CVE-2024-38476 Apache HTTPD DoSを含む不具合の脆弱性
     * https://securityonline.info/multiple-vulnerabilities-in-apache-http-server-demand-immediate-action/
     * https://www.security-next.com/159166
+* CVE-2024-6172 Email Subscribers by Icegram Express SQLi
+    * https://jp.inoreader.com/article/3a9c6e7401f5f2bb-cve-2024-6172-critical-flaw-in-icegram-express-plugin-threatens-90000-wordpress-sites
+* CVE-2024-36401 GeoServer RCE
+    * https://securityonline.info/cve-2024-36401-cvss-9-8-urgent-patch-needed-for-geoserver-rce-vulnerability/
+* Gogs 任意のコード実行等の危険性
+    * https://securityonline.info/unpatched-gogs-vulnerabilities-a-ticking-time-bomb-for-source-code/
+* CVE-2024-39920 TCPの接続先を第三者にしられる可能性の脆弱性
+    * https://vulners.com/nvd/NVD:CVE-2024-39920
+    * https://nvd.nist.gov/vuln/detail/CVE-2024-39920
+* CVE-2024-38366 CVE-2024-38367 CVE-2024-38368 CocoaPodsの脆弱性によりAppleデバイスサプライチェーンアタックの危機
+    * https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html
+    * https://www.darkreading.com/cloud-security/apple-cocoapods-bugs-expose-apps-code-injection
+    * https://www.securityweek.com/critical-cocoapods-flaws-exposed-many-ios-macos-apps-to-supply-chain-attacks/
+    * https://techcratic.com/index.php/2024/07/01/3-million-ios-and-macos-apps-were-exposed-to-potent-supply-chain-attacks/ars-technica/ars-technica/
+    * https://securityboulevard.com/2024/07/cve-of-the-month-the-supply-chain-attack-hidden-for-10-years-cve-2024-38368/
 * KEV
     * CVE-2024-20399 Cisco NX-OS 管理者権限での任意のコード実行に関する脆弱性
         * https://www.bleepingcomputer.com/news/security/cisco-warns-of-nx-os-zero-day-exploited-to-deploy-custom-malware/
@@ -77,11 +100,9 @@ published: true
 * Microsoft クラウドサービスに関してもCVE番号を付与していくと発表
     * https://securityonline.info/microsoft-issues-cve-numbers-for-cloud-service-vulnerabilities/
     * https://msrc.microsoft.com/blog/2024/07/toward-greater-transparency-unveiling-cloud-service-cves-ja/
-* CocoaPodsの脆弱性によりAppleデバイスサプライチェーンアタックの危機
-    * https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html
-    * https://www.darkreading.com/cloud-security/apple-cocoapods-bugs-expose-apps-code-injection
-    * https://www.securityweek.com/critical-cocoapods-flaws-exposed-many-ios-macos-apps-to-supply-chain-attacks/
-    * https://techcratic.com/index.php/2024/07/01/3-million-ios-and-macos-apps-were-exposed-to-potent-supply-chain-attacks/ars-technica/ars-technica/
 * Google kvmCTFを開催
     * https://www.bleepingcomputer.com/news/security/google-now-pays-250-000-for-kvm-zero-day-vulnerabilities/
-
+* EU攻撃者が利用していると思われる593のCobalt Strikeを停止
+    * https://www.bleepingcomputer.com/news/security/europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals/
+* 「WSL2」のカーネルが「Linux 6.6 LTS」へ
+    * https://forest.watch.impress.co.jp/docs/news/1605152.html
