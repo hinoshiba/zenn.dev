@@ -22,6 +22,9 @@ published: true
 * オーストラリア男性、空港や飛行機でのevil twin Wifiにより起訴
     * https://thehackernews.com/2024/07/australian-man-charged-for-fake-wi-fi.html
     * https://www.darkreading.com/remote-workforce/hacker-busted-for-evil-twin-wi-fi-that-steals-airline-passenger-data
+* Twilioの2要素認証アプリ Authy が、ランダムな33milionの電話番号をリークの可能性。悪用は確認できていないが、アプリの更新を推奨
+    * https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/
+    * https://thehackernews.com/2024/07/twilios-authy-app-breach-exposes.html
 
 # 攻撃、脅威
 
@@ -30,6 +33,12 @@ published: true
 * NTT ルーマニア拠点への不正アクセスに関して
     * https://ascii.jp/elem/000/004/207/4207986/
     * https://www.security-next.com/159248
+* 愛知県豊田市 委託事業者がランサムウェア被害
+    * https://newsdig.tbs.co.jp/articles/-/1275326
+* 京都府警が事務局の情報セキュリティー支援サイト不正アクセス
+    * https://www.sankei.com/article/20240704-QLOUBGQHWNJI7BFY3LA7C5KM5U/
+* 徳島県 印刷委託先事業所がランサムウェア被害
+    * https://www.itmedia.co.jp/news/articles/2407/04/news126.html
 
 # 脆弱性
 * CVE-2024-2386 WP MAPS for WordPress SQL Injectionの脆弱性
@@ -79,7 +88,8 @@ published: true
     * https://jp.inoreader.com/article/3a9c6e7401f5f2bb-cve-2024-6172-critical-flaw-in-icegram-express-plugin-threatens-90000-wordpress-sites
 * CVE-2024-36401 GeoServer RCE
     * https://securityonline.info/cve-2024-36401-cvss-9-8-urgent-patch-needed-for-geoserver-rce-vulnerability/
-* Gogs 任意のコード実行等の危険性
+* CVE-2024-39930 Gogs 任意のコード実行等の危険性
+    * https://www.sonarsource.com/blog/securing-developer-tools-unpatched-code-vulnerabilities-in-gogs-1/
     * https://securityonline.info/unpatched-gogs-vulnerabilities-a-ticking-time-bomb-for-source-code/
 * CVE-2024-39920 TCPの接続先を第三者にしられる可能性の脆弱性
     * https://vulners.com/nvd/NVD:CVE-2024-39920
@@ -90,6 +100,14 @@ published: true
     * https://www.securityweek.com/critical-cocoapods-flaws-exposed-many-ios-macos-apps-to-supply-chain-attacks/
     * https://techcratic.com/index.php/2024/07/01/3-million-ios-and-macos-apps-were-exposed-to-potent-supply-chain-attacks/ars-technica/ars-technica/
     * https://securityboulevard.com/2024/07/cve-of-the-month-the-supply-chain-attack-hidden-for-10-years-cve-2024-38368/
+    * https://news.mynavi.jp/techplus/article/20240704-2978515/
+    * https://www.itmedia.co.jp/enterprise/articles/2407/04/news062.html
+* CVE-2024-5943 wp-nested-pages XSS
+    * https://vulners.com/nvd/NVD:CVE-2024-5943
+* CVE-2024-32498 OpenStack 未認証のデータアクセスの脆弱性
+    * https://securityonline.info/cve-2024-32498-critical-openstack-flaw-exposes-cloud-data-to-attackers/
+* CVE-2024-37726 MSI Center 権限昇格の脆弱性。PoCあり
+    * https://securityonline.info/cve-2024-37726-msi-center-flaw-exposes-windows-systems-to-privilege-escalation-attacks/
 * KEV
     * CVE-2024-20399 Cisco NX-OS 管理者権限での任意のコード実行に関する脆弱性
         * https://www.bleepingcomputer.com/news/security/cisco-warns-of-nx-os-zero-day-exploited-to-deploy-custom-malware/
@@ -104,5 +122,14 @@ published: true
     * https://www.bleepingcomputer.com/news/security/google-now-pays-250-000-for-kvm-zero-day-vulnerabilities/
 * EU攻撃者が利用していると思われる593のCobalt Strikeを停止
     * https://www.bleepingcomputer.com/news/security/europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals/
+    * https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html
+    * https://www.security-next.com/159268
 * 「WSL2」のカーネルが「Linux 6.6 LTS」へ
     * https://forest.watch.impress.co.jp/docs/news/1605152.html
+* AnyRun Windows10 64bit すべてのユーザが利用できる形に。
+    * https://any.run/cybersecurity-blog/windows-10-sandbox/
+* 7/15よりWindows11 開発向け仮想マシン、VMWare及びParallels版、提供一時停止
+    * https://forest.watch.impress.co.jp/docs/news/1605627.html
+* ChatGPTアプリケーション、会話履歴をplain textで保存。mac上に。
+    * https://www.itmedia.co.jp/news/articles/2407/04/news083.html
+    * https://news.mynavi.jp/techplus/article/20240704-2979220/
