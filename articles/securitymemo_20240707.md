@@ -1,18 +1,6 @@
-サイバーセキュリティニュースをメモする
-===
-
-## title format
-
-```
-yyyy/mm/dd 週 セキュリティニュース メモ
-```
-
-## template
-
-```md
 ---
-title: "yyyy/mm/dd 週 セキュリティニュースメモ"
-emoji: "🔖"
+title: "2024/07/07 週 セキュリティニュースメモ"
+emoji: "🎋"
 type: "tech"
 topics: ["Security"]
 published: false
@@ -31,8 +19,15 @@ published: false
 
 # 攻撃、脅威
 
+* 2023/10 のJAXA不正アクセス、起点は、VPN
+    * https://www.security-next.com/159383
+    * https://www.jaxa.jp/press/2024/07/20240705-2_j.html
+
 # 脆弱性
+* CVE-2024-34750 Apache Tomcat DoSの脆弱性
+    * https://jvn.jp/vu/JVNVU90387090/index.html
+* CVE-2024-36991 Splunk パスとラバーサルの脆弱性
+    * https://nvd.nist.gov/vuln/detail/CVE-2024-36991
+    * https://github.com/bigb0x/CVE-2024-36991
 
 # その他
-
-```

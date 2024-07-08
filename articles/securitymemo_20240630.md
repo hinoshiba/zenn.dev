@@ -9,6 +9,7 @@ published: true
 # はじめに
 * 自身なりに気になったセキュリティ情報の **私のメモ** です
 * 毎週日曜日起点で作成し、土曜日まで、その週の記事を更新し続けます
+    * zennでの公開は、翌週の記事を作成したタイミングで実施します。ただし、GitHub上では常にpublicです。早いのはGitHubです
 * あくまで、発見した週に記入します
     * 1週間以上前の出来事は、極力日付を入れる気持ちではいますが、確実性はありません
     * 今週にhinoshibaが見つけたニュースである事に留意ください
@@ -25,6 +26,7 @@ published: true
 * Twilioの2要素認証アプリ Authy が、ランダムな33milionの電話番号をリークの可能性。悪用は確認できていないが、アプリの更新を推奨
     * https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/
     * https://thehackernews.com/2024/07/twilios-authy-app-breach-exposes.html
+    * https://news.mynavi.jp/techplus/article/20240705-2979511/
 
 # 攻撃、脅威
 
@@ -39,6 +41,9 @@ published: true
     * https://www.sankei.com/article/20240704-QLOUBGQHWNJI7BFY3LA7C5KM5U/
 * 徳島県 印刷委託先事業所がランサムウェア被害
     * https://www.itmedia.co.jp/news/articles/2407/04/news126.html
+* Cloudflare BGPハイジャックにより 1.1.1.1のDNSサーバへの到達が不可となっていた
+    * https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/
+    * https://securityonline.info/cloudflares-1-1-1-1-dns-service-disrupted-by-bgp-hijacking-and-route-leak/
 
 # 脆弱性
 * CVE-2024-2386 WP MAPS for WordPress SQL Injectionの脆弱性
@@ -59,6 +64,7 @@ published: true
     * https://securityboulevard.com/2024/07/regresshion-rce-vulnerability-in-openssh-server-cve-2024-6387/
     * https://news.mynavi.jp/techplus/article/20240703-2977749/
     * https://www.securityweek.com/regresshion-openssh-flaw-potential-exploitation-attempts-seen-but-mass-attacks-unlikely/
+    * https://securityboulevard.com/2024/07/cve-2024-6387-new-openssh-regresshion-vulnerability-gives-hackers-root-access-on-linux-servers-700000-linux-boxes-potentially-at-risk/
 * CVE-2024-38513 Fiber セッショントークンのインジェクション脆弱性
     * https://github.com/gofiber/fiber/security/advisories/GHSA-98j2-3j3p-fw2v
     * https://nvd.nist.gov/vuln/detail/CVE-2024-38513
@@ -84,6 +90,9 @@ published: true
 * CVE-2024-36387 や CVE-2024-39573、CVE-2024-38476 Apache HTTPD DoSを含む不具合の脆弱性
     * https://securityonline.info/multiple-vulnerabilities-in-apache-http-server-demand-immediate-action/
     * https://www.security-next.com/159166
+* CVE-2024-39884 Apache HTTPD コンテンツタイプの設定が無視され、ソースを応答してしまう可能性の脆弱性
+    * https://www.security-next.com/159345
+    * https://securityonline.info/apache-http-server-update-patches-critical-source-code-disclosure-flaw-cve-2024-39884/
 * CVE-2024-6172 Email Subscribers by Icegram Express SQLi
     * https://jp.inoreader.com/article/3a9c6e7401f5f2bb-cve-2024-6172-critical-flaw-in-icegram-express-plugin-threatens-90000-wordpress-sites
 * CVE-2024-36401 GeoServer RCE
@@ -108,6 +117,9 @@ published: true
     * https://securityonline.info/cve-2024-32498-critical-openstack-flaw-exposes-cloud-data-to-attackers/
 * CVE-2024-37726 MSI Center 権限昇格の脆弱性。PoCあり
     * https://securityonline.info/cve-2024-37726-msi-center-flaw-exposes-windows-systems-to-privilege-escalation-attacks/
+* CVE-2024-6376 MongoDB Compass システムへのコードインジェクションの脆弱性
+    * https://securityonline.info/cve-2024-6376-cvss-9-8-in-mongodb-compass-exposes-systems-to-code-injection-risks/
+    * https://www.security-next.com/159403
 * KEV
     * CVE-2024-20399 Cisco NX-OS 管理者権限での任意のコード実行に関する脆弱性
         * https://www.bleepingcomputer.com/news/security/cisco-warns-of-nx-os-zero-day-exploited-to-deploy-custom-malware/
