@@ -100,6 +100,7 @@ published: true
 * CVE-2024-39930 Gogs 任意のコード実行等の危険性
     * https://www.sonarsource.com/blog/securing-developer-tools-unpatched-code-vulnerabilities-in-gogs-1/
     * https://securityonline.info/unpatched-gogs-vulnerabilities-a-ticking-time-bomb-for-source-code/
+    * https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html
 * CVE-2024-39920 TCPの接続先を第三者にしられる可能性の脆弱性
     * https://vulners.com/nvd/NVD:CVE-2024-39920
     * https://nvd.nist.gov/vuln/detail/CVE-2024-39920
