@@ -37,6 +37,43 @@ published: false
     * https://www.security-next.com/159425
 * CVE-2024-39349 Synology Camera 任意のコード実行の脆弱性
     * https://securityonline.info/cve-2024-39349-cvss-9-8-critical-vulnerability-in-synology-surveillance-cameras/
+* CVE-2024-5441 WordPress Plugin Modern Events Calendar RCE
+    * https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-calendar-plugin-used-by-150-000-sites/
+* CVE-2024-3596 RADIUS プロトコル MitMの可能性
+    * https://www.cvedetails.com/cve/CVE-2024-3596/?q=CVE-2024-3596
+    * https://kb.cert.org/vuls/id/456537
+* CVE-2024-6409 OpenSSH RCEの脆弱性
+    * https://securityonline.info/cve-2024-6409-new-remote-code-execution-vulnerability-in-openssh/
+    * https://www.security-next.com/159488
+* CVE-2024-22274 vCentor リモートから乗っ取られる可能性
+    * https://securityonline.info/vmware-vcenter-server-rce-cve-2024-22274-poc-exposes-systems-to-remote-takeover/
+* CVE-2024-5491 CVE-2024-5492 NetScaler ADC and NetScaler Gateway Security Bulletin 未認証のユーザが他ユーザを誘導する可能性やDoS
+    * https://support.citrix.com/article/CTX677944/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20245491-and-cve20245492%20%20
+* CVE-2024-34123 Adobe Premiere Pro  信頼できないPATH探索の脆弱性
+    * https://helpx.adobe.com/security/products/premiere_pro/apsb24-46.html
+    * https://www.securityweek.com/adobe-issues-critical-patches-for-multiple-products-warns-of-code-execution-risks/
+* WindowsUpdate
+    * info
+        * https://www.securityweek.com/microsoft-warns-of-windows-hyper-v-zero-day-being-exploited/
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2024-patch-tuesday-fixes-142-flaws-4-zero-days/
+        * https://msrc.microsoft.com/update-guide/releaseNote/2024-Jul
+        * https://msrc.microsoft.com/update-guide/vulnerability
+    * publicly disclosed / exploited
+        * CVE-2024-37985 Arm: CVE-2024-37985 Systematic Identification and Characterization of Proprietary Prefetchers
+        * CVE-2024-35264 .NET and Visual Studio Remote Code Execution Vulnerability
+        * CVE-2023-38545 Hackerone: CVE-2023-38545 SOCKS5 heap buffer overflow
+        * CVE-2023-24932 Secure Boot Security Feature Bypass Vulnerability
+        * CVE-2024-38112 Windows MSHTML Platform Spoofing Vulnerability
+        * CVE-2024-38080 Windows Hyper-V Elevation of Privilege Vulnerability
+    * CVSS 9.x
+        * CVE-2024-38074 Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
+        * CVE-2024-38076 Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
+        * CVE-2024-38077 Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
+        * CVE-2024-38089 Microsoft Defender for IoT Elevation of Privilege Vulnerability
+* KEV
+    * CVE-2024-23692 Rejetto HTTP File Server Improper Neutralization of Special Elements Used in a Template Engine Vulnerability
+    * CVE-2024-38080 Microsoft Windows Hyper-V Privilege Escalation Vulnerability
+    * CVE-2024-38112 Microsoft Windows MSHTML Platform Spoofing Vulnerability
 
 # その他
 * Google ダークウェブレポート を無料開放
