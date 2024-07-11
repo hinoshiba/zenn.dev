@@ -22,6 +22,14 @@ published: false
 * 2023/10 のJAXA不正アクセス、起点は、VPN
     * https://www.security-next.com/159383
     * https://www.jaxa.jp/press/2024/07/20240705-2_j.html
+* 富士通 2024/03月のサイバー攻撃を報告
+    * https://news.mynavi.jp/techplus/article/20240710-2983063/
+    * https://www.itmedia.co.jp/news/articles/2407/10/news110.html
+* 東京海上日動 業務委託先ランサムウェア被害
+    * https://www.nikkei.com/nkd/company/article/?DisplayType=11&ng=DGXZRSP674679_Q4A710C2000000&nik_code=0070501
+    * https://newsdig.tbs.co.jp/articles/-/1287199
+    * https://article.auone.jp/detail/1/3/6/333_6_r_20240710_1720617048954903
+    * https://www.yomiuri.co.jp/national/20240710-OYT1T50177/
 
 # 脆弱性
 * CVE-2024-34750 Apache Tomcat DoSの脆弱性
@@ -42,34 +50,63 @@ published: false
 * CVE-2024-3596 RADIUS プロトコル MitMの可能性
     * https://www.cvedetails.com/cve/CVE-2024-3596/?q=CVE-2024-3596
     * https://kb.cert.org/vuls/id/456537
+    * https://securityboulevard.com/2024/07/blast-radius-mitm-md5-richixbw/
 * CVE-2024-6409 OpenSSH RCEの脆弱性
     * https://securityonline.info/cve-2024-6409-new-remote-code-execution-vulnerability-in-openssh/
     * https://www.security-next.com/159488
-* CVE-2024-22274 vCentor リモートから乗っ取られる可能性
+    * https://thehackernews.com/2024/07/new-openssh-vulnerability-discovered.html
+* CVE-2024-22274 vCentor リモートから乗っ取られる可能性 PoC 公開
     * https://securityonline.info/vmware-vcenter-server-rce-cve-2024-22274-poc-exposes-systems-to-remote-takeover/
 * CVE-2024-5491 CVE-2024-5492 NetScaler ADC and NetScaler Gateway Security Bulletin 未認証のユーザが他ユーザを誘導する可能性やDoS
     * https://support.citrix.com/article/CTX677944/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20245491-and-cve20245492%20%20
 * CVE-2024-34123 Adobe Premiere Pro  信頼できないPATH探索の脆弱性
     * https://helpx.adobe.com/security/products/premiere_pro/apsb24-46.html
     * https://www.securityweek.com/adobe-issues-critical-patches-for-multiple-products-warns-of-code-execution-risks/
+* CVE-2024-6385 GitLab 異なるユーザでパイプラインを実行できる脆弱性
+    * https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/
+* CVE-2024-22280 VMware Aria Automation に対するSQLi
+    * https://www.securityweek.com/vmware-patches-critical-sql-injection-flaw-in-aria-automation/
+    * https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24598
+* CISA OSCommand Inectionの脆弱性に警告 CVE-2024-20399, CVE-2024-3400, CVE-2024-21887) to
+    * https://www.cisa.gov/news-events/alerts/2024/07/10/cisa-and-fbi-release-secure-design-alert-eliminating-os-command-injection-vulnerabilities
+* CVE-2024-6411 WordPressPlubin ProfileGrid 権限昇格の怖
+    * https://malware.news/t/7-000-wordpress-sites-affected-by-privilege-escalation-vulnerability-in-profilegrid-wordpress-plugin/83859
+    * https://wordpress.org/plugins/profilegrid-user-profiles-groups-and-communities/
+* CVE-2024-26015 FortiOS 細工されたIPアドレスによってブロックリストをbypassできる脆弱性
+    * https://www.fortiguard.com/psirt/FG-IR-23-446
+    * https://www.security-next.com/159516
 * WindowsUpdate
     * info
         * https://www.securityweek.com/microsoft-warns-of-windows-hyper-v-zero-day-being-exploited/
         * https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2024-patch-tuesday-fixes-142-flaws-4-zero-days/
         * https://msrc.microsoft.com/update-guide/releaseNote/2024-Jul
         * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://thehackernews.com/2024/07/microsofts-july-update-patches-143.html
+        * https://securityboulevard.com/2024/07/patch-tuesday-update-july-2024/
+        * https://www.theregister.com/2024/07/10/july_2024_patch_tuesday/
+        * https://msrc.microsoft.com/blog/2024/07/202407-security-update/
     * publicly disclosed / exploited
         * CVE-2024-37985 Arm: CVE-2024-37985 Systematic Identification and Characterization of Proprietary Prefetchers
         * CVE-2024-35264 .NET and Visual Studio Remote Code Execution Vulnerability
         * CVE-2023-38545 Hackerone: CVE-2023-38545 SOCKS5 heap buffer overflow
         * CVE-2023-24932 Secure Boot Security Feature Bypass Vulnerability
         * CVE-2024-38112 Windows MSHTML Platform Spoofing Vulnerability
+            * 1年以上悪用されていた
+            * https://www.darkreading.com/application-security/attackers-have-been-leveraging-microsoft-zero-day-for-18-months
+            * https://www.bleepingcomputer.com/news/security/windows-mshtml-zero-day-used-in-malware-attacks-for-over-a-year/
+            * https://securityonline.info/check-point-research-details-0-day-flaw-cve-2024-38112-threatens-windows-users/
         * CVE-2024-38080 Windows Hyper-V Elevation of Privilege Vulnerability
     * CVSS 9.x
         * CVE-2024-38074 Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
         * CVE-2024-38076 Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
         * CVE-2024-38077 Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
         * CVE-2024-38089 Microsoft Defender for IoT Elevation of Privilege Vulnerability
+    * そのた
+        * CVE-2024-38023 SharePoint RCE
+            * PoCリリース
+                * https://www.cvedetails.com/cve/CVE-2024-38023/?q=CVE-2024-38023
+        * CVE-2024-38021 Microsoft Outlook ゼロクリックコード実行の可能性
+            * https://securityonline.info/cve-2024-38021-zero-click-vulnerability-discovered-in-microsoft-outlook/
 * KEV
     * CVE-2024-23692 Rejetto HTTP File Server Improper Neutralization of Special Elements Used in a Template Engine Vulnerability
     * CVE-2024-38080 Microsoft Windows Hyper-V Privilege Escalation Vulnerability
@@ -86,3 +123,8 @@ published: false
     * https://www.theregister.com/2024/07/08/it_only_took_41_years/
 * Windows11 22H2 EOLが今年の10月
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-22h2-reaches-end-of-service-in-october/
+* Windows Update 7月。Windows Nエディションで不具合。配信一時停止中
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-bug-causing-reboot-loops-taskbar-freezes/
+* Google 高リスク向けユーザにパスキーを提供開始
+    * https://thehackernews.com/2024/07/google-adds-passkeys-to-advanced.html
+    * https://www.bleepingcomputer.com/news/security/google-advanced-protection-program-gets-passkeys-for-high-risk-users/
