@@ -22,6 +22,7 @@ published: false
 * 2023/10 のJAXA不正アクセス、起点は、VPN
     * https://www.security-next.com/159383
     * https://www.jaxa.jp/press/2024/07/20240705-2_j.html
+    * https://www.theregister.com/2024/07/11/jaxa_m365_zeroday_attacks/
 * 富士通 2024/03月のサイバー攻撃を報告
     * https://news.mynavi.jp/techplus/article/20240710-2983063/
     * https://www.itmedia.co.jp/news/articles/2407/10/news110.html
@@ -55,6 +56,10 @@ published: false
     * https://securityonline.info/cve-2024-6409-new-remote-code-execution-vulnerability-in-openssh/
     * https://www.security-next.com/159488
     * https://thehackernews.com/2024/07/new-openssh-vulnerability-discovered.html
+    * https://www.theregister.com/2024/07/11/openssh_bug_in_rhel_9/
+* CVE-2024-5910 PaloAlto Palo Alto Networks Expedition アカウントが盗まれる可能性
+    * https://thehackernews.com/2024/07/palo-alto-networks-patches-critical.html
+    * https://securityonline.info/cve-2024-5910-critical-vulnerability-threatens-palo-alto-networks-expedition/
 * CVE-2024-22274 vCentor リモートから乗っ取られる可能性 PoC 公開
     * https://securityonline.info/vmware-vcenter-server-rce-cve-2024-22274-poc-exposes-systems-to-remote-takeover/
 * CVE-2024-5491 CVE-2024-5492 NetScaler ADC and NetScaler Gateway Security Bulletin 未認証のユーザが他ユーザを誘導する可能性やDoS
@@ -64,6 +69,9 @@ published: false
     * https://www.securityweek.com/adobe-issues-critical-patches-for-multiple-products-warns-of-code-execution-risks/
 * CVE-2024-6385 GitLab 異なるユーザでパイプラインを実行できる脆弱性
     * https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/
+    * https://www.securityweek.com/gitlab-ships-update-for-critical-pipeline-execution-vulnerability/
+    * https://thehackernews.com/2024/07/gitlab-patches-critical-flaw-allowing.html
+    * https://securityonline.info/gitlab-patches-critical-security-vulnerability-cve-2024-6385-urges-immediate-upgrade/
 * CVE-2024-22280 VMware Aria Automation に対するSQLi
     * https://www.securityweek.com/vmware-patches-critical-sql-injection-flaw-in-aria-automation/
     * https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24598
@@ -95,6 +103,7 @@ published: false
             * https://www.darkreading.com/application-security/attackers-have-been-leveraging-microsoft-zero-day-for-18-months
             * https://www.bleepingcomputer.com/news/security/windows-mshtml-zero-day-used-in-malware-attacks-for-over-a-year/
             * https://securityonline.info/check-point-research-details-0-day-flaw-cve-2024-38112-threatens-windows-users/
+            * https://news.mynavi.jp/techplus/article/20240711-2983211/
         * CVE-2024-38080 Windows Hyper-V Elevation of Privilege Vulnerability
     * CVSS 9.x
         * CVE-2024-38074 Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
@@ -111,6 +120,9 @@ published: false
     * CVE-2024-23692 Rejetto HTTP File Server Improper Neutralization of Special Elements Used in a Template Engine Vulnerability
     * CVE-2024-38080 Microsoft Windows Hyper-V Privilege Escalation Vulnerability
     * CVE-2024-38112 Microsoft Windows MSHTML Platform Spoofing Vulnerability
+* regreSSHion (CVE-2024-6387) の各社アドバイザリ
+    * https://fortiguard.fortinet.com/psirt/FG-IR-24-258
+    * https://support.citrix.com/article/CTX678072/cloud-software-group-security-advisory-for-cve20246387
 
 # その他
 * Google ダークウェブレポート を無料開放
@@ -125,6 +137,14 @@ published: false
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-22h2-reaches-end-of-service-in-october/
 * Windows Update 7月。Windows Nエディションで不具合。配信一時停止中
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-bug-causing-reboot-loops-taskbar-freezes/
+    * https://jp.inoreader.com/article/3a9c6e747b588656-windowsmicrosoftmicrosoft
 * Google 高リスク向けユーザにパスキーを提供開始
     * https://thehackernews.com/2024/07/google-adds-passkeys-to-advanced.html
     * https://www.bleepingcomputer.com/news/security/google-advanced-protection-program-gets-passkeys-for-high-risk-users/
+* Cloudflare、すべての生成AIによるクローラーをワンクリックでブロックする機能を無料で提供開始
+    * https://www.publickey1.jp/blog/24/cloudflareai.html
+    * https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click
+* 新しいフィッシングツールキット FishXProxy
+    * https://securityboulevard.com/2024/07/new-fishxproxy-phishing-kit-lowers-barriers-for-cybercriminals/
+* 【第9回】情報セキュリティ事故対応アワード
+    * https://news.mynavi.jp/techplus/article/20240711-2970146/
