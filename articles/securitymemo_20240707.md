@@ -3,7 +3,7 @@ title: "2024/07/07 週 セキュリティニュースメモ"
 emoji: "🎋"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -31,6 +31,14 @@ published: false
     * https://newsdig.tbs.co.jp/articles/-/1287199
     * https://article.auone.jp/detail/1/3/6/333_6_r_20240710_1720617048954903
     * https://www.yomiuri.co.jp/national/20240710-OYT1T50177/
+* AT&T 不正アクセスにより顧客情報やメッセージテキスト漏洩
+    * https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html
+    * https://www.darkreading.com/cyberattacks-data-breaches/att-breach-may-also-impact-millions-of-boost-cricket-h2o-customers
+    * https://www.cisa.gov/news-events/alerts/2024/07/12/att-discloses-breach-customer-data
+    * https://www.theregister.com/2024/07/12/att_110_million_call_text_logs/
+    * https://securityboulevard.com/2024/07/att-snowflake-breach-richixbw/
+    * https://databreaches.net/2024/07/12/att-says-new-hack-includes-records-of-customer-calls-texts/
+    * https://sp.m.jiji.com/article/show/3284310
 
 # 脆弱性
 * CVE-2024-34750 Apache Tomcat DoSの脆弱性
@@ -41,9 +49,6 @@ published: false
     * https://github.com/bigb0x/CVE-2024-36991
 * CVE-2024-39202 D-Link Router RCE PoCあり
     * https://gist.github.com/Swind1er/40c33f1b1549028677cb4e2e5ef69109
-* CVE-2024-6387 regreSSHion, 複数のCisco製品で修正
-    * https://securityonline.info/cisco-confirms-critical-openssh-regresshion-cve-2024-6387-flaw-in-multiple-products/
-    * https://www.security-next.com/159425
 * CVE-2024-39349 Synology Camera 任意のコード実行の脆弱性
     * https://securityonline.info/cve-2024-39349-cvss-9-8-critical-vulnerability-in-synology-surveillance-cameras/
 * CVE-2024-5441 WordPress Plugin Modern Events Calendar RCE
@@ -72,9 +77,12 @@ published: false
     * https://www.securityweek.com/gitlab-ships-update-for-critical-pipeline-execution-vulnerability/
     * https://thehackernews.com/2024/07/gitlab-patches-critical-flaw-allowing.html
     * https://securityonline.info/gitlab-patches-critical-security-vulnerability-cve-2024-6385-urges-immediate-upgrade/
+    * https://www.darkreading.com/application-security/-gitlab-sends-users-scrambling-again-with-new-ci-cd-pipeline-takeover-vuln
+    * https://www.cvedetails.com/cve/CVE-2024-6385/?q=CVE-2024-6385
 * CVE-2024-22280 VMware Aria Automation に対するSQLi
     * https://www.securityweek.com/vmware-patches-critical-sql-injection-flaw-in-aria-automation/
     * https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24598
+    * https://securityaffairs.com/165560/security/vmware-aria-automation-critical-sql-injection.html
 * CISA OSCommand Inectionの脆弱性に警告 CVE-2024-20399, CVE-2024-3400, CVE-2024-21887) to
     * https://www.cisa.gov/news-events/alerts/2024/07/10/cisa-and-fbi-release-secure-design-alert-eliminating-os-command-injection-vulnerabilities
 * CVE-2024-6411 WordPressPlubin ProfileGrid 権限昇格の怖
@@ -83,6 +91,19 @@ published: false
 * CVE-2024-26015 FortiOS 細工されたIPアドレスによってブロックリストをbypassできる脆弱性
     * https://www.fortiguard.com/psirt/FG-IR-23-446
     * https://www.security-next.com/159516
+* CVE-2024-4879 ServiceNow Jelly template Injectionによるコード実行
+    * https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1645154
+* CVE-2024-39520 Juniper JunOS 権限昇格の脆弱性
+    * https://supportportal.juniper.net/s/article/2024-07-Security-Bulletin-Junos-OS-Evolved-Multiple-CLI-parameter-processing-issues-allowing-privilege-escalation-resolved?language=en_US
+    * https://securityonline.info/juniper-junos-os-evolved-vulnerabilities-enable-root-level-compromise/
+* PSV-2023-0122 NETGEAR router XSS
+    * https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-authentication-bypass-xss-router-flaws/
+    * https://kb.netgear.com/000066264/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-Routers-PSV-2023-0122
+* PSV-2023-0138 NETGEAR 認証bypass
+    * https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-authentication-bypass-xss-router-flaws/
+    * https://kb.netgear.com/000066265/Security-Advisory-for-Authentication-Bypass-on-Some-Cable-Modem-Routers-PSV-2023-0138
+* CVE-2024-39202 D-Linkルータ RCE
+    * https://securityonline.info/cve-2024-39202-rce-flaw-found-in-d-link-dir-823x-firmware-patch-in-development/
 * WindowsUpdate
     * info
         * https://www.securityweek.com/microsoft-warns-of-windows-hyper-v-zero-day-being-exploited/
@@ -121,8 +142,11 @@ published: false
     * CVE-2024-38080 Microsoft Windows Hyper-V Privilege Escalation Vulnerability
     * CVE-2024-38112 Microsoft Windows MSHTML Platform Spoofing Vulnerability
 * regreSSHion (CVE-2024-6387) の各社アドバイザリ
+    * https://securityonline.info/cisco-confirms-critical-openssh-regresshion-cve-2024-6387-flaw-in-multiple-products/
+    * https://www.security-next.com/159425
     * https://fortiguard.fortinet.com/psirt/FG-IR-24-258
     * https://support.citrix.com/article/CTX678072/cloud-software-group-security-advisory-for-cve20246387
+    * https://securityonline.info/cloud-software-group-confirms-cve-2024-6387-exposure-in-netscaler/
 
 # その他
 * Google ダークウェブレポート を無料開放
@@ -137,7 +161,7 @@ published: false
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-22h2-reaches-end-of-service-in-october/
 * Windows Update 7月。Windows Nエディションで不具合。配信一時停止中
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-bug-causing-reboot-loops-taskbar-freezes/
-    * https://jp.inoreader.com/article/3a9c6e747b588656-windowsmicrosoftmicrosoft
+    * https://news.mynavi.jp/techplus/article/20240711-2983769/
 * Google 高リスク向けユーザにパスキーを提供開始
     * https://thehackernews.com/2024/07/google-adds-passkeys-to-advanced.html
     * https://www.bleepingcomputer.com/news/security/google-advanced-protection-program-gets-passkeys-for-high-risk-users/
@@ -148,3 +172,5 @@ published: false
     * https://securityboulevard.com/2024/07/new-fishxproxy-phishing-kit-lowers-barriers-for-cybercriminals/
 * 【第9回】情報セキュリティ事故対応アワード
     * https://news.mynavi.jp/techplus/article/20240711-2970146/
+* JPCERT/CC インシデント相談・情報提供窓口対応状況
+    * https://blogs.jpcert.or.jp/ja/2024/07/ir_consult.html
