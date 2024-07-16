@@ -21,4 +21,17 @@ published: false
 
 # 脆弱性
 
+* CVE-2024-6387 RegreSSH Windowsには影響ないとMicrosoftアドバイザリにて
+    * https://www.securityweek.com/microsoft-says-windows-not-impacted-by-regresshion-as-second-openssh-bug-is-found/
+    * https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-6387
+* CVE-2024-36435 Supermicro BMC RCE
+    * https://securityonline.info/supermicro-motherboards-vulnerable-to-critical-rce-flaw-cve-2024-36435/
+
 # その他
+* Google(Alphabet) サイバーセキュリティ企業Wizを買収の動き
+    * https://securityonline.info/alphabet-to-acquire-cybersecurity-powerhouse-wiz-for-23-billion/
+* ハッカーはPoCが公開されてから22分後に攻撃を始める Cloudflare reportより
+    * https://www.bleepingcomputer.com/news/security/hackers-use-poc-exploits-in-attacks-22-minutes-after-release/
+    * https://blog.cloudflare.com/application-security-report-2024-update
+* 能動的サイバー防御、メタ情報を第三者が監視の方向で検討
+    * https://jp.inoreader.com/article/3a9c6e74795ed544-

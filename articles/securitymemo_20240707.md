@@ -39,6 +39,7 @@ published: true
     * https://securityboulevard.com/2024/07/att-snowflake-breach-richixbw/
     * https://databreaches.net/2024/07/12/att-says-new-hack-includes-records-of-customer-calls-texts/
     * https://sp.m.jiji.com/article/show/3284310
+    * https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/
 
 # 脆弱性
 * CVE-2024-34750 Apache Tomcat DoSの脆弱性
