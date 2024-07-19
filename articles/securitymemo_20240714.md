@@ -25,11 +25,14 @@ published: false
     * https://securityboulevard.com/2024/07/disney-nullbulge-slack-hack-richixbw/
     * https://news.mynavi.jp/techplus/article/20240717-2987418/
 * イセトー、ランサムウェア被害。和歌山市等
-   * https://www.mbs.jp/news/kansainews/20240716/GE00058909.shtml   
-   * https://scan.netsecurity.ne.jp/article/2024/07/17/51316.html 
+    * https://www.mbs.jp/news/kansainews/20240716/GE00058909.shtml
+    * https://scan.netsecurity.ne.jp/article/2024/07/17/51316.html
 * 東京ガスや子会社で個人情報流出の可能性 - 約416万人分
     * https://www.security-next.com/159799
     * https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS8zLzYvNDA3XzZfcl8yMDI0MDcxN18xNzIxMjA1MDYxNzE4MzA40gEA?oc=5
+    * https://cybersecurity-jp.com/news/98371
+* イベントディスプレー会社の「ムラヤマ」ランサムウェア被害を発表
+    * https://nordot.app/1186550069899084473?c=768367547562557440
 
 # 脆弱性
 
@@ -43,17 +46,27 @@ published: false
     * https://www.bleepingcomputer.com/news/security/cisa-warns-critical-geoserver-geotools-rce-flaw-is-exploited-in-attacks/
     * https://thehackernews.com/2024/07/cisa-warns-of-actively-exploited-rce.html
 * CVE-2024-20419 Cisco SSM 未認証のパスワード変更の脆弱性
-   * https://securityvulnerability.io/vulnerability/CVE-2024-20419  
-   * https://securityonline.info/cve-2024-20419-cvss-10-critical-flaw-in-cisco-smart-software-manager-opens-door-to-account-takeover/
-   * https://www.bleepingcomputer.com/news/security/cisco-ssm-on-prem-bug-lets-hackers-change-any-users-password/
+    * https://securityvulnerability.io/vulnerability/CVE-2024-20419  
+    * https://securityonline.info/cve-2024-20419-cvss-10-critical-flaw-in-cisco-smart-software-manager-opens-door-to-account-takeover/
+    * https://www.bleepingcomputer.com/news/security/cisco-ssm-on-prem-bug-lets-hackers-change-any-users-password/
+    * https://jp.inoreader.com/article/3a9c6e747f651129-cisco-releases-security-updates-for-multiple-products
+    * https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html
 * CVE-2024-20435 Cisco AsyncOS 任意のコード実行の脆弱性
    * https://vulners.com/nvd/NVD:CVE-2024-20435  
+    * https://jp.inoreader.com/article/3a9c6e747f651129-cisco-releases-security-updates-for-multiple-products
 * CVE-2024-20401 Cisco Secure Email Gateway 未認証のファイルアップロードの脆弱性
-   * https://vulners.com/nvd/NVD:CVE-2024-20401   
-   * https://securityonline.info/critical-security-flaw-in-cisco-secure-email-gateway-cve-2024-20401/
+    * https://vulners.com/nvd/NVD:CVE-2024-20401   
+    * https://securityonline.info/critical-security-flaw-in-cisco-secure-email-gateway-cve-2024-20401/
+    * https://jp.inoreader.com/article/3a9c6e747f651129-cisco-releases-security-updates-for-multiple-products
+    * https://www.bleepingcomputer.com/news/security/critical-cisco-bug-lets-hackers-add-root-users-on-seg-devices/
+    * https://www.security-next.com/159834
 * CVE-2024-3738 Ivanti EPM SQLi
     * https://securityonline.info/ivanti-patches-sqli-vulnerability-cve-2024-37381-in-endpoint-management-software/
     * https://securityonline.info/ivanti-patches-sqli-vulnerability-cve-2024-37381-in-endpoint-management-software/
+    * https://jp.inoreader.com/article/3a9c6e747f6f34d5-ivanti-releases-security-updates-for-endpoint-manager
+* CVE-2024-40898 Apache HTTP Server on Windows  SSRFによりNTMLハッシュがリークする可能性
+    * https://vulners.com/nvd/NVD:CVE-2024-40898?utm_source=rss&utm_medium=rss&utm_campaign=rss&utm_source=feedly
+    * https://httpd.apache.org/security/vulnerabilities_24.html
 * CVE-2024-27348 Apache HugeGraph RCE
     * https://thehackernews.com/2024/07/critical-apache-hugegraph-vulnerability.html 
 * CVE-2024-4143 HP AMI BIOS 権限昇格の脆弱性
@@ -61,6 +74,8 @@ published: false
 * CVE-2024-6695 WordPress Plugin Profile Builder 管理者権限の窃取
    * https://wpscan.com/blog/unauthenticated-privilege-escalation-in-profile-builder-plugin/
    * https://securityonline.info/cve-2024-6695-cvss-9-8-in-popular-wordpress-plugin-exposes-50000-sites-to-admin-hijacking/ 
+* CVE-2024-23469 他 SolarWinds 任意のコード実行の脆弱性
+    * https://www.bleepingcomputer.com/news/security/solarwinds-fixes-8-critical-bugs-in-access-rights-audit-software/
 * KEV
     * CVE-2024-36401 GeoServer GeoTools Eval Injection Vulnerability
     * CVE-2024-34102 Adobe Commerce and Magento Open Source Improper Restriction of XML External Entity Reference (XXE) Vulnerability
@@ -87,3 +102,9 @@ published: false
     * https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvZW50ZXJwcmlzZS9hcnRpY2xlcy8yNDA3LzE3L25ld3MwNTcuaHRtbNIBAA
 * Exchange Online adds Inbound DANE
     * https://www.bleepingcomputer.com/news/microsoft/exchange-online-adds-inbound-dane-with-dnssec-for-security-boost/ 
+* OpenAI 監査向け等のエンタープライズAPIを提供
+    * https://www.securityweek.com/openai-rolls-out-compliance-api-and-integrations-for-chatgpt-enterprise/
+* Windows11 写真アプリが起動しない不具合を修正
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-blocking-windows-11-photos-from-starting/
+* Thunderbird NebulaUIリリース
+    * https://www.theregister.com/2024/07/18/thunderbird_128_nebula/
