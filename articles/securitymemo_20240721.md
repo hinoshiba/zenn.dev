@@ -17,16 +17,25 @@ published: false
 
 # 事件事故
 
+* Crowdstrike Falconの世界的な不具合、修正ツールをMicrosoftが配布
+    * https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959
+    * https://www.securityweek.com/microsoft-says-8-5-million-windows-devices-impacted-by-crowdstrike-incident-publishes-recovery-tool/
+
 # 攻撃、脅威
 
-* Crowdstrike FalconによるBSoDに関連する、RAT マルウェア配布キャンペーン
+* Crowdstrike FalconによるBSoDに関連する、マルウェア配布キャンペーン
     * https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html
+    * https://www.bleepingcomputer.com/news/security/fake-crowdstrike-fixes-target-companies-with-malware-data-wipers/
+    * https://www.crowdstrike.com/blog/likely-ecrime-actor-capitalizing-on-falcon-sensor-issues/
 
 # 脆弱性
 * CVE-2024-20416 Cisco RV340などに対する任意のコード実行
     * https://securityonline.info/cisco-warns-of-unpatched-vulnerability-cve-2024-20416-in-rv340-and-rv345-routers/
 * CVE-2024-36455 Symantec PAM 任意のコード実行の脆弱性
     * https://securityonline.info/broadcom-urges-immediate-patching-for-critical-symantec-pam-vulnerabilities/
+* CVE-2024-38437 D-Link 認証bypassの脆弱性
+    * https://cvefeed.io/vuln/detail/CVE-2024-38437
+
 # その他
 
 * Google 2025年8月にショートURLサービス`goo.gl`のサポートを終了。以降は、404になる予定
