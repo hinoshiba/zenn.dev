@@ -20,6 +20,7 @@ published: false
 * Crowdstrike Falconの世界的な不具合、修正ツールをMicrosoftが配布
     * https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959
     * https://www.securityweek.com/microsoft-says-8-5-million-windows-devices-impacted-by-crowdstrike-incident-publishes-recovery-tool/
+    * https://securityboulevard.com/2024/07/new-microsoft-recovery-tool-for-crowdstrike-issue-on-windows-endpoints/
 
 # 攻撃、脅威
 
@@ -35,9 +36,21 @@ published: false
     * https://securityonline.info/broadcom-urges-immediate-patching-for-critical-symantec-pam-vulnerabilities/
 * CVE-2024-38437 D-Link 認証bypassの脆弱性
     * https://cvefeed.io/vuln/detail/CVE-2024-38437
+* Telegram アンドロイドアプリケーション上で、悪意のあるヴィデオのより、APKファイルのインストールを促す脆弱性
+    * https://securityonline.info/evilvideo-vulnerability-zero-day-threat-targets-telegram-for-android/
+    * https://www.bleepingcomputer.com/news/security/telegram-zero-day-allowed-sending-malicious-android-apks-as-videos/
 
 # その他
 
 * Google 2025年8月にショートURLサービス`goo.gl`のサポートを終了。以降は、404になる予定
     * https://securityonline.info/google-url-shortener-ends-support-what-you-need-to-know-before-august-2025/
     * https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/
+* Google サードパーティ製Cookieのblockを撤回
+    * https://www.bleepingcomputer.com/news/security/google-rolls-back-decision-to-kill-third-party-cookies-in-chrome/
+* Thunderbird システムトレイ通知対応
+    * https://www.theregister.com/2024/07/22/mozilla_thunderbird_ffix/
+* DigitalStressをテイクダウン。NCA主導
+    * https://www.bleepingcomputer.com/news/security/police-infiltrates-takes-down-digitalstress-ddos-for-hire-service/
+* ソフトウェア等の脆弱性関連情報に関する届出状況[2024年第2四半期（4月～6月）]
+    * https://www.ipa.go.jp/security/reports/vuln/software/2024q2.html
+    * https://www.security-next.com/159975
