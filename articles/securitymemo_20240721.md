@@ -34,11 +34,25 @@ published: false
     * https://securityonline.info/cisco-warns-of-unpatched-vulnerability-cve-2024-20416-in-rv340-and-rv345-routers/
 * CVE-2024-36455 Symantec PAM 任意のコード実行の脆弱性
     * https://securityonline.info/broadcom-urges-immediate-patching-for-critical-symantec-pam-vulnerabilities/
+    * https://www.security-next.com/160031
 * CVE-2024-38437 D-Link 認証bypassの脆弱性
     * https://cvefeed.io/vuln/detail/CVE-2024-38437
 * Telegram アンドロイドアプリケーション上で、悪意のあるヴィデオのより、APKファイルのインストールを促す脆弱性
     * https://securityonline.info/evilvideo-vulnerability-zero-day-threat-targets-telegram-for-android/
     * https://www.bleepingcomputer.com/news/security/telegram-zero-day-allowed-sending-malicious-android-apks-as-videos/
+    * https://www.securityweek.com/telegram-zero-day-enabled-malware-delivery/
+    * https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-evilvideo-telegram-zero-day-malware
+* CVE-2024-40075 Laravel XXE Injection
+    * https://cvefeed.io/vuln/detail/CVE-2024-40075?utm_source=feedly
+    * https://gitee.com/Q16G/laravel_bug/blob/master/laravelBug.md
+* CVE-2024-33352 BlueStacks 攻撃者により任意の操作を行われる脆弱性
+    * https://securityonline.info/cve-2024-33352-bluestacks-vulnerability-puts-millions-of-gamers-at-risk/
+* CVE-2024-0981 Okta ブラウザプラグイン XSS
+    * https://securityonline.info/okta-patches-cross-site-scripting-flaw-cve-2024-0981-in-browser-plugin/
+* CVE-2024-41012 Linux kernel uaf
+    * https://cvefeed.io/vuln/detail/CVE-2024-41012
+* CVE-2024-1737 BIND9 キャッシュ応答が遅延する脆弱性
+    * https://cvefeed.io/vuln/detail/CVE-2024-1737
 
 # その他
 
@@ -47,10 +61,20 @@ published: false
     * https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/
 * Google サードパーティ製Cookieのblockを撤回
     * https://www.bleepingcomputer.com/news/security/google-rolls-back-decision-to-kill-third-party-cookies-in-chrome/
+    * https://www.theregister.com/2024/07/23/google_cookies_third_party_continue/
+    * https://www.securityweek.com/google-will-keep-third-party-cookies-in-chrome/
 * Thunderbird システムトレイ通知対応
     * https://www.theregister.com/2024/07/22/mozilla_thunderbird_ffix/
 * DigitalStressをテイクダウン。NCA主導
     * https://www.bleepingcomputer.com/news/security/police-infiltrates-takes-down-digitalstress-ddos-for-hire-service/
+    * https://securityonline.info/operation-poweroff-major-blow-to-global-ddos-for-hire-service/
 * ソフトウェア等の脆弱性関連情報に関する届出状況[2024年第2四半期（4月～6月）]
     * https://www.ipa.go.jp/security/reports/vuln/software/2024q2.html
     * https://www.security-next.com/159975
+* Cloudflare WARP を攻撃のGWとして利用される例
+    * https://securityonline.info/cloudflare-warp-abused-to-hijack-cloud-services-cado-security-report-reveals/
+    * https://www.cadosecurity.com/news-and-events/warpscan-cloudflare-warp-abused-to-hijack-cloud-services
+        * `Cado Security has observed several threads on sysadmin forums, where network operators are advised to allowlist all of Cloudflare’s IP ranges instead of just those specific to a given service, which is a serious security risk that makes their infrastructure directly vulnerable to attackers using WARP to launch their attacks.`
+        * memo: 以下のURLをみつつ、WARPをアクセスしてみた感じrangeは異なりそう
+            * https://www.cloudflare.com/ips/
+            * memo時点、`104[.]24[.]0[.]0/14` が最も近そうではあったが、今WARPを繋ぐと、`104[.]28[.]..`だった
