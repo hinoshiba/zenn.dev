@@ -45,6 +45,7 @@ published: false
 * CVE-2024-40075 Laravel XXE Injection
     * https://cvefeed.io/vuln/detail/CVE-2024-40075?utm_source=feedly
     * https://gitee.com/Q16G/laravel_bug/blob/master/laravelBug.md
+    * https://securityonline.info/cve-2024-40075-xxe-vulnerability-found-in-laravel-v11-x/
 * CVE-2024-33352 BlueStacks 攻撃者により任意の操作を行われる脆弱性
     * https://securityonline.info/cve-2024-33352-bluestacks-vulnerability-puts-millions-of-gamers-at-risk/
 * CVE-2024-0981 Okta ブラウザプラグイン XSS
@@ -53,6 +54,17 @@ published: false
     * https://cvefeed.io/vuln/detail/CVE-2024-41012
 * CVE-2024-1737 BIND9 キャッシュ応答が遅延する脆弱性
     * https://cvefeed.io/vuln/detail/CVE-2024-1737
+    * https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9
+* CVE-2024-41110 Docker 権限昇格の可能性。Content-Length を0にすることでAuthZプラグインの認証検証に対して不正を行う脆弱性
+    * https://www.bleepingcomputer.com/news/security/docker-fixes-critical-5-year-old-authentication-bypass-flaw/
+    * https://securityonline.info/docker-users-beware-cve-2024-41110-cvss-10-could-lead-to-system-takeover/
+* CVE-2024-39700 JupyterLab 拡張テンプレートによる任意のコード実行
+    * https://securityonline.info/cve-2024-39700-cvss-9-9-severe-flaw-in-jupyterlab-template-discovered/
+* CVE-2024-3246 WordPress Plugin LiteSpeed Cache CSRF脆弱性によるXSSの可能性
+    * https://securityonline.info/cve-2024-3246-litespeed-cache-plugin-vulnerability-puts-millions-of-wordpress-sites-at-risk/
+* KEV
+    * CVE-2012-4792 Microsoft Internet Explorer Use-After-Free Vulnerability
+    * CVE-2024-39891 Twilio Authy Information Disclosure Vulnerability
 
 # その他
 
@@ -78,3 +90,12 @@ published: false
         * memo: 以下のURLをみつつ、WARPをアクセスしてみた感じrangeは異なりそう
             * https://www.cloudflare.com/ips/
             * memo時点、`104[.]24[.]0[.]0/14` が最も近そうではあったが、今WARPを繋ぐと、`104[.]28[.]..`だった
+* 2024/07 のWindowsUpdate以降、bitlocker画面が表示されるケースがある 
+    * https://www.inoreader.com/article/3a9c6e74730ba8c9-windows-july-security-updates-send-pcs-into-bitlocker-recovery
+    * https://www.theregister.com/2024/07/24/windows_update_bitlocker/
+* Let's Encrypt OCSP のサービスを終了。2024/07/23
+    * https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html
+    * https://securityonline.info/lets-encrypt-announces-intent-to-end-ocsp-support-a-move-towards-privacy-and-efficiency/
+* Google Wizの買収、Wiz側が拒否との噂。Googleからの公式コメントは無し
+    * https://www.moomoo.com/ja/news/post/41102534/cybersecurity-unicorn-wiz-inc-declines-google-s-23-billion-offer?level=1&data_ticket=1721865292764883
+    * https://news.mynavi.jp/techplus/article/20240724-2991817/
