@@ -28,6 +28,10 @@ published: false
     * https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html
     * https://www.bleepingcomputer.com/news/security/fake-crowdstrike-fixes-target-companies-with-malware-data-wipers/
     * https://www.crowdstrike.com/blog/likely-ecrime-actor-capitalizing-on-falcon-sensor-issues/
+* BreachForums v1 212,000名の情報が流出
+    * https://www.bitdefender.com/blog/hotforsecurity/breachforums-data-leak-exposes-extensive-member-information/
+* セキュリティ企業が誤って北朝鮮の工作員採用、ディープフェイクで潜り込む
+    * https://news.mynavi.jp/techplus/article/20240725-2992619/
 
 # 脆弱性
 * CVE-2024-20416 Cisco RV340などに対する任意のコード実行
@@ -55,13 +59,31 @@ published: false
 * CVE-2024-1737 BIND9 キャッシュ応答が遅延する脆弱性
     * https://cvefeed.io/vuln/detail/CVE-2024-1737
     * https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9
+    * https://www.securityweek.com/bind-updates-resolve-high-severity-dos-vulnerabilities/
+    * https://thehackernews.com/2024/07/cisa-warns-of-exploitable.html
+    * https://securityonline.info/bind-security-updates-patch-your-dns-servers-now/
 * CVE-2024-41110 Docker 権限昇格の可能性。Content-Length を0にすることでAuthZプラグインの認証検証に対して不正を行う脆弱性
     * https://www.bleepingcomputer.com/news/security/docker-fixes-critical-5-year-old-authentication-bypass-flaw/
     * https://securityonline.info/docker-users-beware-cve-2024-41110-cvss-10-could-lead-to-system-takeover/
+    * https://jp.inoreader.com/article/3a9c6e7473aadb37-critical-docker-engine-flaw-allows-attackers-to-bypass-authorization-plugins
+    * https://www.securityweek.com/docker-patches-critical-authz-plugin-bypass-vulnerability-dating-back-to-2018/
 * CVE-2024-39700 JupyterLab 拡張テンプレートによる任意のコード実行
     * https://securityonline.info/cve-2024-39700-cvss-9-9-severe-flaw-in-jupyterlab-template-discovered/
 * CVE-2024-3246 WordPress Plugin LiteSpeed Cache CSRF脆弱性によるXSSの可能性
     * https://securityonline.info/cve-2024-3246-litespeed-cache-plugin-vulnerability-puts-millions-of-wordpress-sites-at-risk/
+* CVE-2024-6327 Progress Telerik Report Server RCEの脆弱性
+    * https://docs.telerik.com/report-server/knowledge-base/deserialization-vulnerability-cve-2024-6327
+    * https://www.bleepingcomputer.com/news/security/progress-warns-of-critical-rce-bug-in-telerik-report-server/
+* CVE-2024-39671 HarmonyOS セキュリティ検証不備
+    * https://www.cvedetails.com/cve/CVE-2024-39671/
+    * https://vuldb.com/?id.272426
+* CVE-2024-37084 Spring Cloud Data Flow RCE
+    * https://securityonline.info/cve-2024-37084-cvss-9-8-remote-code-execution-in-spring-cloud-data-flow/
+    * https://spring.io/security/cve-2024-37084
+* CVE-2024-7047 GitLab XSS
+    * https://www.cvedetails.com/cve/CVE-2024-7047/
+    * https://securityonline.info/gitlab-patches-six-security-flaws-urges-immediate-update/
+    * https://www.security-next.com/160146
 * KEV
     * CVE-2012-4792 Microsoft Internet Explorer Use-After-Free Vulnerability
     * CVE-2024-39891 Twilio Authy Information Disclosure Vulnerability
@@ -75,6 +97,7 @@ published: false
     * https://www.bleepingcomputer.com/news/security/google-rolls-back-decision-to-kill-third-party-cookies-in-chrome/
     * https://www.theregister.com/2024/07/23/google_cookies_third_party_continue/
     * https://www.securityweek.com/google-will-keep-third-party-cookies-in-chrome/
+    * https://www.darkreading.com/data-privacy/google-will-not-remove-third-party-cookies-from-chrome
 * Thunderbird システムトレイ通知対応
     * https://www.theregister.com/2024/07/22/mozilla_thunderbird_ffix/
 * DigitalStressをテイクダウン。NCA主導
@@ -99,3 +122,9 @@ published: false
 * Google Wizの買収、Wiz側が拒否との噂。Googleからの公式コメントは無し
     * https://www.moomoo.com/ja/news/post/41102534/cybersecurity-unicorn-wiz-inc-declines-google-s-23-billion-offer?level=1&data_ticket=1721865292764883
     * https://news.mynavi.jp/techplus/article/20240724-2991817/
+* OpenAI SearchGPTをアナウンス。まだ利用はできない
+    * https://www.theregister.com/2024/07/25/openai_finally_launches_searchgpt_its/
+* Windows11 バックアップが失敗する不具合を修正
+    * https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5040527-update-fixes-windows-backup-failures/
+* WindowsHelloに対する懸念。Micorosoftは3月に更新をリリース
+    * https://securityonline.info/critical-vulnerability-in-windows-hello-for-business-discovered-by-researcher/
