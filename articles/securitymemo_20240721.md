@@ -3,7 +3,7 @@ title: "2024/07/21 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -21,6 +21,8 @@ published: false
     * https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959
     * https://www.securityweek.com/microsoft-says-8-5-million-windows-devices-impacted-by-crowdstrike-incident-publishes-recovery-tool/
     * https://securityboulevard.com/2024/07/new-microsoft-recovery-tool-for-crowdstrike-issue-on-windows-endpoints/
+* GoogleChrome Passwordマネージャ、18時間認証情報が消える不具合。全体の2%のユーザ
+    * https://www.bleepingcomputer.com/news/google/google-fixes-chrome-password-manager-bug-that-hides-credentials/
 
 # 攻撃、脅威
 
@@ -32,6 +34,10 @@ published: false
     * https://www.bitdefender.com/blog/hotforsecurity/breachforums-data-leak-exposes-extensive-member-information/
 * セキュリティ企業が誤って北朝鮮の工作員採用、ディープフェイクで潜り込む
     * https://news.mynavi.jp/techplus/article/20240725-2992619/
+* 損保ジャパン出向者、千葉銀行で1万超の情報漏洩
+    * https://www.nikkei.com/article/DGXZQOUB268FA0W4A720C2000000/
+    * https://article.auone.jp/detail/1/3/6/16_2_r_20240727_1722041331876145
+    * https://toyokeizai.net/articles/-/784835?page=2
 
 # 脆弱性
 * CVE-2024-20416 Cisco RV340などに対する任意のコード実行
@@ -74,6 +80,7 @@ published: false
 * CVE-2024-6327 Progress Telerik Report Server RCEの脆弱性
     * https://docs.telerik.com/report-server/knowledge-base/deserialization-vulnerability-cve-2024-6327
     * https://www.bleepingcomputer.com/news/security/progress-warns-of-critical-rce-bug-in-telerik-report-server/
+    * https://www.securityweek.com/progress-patches-critical-telerik-report-server-vulnerability/
 * CVE-2024-39671 HarmonyOS セキュリティ検証不備
     * https://www.cvedetails.com/cve/CVE-2024-39671/
     * https://vuldb.com/?id.272426
@@ -124,7 +131,20 @@ published: false
     * https://news.mynavi.jp/techplus/article/20240724-2991817/
 * OpenAI SearchGPTをアナウンス。まだ利用はできない
     * https://www.theregister.com/2024/07/25/openai_finally_launches_searchgpt_its/
+    * https://securityonline.info/openai-introduces-searchgpt-prototype/
 * Windows11 バックアップが失敗する不具合を修正
     * https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5040527-update-fixes-windows-backup-failures/
 * WindowsHelloに対する懸念。Micorosoftは3月に更新をリリース
     * https://securityonline.info/critical-vulnerability-in-windows-hello-for-business-discovered-by-researcher/
+* Windows Server 7月アップデート、RDP不具合。ワークアラウンドあり
+    * https://www.bleepingcomputer.com/news/microsoft/july-windows-server-updates-break-remote-desktop-connections/
+* DNSキャッシュ汚染によるDoS攻撃、`TuDoor`
+    * https://securityonline.info/tudoor-attack-new-dns-vulnerability-threatens-internet-security/
+* Meta社 恐喝詐欺に関わるインスタグラムアカウント 6万3千を削除
+    * https://www.bitdefender.com/blog/hotforsecurity/meta-takes-down-60-000-accounts-on-instagram-to-disrupt-nigerian-extortion-ring/
+    * https://news.mynavi.jp/techplus/article/20240726-2993305/
+* ニコニコ動画 8/5 サービス再開
+    * https://blog.nicovideo.jp/niconews/225330.html
+* 第２回フィッシングサイト撲滅チャレンジカップ 開催中
+    * https://www.sankei.com/article/20240722-7K25SSJ5W5JKTBJI3WIHJNXWKU/
+    * https://www.jc3.or.jp/threats/topics/article-566.html
