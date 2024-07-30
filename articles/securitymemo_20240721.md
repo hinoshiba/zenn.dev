@@ -23,6 +23,9 @@ published: true
     * https://securityboulevard.com/2024/07/new-microsoft-recovery-tool-for-crowdstrike-issue-on-windows-endpoints/
 * GoogleChrome Passwordマネージャ、18時間認証情報が消える不具合。全体の2%のユーザ
     * https://www.bleepingcomputer.com/news/google/google-fixes-chrome-password-manager-bug-that-hides-credentials/
+    * https://www.theregister.com/2024/07/29/google_password_manager_outage/
+    * https://securityonline.info/google-patches-chrome-password-manager-bug-after-mass-outage/
+    * https://news.mynavi.jp/techplus/article/20240729-2994038/
 
 # 攻撃、脅威
 
