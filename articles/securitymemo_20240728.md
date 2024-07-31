@@ -17,12 +17,27 @@ published: false
 
 # 事件事故
 
+* DigiCert、ドメインコントロール検証（DCV）プロセスの不備により、数千のSSL/TLS証明書を緊急に取り消し。影響は、全検証の約0.4%であるものの、対象者は、24時間以内に証明書の再発行が必要
+    * https://www.cisa.gov/news-events/alerts/2024/07/30/digicert-certificate-revocations
+    * https://www.digicert.com/support/certificate-revocation-incident
+    * https://securityonline.info/digicert-forced-to-revoke-thousands-of-certificates-due-to-domain-validation-error/
+    * https://gbhackers.com/digicert-to-revoke-thousands/
+* たまの湯LINE会員システム 不正アクセスにより6千+4千件の個人情報漏洩の可能性
+    * https://cybersecurity-jp.com/news/98484
+    * https://www.security-next.com/160307
+
+
 # 攻撃、脅威
 * Google WorkSpaceの認証機能を用い第三者のアカウントを奪い取る不具合を修正。悪用試みがあり
     * https://securityonline.info/google-patches-workspace-authentication-flaw-thwarting-account-takeover-attempts/
 * シャープ、公式EC「COCORO STORE｣で不正アクセス　203件の個人情報流出
     * https://www.watch.impress.co.jp/docs/news/1612161.html
     * https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vc3AubS5qaWppLmNvbS9hcnRpY2xlL3Nob3cvMzI5ODAwOdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en
+* Proofpointのプラットフォームが悪用されフィッシングメールが送付される
+    * https://securityboulevard.com/2024/07/proofpoint-platform-exploited-to-send-millions-of-spoofed-phishing-emails/
+    * https://thehackernews.com/2024/07/proofpoint-email-routing-flaw-exploited.html
+* ダークウェブにて、3TBのBausch Health社の医療データ(DEA番号を含む) が販売。Snowflakeとの関係を示唆
+    * https://dailydarkweb.net/threat-actor-claims-to-sell-bausch-health-data-including-1-6-million-dea-numbers/
 
 # 脆弱性
 
@@ -32,10 +47,36 @@ published: false
     * https://www.securityweek.com/millions-of-websites-susceptible-xss-attack-via-oauth-implementation-flaw/
     * https://salt.security/blog/over-1-million-websites-are-at-risk-of-sensitive-information-leakage---xss-is-dead-long-live-xss
     * https://www.darkreading.com/endpoint-security/oauth-xss-attack-millions-web-users-account-takeover
+* CVE-2024-42225 linux kernel 未初期化のリソース使用
+    * https://cvefeed.io/vuln/detail/CVE-2024-42225
+* CVE-2024-37085 6月末に公開された ESXi 認証bypassの脆弱性がランサムウェア攻撃に用いられている注意喚起
+    * https://www.bleepingcomputer.com/news/security/cisa-warns-of-vmware-esxi-bug-exploited-in-ransomware-attacks/
+    * https://www.darkreading.com/cloud-security/ransomware-gangs-exploit-esxi-bug-for-instant-mass-encryption-of-vms
+    * https://securityonline.info/cve-2024-37085-vmware-esxi-vulnerability-exploited-by-ransomware-gangs/
+* Appleデバイスセキュリティパッチ更新
+    * https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products
+    * https://www.securityweek.com/apple-rolls-out-security-updates-for-ios-macos/
+    * https://www.security-next.com/160322
+    * https://www.security-next.com/160310
+    * CVE-2024-23296  bypass kernel memory protections
+        * https://www.bitdefender.com/blog/hotforsecurity/apple-patches-rtkit-flaw-presumably-exploited-by-hackers-on-macs/
+        * https://securityonline.info/apple-extends-zero-day-patch-to-older-macs-urges-immediate-update/
+    * CVE-2024-6387 regreSSHion
+        * https://securityonline.info/critical-openssh-vulnerability-regresshion-threatens-macos-users/
+* CVE-2024-41924 EC-CUBE4 第三者に管理者権限で任意のパッケージをインストールされる可能性
+    * https://nvd.nist.gov/vuln/detail/CVE-2024-41924
+* CVE-2024-6576 Progress MOVEit Transfer 権限昇格の脆弱性
+    * https://securityonline.info/progress-software-issues-security-alert-for-moveit-transfer-users-cve-2024-6576/
+    * https://www.security-next.com/160340
+* CVE-2024-5807 WordPress Plugin Bussiness Card, 悪意のあるPHPがアップロードされる可能性
+    * https://vulners.com/nvd/NVD:CVE-2024-5807
+* CVE-2024-6990 Google Chrome グループポリシー管理Dawnへの初期化不備
+    * https://www.security-next.com/160335
 * KEV
     * CVE-2024-4879 ServiceNow Improper Input Validation Vulnerability
     * CVE-2024-5217 ServiceNow Incomplete List of Disallowed Inputs Vulnerability
     * CVE-2023-45249 Acronis Cyber Infrastructure (ACI) Insecure Default Password Vulnerability
+    * CVE-2024-37085 VMware ESXi Authentication Bypass Vulnerability
 
 # その他
 
@@ -46,9 +87,13 @@ published: false
     * https://securityonline.info/x-formerly-twitter-silently-trains-ai-on-user-data-sparks-privacy-concerns/
 * iOS 18.1 ベータ 公開によりAppleIntelligenceのテスト利用が可能
     * https://www.bleepingcomputer.com/news/apple/apple-ios-181-beta-previews-apple-intelligence-for-the-first-time/
+    * https://www.theregister.com/2024/07/30/apple_intelligence_ai_beta/
 * 投資ファンド・日本サイバーセキュリティファンド（NCSF）は7月29日、新たに出資者として参加するセキュリティ企業13社を発表
     * https://www.itmedia.co.jp/news/articles/2407/29/news150.html
 * PKfail。UEFIセキュアブートのプラットフォームキーがGitHub上に上がっていた。暗号化されていたが４文字パスワードだった
     * https://www.theregister.com/2024/07/29/infosec_roundup/
     * https://www.binarly.io/blog/pkfail-untrusted-platform-keys-undermine-secure-boot-on-uefi-ecosystem
     * https://gigazine.net/news/20240726-pkfail/
+    * https://news.mynavi.jp/techplus/article/20240730-2993248/
+* AzureやM365にて複数のサービスが6時間以上不具合
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-365-and-azure-outage-takes-down-multiple-services/
