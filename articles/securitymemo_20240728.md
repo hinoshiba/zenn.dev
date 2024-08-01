@@ -25,11 +25,7 @@ published: false
     * https://www.bleepingcomputer.com/news/security/digicert-to-delay-cert-revocations-for-critical-infrastructure/
     * https://thehackernews.com/2024/07/digicert-to-revoke-83000-ssl.html
     * https://www.theregister.com/2024/07/31/digicert_certificates_revoked/
-* たまの湯LINE会員システム 不正アクセスにより6千+4千件の個人情報漏洩の可能性
-    * https://cybersecurity-jp.com/news/98484
-    * https://www.security-next.com/160307
-* ランサムウェアによりOneBlood Blood Bankの業務が一部遅延
-    * https://www.securityweek.com/ransomware-attack-hits-oneblood-blood-bank-disrupts-medical-operations/
+    * https://securityonline.info/digicert-revokes-certificates-what-you-need-to-know/
 * Data Breaches for the Month July 2024
     * https://securityboulevard.com/2024/07/data-breaches-for-the-month-july-2024/
 
@@ -40,6 +36,11 @@ published: false
 * シャープ、公式EC「COCORO STORE｣で不正アクセス　203件の個人情報流出
     * https://www.watch.impress.co.jp/docs/news/1612161.html
     * https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vc3AubS5qaWppLmNvbS9hcnRpY2xlL3Nob3cvMzI5ODAwOdIBAA?oc=5&hl=en-US&gl=US&ceid=US:en
+* たまの湯LINE会員システム 不正アクセスにより6千+4千件の個人情報漏洩の可能性
+    * https://cybersecurity-jp.com/news/98484
+    * https://www.security-next.com/160307
+* ランサムウェアによりOneBlood Blood Bankの業務が一部遅延
+    * https://www.securityweek.com/ransomware-attack-hits-oneblood-blood-bank-disrupts-medical-operations/
 * Proofpointのプラットフォームが悪用されフィッシングメールが送付される
     * https://securityboulevard.com/2024/07/proofpoint-platform-exploited-to-send-millions-of-spoofed-phishing-emails/
     * https://thehackernews.com/2024/07/proofpoint-email-routing-flaw-exploited.html
@@ -94,6 +95,10 @@ published: false
     * https://securityonline.info/critical-vulnerability-in-hosted-email-services-exposes-users-to-spoofing-attacks/
 * CVE-2024-36401 GeoServer RCE
     * https://securityonline.info/critical-geoserver-rce-flaw-cve-2024-36401-actively-exploited-6284-instances-vulnerable/
+* CVE-2024-6698 WordPressPlugin FundEngine 権限昇格の脆弱性
+    * https://securityvulnerability.io/vulnerability/CVE-2024-6698
+* CVE-2024-41667: OpenAM 任意のコード実行の可能性
+    * https://securityonline.info/cve-2024-41667-openam-vulnerability-exposes-authentication-systems-to-critical-risk/
 * KEV
     * CVE-2024-4879 ServiceNow Improper Input Validation Vulnerability
     * CVE-2024-5217 ServiceNow Incomplete List of Disallowed Inputs Vulnerability
@@ -123,7 +128,16 @@ published: false
     * https://www.darkreading.com/cloud-security/microsoft-azure-ddos-attack-amplified-cyber-defense-error
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-says-massive-azure-outage-was-caused-by-ddos-attack/
     * https://www.theregister.com/2024/07/31/microsoft_ddos_azure/
+    * https://securityboulevard.com/2024/07/breaking-news-microsoft-azure-faces-service-disruption-amidst-ddos-attack/
 * Skype 広告フリーに。
     * https://www.theregister.com/2024/07/31/skype_adfree/
 * IPA 情報セキュリティ白書2024
     * https://www.ipa.go.jp/publish/wp-security/2024.html
+* TryCloudflareというWebサービス確認サービスを用い、マルウェア等を配布する手口
+    * https://www.bleepingcomputer.com/news/security/hackers-abuse-free-trycloudflare-to-deliver-remote-access-malware/
+* UK当局、Russian ComsのTakeDown
+    * https://www.bleepingcomputer.com/news/security/uk-takes-down-russian-comms-caller-id-spoofing-platform-used-to-scam-170-000-people/
+* Microsoft 365 Personal and Family にて、無料のDefenderVPNを提供開始。月50GiBまで。
+    * https://securityonline.info/microsoft-365-boosts-security-with-free-defender-vpn/
+* ICI リスクアセスメントツール公開
+    * https://blog.itochuci.co.jp/entry/2024/07/31/160000
