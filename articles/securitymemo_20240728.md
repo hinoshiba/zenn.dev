@@ -22,9 +22,16 @@ published: false
     * https://www.digicert.com/support/certificate-revocation-incident
     * https://securityonline.info/digicert-forced-to-revoke-thousands-of-certificates-due-to-domain-validation-error/
     * https://gbhackers.com/digicert-to-revoke-thousands/
+    * https://www.bleepingcomputer.com/news/security/digicert-to-delay-cert-revocations-for-critical-infrastructure/
+    * https://thehackernews.com/2024/07/digicert-to-revoke-83000-ssl.html
+    * https://www.theregister.com/2024/07/31/digicert_certificates_revoked/
 * たまの湯LINE会員システム 不正アクセスにより6千+4千件の個人情報漏洩の可能性
     * https://cybersecurity-jp.com/news/98484
     * https://www.security-next.com/160307
+* ランサムウェアによりOneBlood Blood Bankの業務が一部遅延
+    * https://www.securityweek.com/ransomware-attack-hits-oneblood-blood-bank-disrupts-medical-operations/
+* Data Breaches for the Month July 2024
+    * https://securityboulevard.com/2024/07/data-breaches-for-the-month-july-2024/
 
 
 # 攻撃、脅威
@@ -53,6 +60,7 @@ published: false
     * https://www.bleepingcomputer.com/news/security/cisa-warns-of-vmware-esxi-bug-exploited-in-ransomware-attacks/
     * https://www.darkreading.com/cloud-security/ransomware-gangs-exploit-esxi-bug-for-instant-mass-encryption-of-vms
     * https://securityonline.info/cve-2024-37085-vmware-esxi-vulnerability-exploited-by-ransomware-gangs/
+    * https://www.security-next.com/160345
 * Appleデバイスセキュリティパッチ更新
     * https://www.cisa.gov/news-events/alerts/2024/07/30/apple-releases-security-updates-multiple-products
     * https://www.securityweek.com/apple-rolls-out-security-updates-for-ios-macos/
@@ -63,6 +71,8 @@ published: false
         * https://securityonline.info/apple-extends-zero-day-patch-to-older-macs-urges-immediate-update/
     * CVE-2024-6387 regreSSHion
         * https://securityonline.info/critical-openssh-vulnerability-regresshion-threatens-macos-users/
+    * ロック状態のiPhoneから連絡先等の情報をSiri経由で確認できる脆弱性
+        * https://www.darkreading.com/vulnerabilities-threats/siri-bug-enables-data-theft-on-locked-apple-devices
 * CVE-2024-41924 EC-CUBE4 第三者に管理者権限で任意のパッケージをインストールされる可能性
     * https://nvd.nist.gov/vuln/detail/CVE-2024-41924
 * CVE-2024-6576 Progress MOVEit Transfer 権限昇格の脆弱性
@@ -70,8 +80,20 @@ published: false
     * https://www.security-next.com/160340
 * CVE-2024-5807 WordPress Plugin Bussiness Card, 悪意のあるPHPがアップロードされる可能性
     * https://vulners.com/nvd/NVD:CVE-2024-5807
+* CVE-2024-6412 WordPress Plugin HTML Forms CSRF
+    * https://cvefeed.io/vuln/detail/CVE-2024-6412
 * CVE-2024-6990 Google Chrome グループポリシー管理Dawnへの初期化不備
     * https://www.security-next.com/160335
+    * https://www.bitdefender.com/blog/hotforsecurity/update-browser-google-critical-security-chrome-127-desktop-android/
+    * https://securityonline.info/urgent-chrome-update-google-patches-critical-security-flaw-cve-2024-6990/
+* CVE-2024-41947 XMLWiki XSS
+    * https://jira.xwiki.org/browse/XWIKI-21626
+* CVE-2024-7208 CVE-2024-7209 複数のSMTPサーバ、認証されたユーザがその他ユーザになりすますことができる脆弱性
+    * https://kb.cert.org/vuls/id/244112
+    * https://www.securityweek.com/vulnerabilities-enable-attackers-to-spoof-emails-from-20-million-domains/
+    * https://securityonline.info/critical-vulnerability-in-hosted-email-services-exposes-users-to-spoofing-attacks/
+* CVE-2024-36401 GeoServer RCE
+    * https://securityonline.info/critical-geoserver-rce-flaw-cve-2024-36401-actively-exploited-6284-instances-vulnerable/
 * KEV
     * CVE-2024-4879 ServiceNow Improper Input Validation Vulnerability
     * CVE-2024-5217 ServiceNow Incomplete List of Disallowed Inputs Vulnerability
@@ -95,5 +117,13 @@ published: false
     * https://www.binarly.io/blog/pkfail-untrusted-platform-keys-undermine-secure-boot-on-uefi-ecosystem
     * https://gigazine.net/news/20240726-pkfail/
     * https://news.mynavi.jp/techplus/article/20240730-2993248/
-* AzureやM365にて複数のサービスが6時間以上不具合
+* AzureやM365にて複数のサービスが8時間以上不具合。DDoSを防御する機構自体に不具合があり攻撃が増大した
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-365-and-azure-outage-takes-down-multiple-services/
+    * https://securityboulevard.com/2024/07/microsoft-ddos-attack-on-azure-services-exacerbated-by-defense-error/
+    * https://www.darkreading.com/cloud-security/microsoft-azure-ddos-attack-amplified-cyber-defense-error
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-says-massive-azure-outage-was-caused-by-ddos-attack/
+    * https://www.theregister.com/2024/07/31/microsoft_ddos_azure/
+* Skype 広告フリーに。
+    * https://www.theregister.com/2024/07/31/skype_adfree/
+* IPA 情報セキュリティ白書2024
+    * https://www.ipa.go.jp/publish/wp-security/2024.html
