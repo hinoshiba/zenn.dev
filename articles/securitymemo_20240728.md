@@ -3,7 +3,7 @@ title: "2024/07/28 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -46,9 +46,21 @@ published: false
     * https://thehackernews.com/2024/07/proofpoint-email-routing-flaw-exploited.html
 * ダークウェブにて、3TBのBausch Health社の医療データ(DEA番号を含む) が販売。Snowflakeとの関係を示唆
     * https://dailydarkweb.net/threat-actor-claims-to-sell-bausch-health-data-including-1-6-million-dea-numbers/
+* アメリカとドイツの当局、ランサムウェアの資金洗浄として利用されている暗号資産ウォレットCryptonator を押収
+    * https://www.bleepingcomputer.com/news/cryptocurrency/cryptonator-seized-for-laundering-ransom-payments-stolen-crypto/
+* イスラエルハッカー、イランのインターネットを一時停止させたと主張
+    * https://www.theregister.com/2024/08/02/israeli_hacktivists/
+* CRYPTOKAT の新しいバージョンリリース
+    * https://dailydarkweb.net/new-cryptokat-ransomware-released/
+* 印刷サービスを提供しているアイカ ランサムウェア被害
+    * https://www.printing-aika.com/pdf/240724_release.pdf
+    * https://www.security-next.com/160452
+
 
 # 脆弱性
 
+* SANSのレポートによると、Mirai Botnet のターゲットとして、OFBizのPATHとラバーサルの脆弱性を確認 CVE-2024-32213
+    * https://thehackernews.com/2024/08/mirai-botnet-targeting-ofbiz-servers.html
 * CVE-2024-5285 WP Affiliate Platform 情報削除 CSRF
     * https://wpscan.com/vulnerability/792f3904-88bd-47d1-9049-afccdd74853a/
 * OAuthの実装不備によるXSSの脆弱性。HotJar and Business Insider を例にSalt Labsが報告
@@ -99,6 +111,8 @@ published: false
     * https://securityvulnerability.io/vulnerability/CVE-2024-6698
 * CVE-2024-41667: OpenAM 任意のコード実行の可能性
     * https://securityonline.info/cve-2024-41667-openam-vulnerability-exposes-authentication-systems-to-critical-risk/
+* CVE-2024-3238 WordPress Plugin Menu CSRF, PoCあり
+    * https://cvefeed.io/vuln/detail/CVE-2024-3238
 * KEV
     * CVE-2024-4879 ServiceNow Improper Input Validation Vulnerability
     * CVE-2024-5217 ServiceNow Incomplete List of Disallowed Inputs Vulnerability
@@ -141,3 +155,9 @@ published: false
     * https://securityonline.info/microsoft-365-boosts-security-with-free-defender-vpn/
 * ICI リスクアセスメントツール公開
     * https://blog.itochuci.co.jp/entry/2024/07/31/160000
+* DuckDuckGo 検索結果からポルノやギャンブルをブロック
+    * https://www.bleepingcomputer.com/news/security/duckduckgo-blocked-in-indonesia-over-porn-gambling-search-results/
+* マイナンバーカード偽造防止アプリ、8末リリース予定
+    * https://www.theregister.com/2024/08/02/japan_smartcard_verification_app/
+* Fortinet 2GB以下メモリモデルから、SSL VPNを削除
+    * https://docs.fortinet.com/document/fortigate/7.6.0/fortios-release-notes/877104/ssl-vpn-removed-from-2gb-ram-models-for-tunnel-and-web-mode
