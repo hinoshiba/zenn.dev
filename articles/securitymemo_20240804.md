@@ -19,18 +19,37 @@ published: false
 
 # 攻撃、脅威
 
+* KADOKAWA 社、ランサムウェア攻撃の情報漏洩のお知らせ、ニュースリリース
+    * https://tp.kadokawa.co.jp/.assets/240805_release_f2Alq0nH.pdf
+
 # 脆弱性
 
 * Linuxに対する新しいクロスキャッシュ攻撃、SLUBStick。99%の成功率で任意のメモリ読み書きが可能とのこと。詳細は、[8月のUsenx Security Symposiumで発表予定](https://www.usenix.org/conference/usenixsecurity24/presentation/maar-slubstick)
     * https://www.bleepingcomputer.com/news/security/linux-kernel-impacted-by-new-slubstick-cross-cache-attack/
+    * https://securityboulevard.com/2024/08/novel-slubstick-linux-exploit-gives-attackers-full-system-control/
+    * https://www.securityweek.com/new-slubstick-attack-makes-linux-kernel-vulnerabilities-more-dangerous/
 * CVE-2024-7031 WordPress Plugin File Manager Pro 未認証のファイル編集
     * https://securityvulnerability.io/vulnerability/CVE-2024-7031
+* CVE-2024-38856 Apache OFBiz 未認証のコード実行
+    * https://seclists.org/oss-sec/2024/q3/142
+    * https://www.darkreading.com/application-security/critical-apache-ofbiz-vulnerability-allows-preauth-rce
+    * https://www.securityweek.com/apache-ofbiz-users-warned-of-new-and-exploited-vulnerabilities/
+* CVE-2024-42009 RoundCube XSS
+    * https://www.security-next.com/160511
+* KEV
+    * CVE-2018-0824 Microsoft COM for Windows Deserialization of Untrusted Data Vulnerability
 
 
 # その他
 
 * TikTok COPPA違反で米国当局から訴訟
     * https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html
+    * https://www.securityweek.com/justice-department-sues-tiktok-accusing-the-company-of-illegally-collecting-childrens-data/
 * 重要インフラ被害に報告義務検討
     * https://sp.m.jiji.com/article/show/3305304
-
+* NorthAmerica及びLatinAmerica リージョンが2時間ほどダウン Azure
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-outage-takes-down-services-across-north-america/
+* AWS Mithra 悪意のあるドメインの予測とブロックに導入
+    * https://aws.amazon.com/blogs/security/how-aws-tracks-the-clouds-biggest-security-threats-and-helps-shut-them-down/
+* IPA 長期休暇における情報セキュリティ対策ページ公開
+    * https://www.ipa.go.jp/security/anshin/measures/vacation.html

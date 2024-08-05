@@ -59,7 +59,7 @@ published: true
 
 # 脆弱性
 
-* SANSのレポートによると、Mirai Botnet のターゲットとして、OFBizのPATHとラバーサルの脆弱性を確認 CVE-2024-32213
+* SANSのレポートによると、Mirai Botnet のターゲットとして、Apache OFBizのPATHとラバーサルの脆弱性を確認 CVE-2024-32213
     * https://thehackernews.com/2024/08/mirai-botnet-targeting-ofbiz-servers.html
 * CVE-2024-5285 WP Affiliate Platform 情報削除 CSRF
     * https://wpscan.com/vulnerability/792f3904-88bd-47d1-9049-afccdd74853a/
