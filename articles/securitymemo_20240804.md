@@ -34,10 +34,21 @@ published: false
     * https://seclists.org/oss-sec/2024/q3/142
     * https://www.darkreading.com/application-security/critical-apache-ofbiz-vulnerability-allows-preauth-rce
     * https://www.securityweek.com/apache-ofbiz-users-warned-of-new-and-exploited-vulnerabilities/
+    * https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html
+* CVE-2024-36971 Google Android Kernel UAF ZeroDay
+    * https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-targeted-attacks/
+    * https://www.securityweek.com/google-patches-android-zero-day-exploited-in-targeted-attacks/
+    * https://thehackernews.com/2024/08/google-patches-new-android-kernel.html
 * CVE-2024-42009 RoundCube XSS
     * https://www.security-next.com/160511
+* CVE-2024-22169: Western Digital Discovery App コード実行の脆弱性
+    * https://securityonline.info/cve-2024-22169-western-digitals-wd-discovery-app-exposed-to-code-execution-vulnerability/
+* CVE-2024-6472 LibreOffice マクロ署名bypassの脆弱性
+    * https://www.libreoffice.org/about-us/security/advisories/CVE-2024-6472
+    * https://forest.watch.impress.co.jp/docs/news/1614129.html
 * KEV
     * CVE-2018-0824 Microsoft COM for Windows Deserialization of Untrusted Data Vulnerability
+        * https://securityonline.info/cisa-warns-of-actively-exploited-microsoft-com-for-windows-flaw/
 
 
 # その他
@@ -53,3 +64,5 @@ published: false
     * https://aws.amazon.com/blogs/security/how-aws-tracks-the-clouds-biggest-security-threats-and-helps-shut-them-down/
 * IPA 長期休暇における情報セキュリティ対策ページ公開
     * https://www.ipa.go.jp/security/anshin/measures/vacation.html
+* CISA 最高人工知能責任者（CAIO）が就任
+    * https://news.mynavi.jp/techplus/article/20240806-2997766/
