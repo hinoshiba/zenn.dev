@@ -57,7 +57,7 @@ published: false
 * CVE-2024-7532 GoogleChrome コード実行の可能性
     * https://securityonline.info/google-chrome-update-fixes-critical-code-execution-vulnerability-cve-2024-7532/
     * https://www.security-next.com/160592
-* 検出できないWindowsUpdate Downgread攻撃にて、修正済みの脆弱性を悪用。BackHat 2024にて発表
+* 検出できないWindowsUpdate Downgread攻撃にて、修正済みの脆弱性を悪用できる可能性を検証。BlackHat 2024にて発表
     * https://www.bleepingcomputer.com/news/microsoft/windows-update-downgrade-attack-unpatches-fully-updated-systems/
     * https://www.securityweek.com/safebreach-sounds-alarm-on-windows-update-flaws-allowing-undetectable-downgrade-attacks/
 * KEV
