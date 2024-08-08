@@ -21,6 +21,8 @@ published: false
 
 * KADOKAWA 社、ランサムウェア攻撃の情報漏洩のお知らせ、ニュースリリース
     * https://tp.kadokawa.co.jp/.assets/240805_release_f2Alq0nH.pdf
+* SHARP オンラインストアサイトへの攻撃、ココロストアに加え、ヘルシオデリも。
+    * https://news.goo.ne.jp/article/netkeizai/business/netkeizai-12150.html
 
 # 脆弱性
 
@@ -28,6 +30,8 @@ published: false
     * https://www.bleepingcomputer.com/news/security/linux-kernel-impacted-by-new-slubstick-cross-cache-attack/
     * https://securityboulevard.com/2024/08/novel-slubstick-linux-exploit-gives-attackers-full-system-control/
     * https://www.securityweek.com/new-slubstick-attack-makes-linux-kernel-vulnerabilities-more-dangerous/
+    * https://thehackernews.com/2024/08/new-linux-kernel-exploit-technique.html
+    * https://www.security-next.com/160619
 * CVE-2024-7031 WordPress Plugin File Manager Pro 未認証のファイル編集
     * https://securityvulnerability.io/vulnerability/CVE-2024-7031
 * CVE-2024-38856 Apache OFBiz 未認証のコード実行
@@ -35,21 +39,36 @@ published: false
     * https://www.darkreading.com/application-security/critical-apache-ofbiz-vulnerability-allows-preauth-rce
     * https://www.securityweek.com/apache-ofbiz-users-warned-of-new-and-exploited-vulnerabilities/
     * https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html
-* CVE-2024-36971 Google Android Kernel UAF ZeroDay
-    * https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-targeted-attacks/
-    * https://www.securityweek.com/google-patches-android-zero-day-exploited-in-targeted-attacks/
-    * https://thehackernews.com/2024/08/google-patches-new-android-kernel.html
 * CVE-2024-42009 RoundCube XSS
     * https://www.security-next.com/160511
+    * https://thehackernews.com/2024/08/roundcube-webmail-flaws-allow-hackers.html
 * CVE-2024-22169: Western Digital Discovery App コード実行の脆弱性
     * https://securityonline.info/cve-2024-22169-western-digitals-wd-discovery-app-exposed-to-code-execution-vulnerability/
 * CVE-2024-6472 LibreOffice マクロ署名bypassの脆弱性
     * https://www.libreoffice.org/about-us/security/advisories/CVE-2024-6472
     * https://forest.watch.impress.co.jp/docs/news/1614129.html
+* CVE-2024-43044 Jenkins 外部からのライブラリ読み込みによる任意のコード実行の脆弱性
+    * https://github.com/advisories/GHSA-h856-ffvv-xvr4
+    * https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-attacks/
+* CVE-2024-4885 6月末に公開されたProgressの脆弱性、PoCリリース
+    * https://www.cvedetails.com/cve/CVE-2024-4885/?q=CVE-2024-4885
+* CVE-2024-37287 Kibana 任意のコード実行
+    * https://securityonline.info/cve-2024-37287-cvss-9-9-urgent-kibana-patch-for-severe-security-vulnerability/
+* CVE-2024-7532 GoogleChrome コード実行の可能性
+    * https://securityonline.info/google-chrome-update-fixes-critical-code-execution-vulnerability-cve-2024-7532/
+    * https://www.security-next.com/160592
+* 検出できないWindowsUpdate Downgread攻撃にて、修正済みの脆弱性を悪用。BackHat 2024にて発表
+    * https://www.bleepingcomputer.com/news/microsoft/windows-update-downgrade-attack-unpatches-fully-updated-systems/
+    * https://www.securityweek.com/safebreach-sounds-alarm-on-windows-update-flaws-allowing-undetectable-downgrade-attacks/
 * KEV
     * CVE-2018-0824 Microsoft COM for Windows Deserialization of Untrusted Data Vulnerability
         * https://securityonline.info/cisa-warns-of-actively-exploited-microsoft-com-for-windows-flaw/
-
+    * CVE-2024-36971 Android Kernel Remote Code Execution Vulnerability
+        * CVE-2024-36971 Google Android Kernel UAF ZeroDay
+            * https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-targeted-attacks/
+            * https://www.securityweek.com/google-patches-android-zero-day-exploited-in-targeted-attacks/
+            * https://thehackernews.com/2024/08/google-patches-new-android-kernel.html
+    * CVE-2024-32113 Apache OFBiz Path Traversal Vulnerability
 
 # その他
 
@@ -66,3 +85,7 @@ published: false
     * https://www.ipa.go.jp/security/anshin/measures/vacation.html
 * CISA 最高人工知能責任者（CAIO）が就任
     * https://news.mynavi.jp/techplus/article/20240806-2997766/
+* Crowdstrike センサーへのアップデートをユーザ側でコントロールできるようにする
+    * https://www.darkreading.com/cyber-risk/crowdstrike-will-give-customers-control-over-falcon-sensor-content-updates
+* アメリカジョージア州、自治体の公式サイトの脆弱性で誰でも勝手に「他人の有権者登録取り消しのリクエスト」を送信可能だった
+    * https://gigazine.net/news/20240808-anyone-request-cancellation-voter-registrations/
