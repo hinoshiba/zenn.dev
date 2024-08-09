@@ -34,11 +34,12 @@ published: false
     * https://www.security-next.com/160619
 * CVE-2024-7031 WordPress Plugin File Manager Pro 未認証のファイル編集
     * https://securityvulnerability.io/vulnerability/CVE-2024-7031
-* CVE-2024-38856 Apache OFBiz 未認証のコード実行
+* CVE-2024-38856 Apache OFBiz 未認証のコード実行。PoCあり
     * https://seclists.org/oss-sec/2024/q3/142
     * https://www.darkreading.com/application-security/critical-apache-ofbiz-vulnerability-allows-preauth-rce
     * https://www.securityweek.com/apache-ofbiz-users-warned-of-new-and-exploited-vulnerabilities/
     * https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html
+    * https://securityonline.info/poc-exploit-released-for-apache-ofbiz-remote-code-execution-flaw-cve-2024-38856/
 * CVE-2024-42009 RoundCube XSS
     * https://www.security-next.com/160511
     * https://thehackernews.com/2024/08/roundcube-webmail-flaws-allow-hackers.html
@@ -60,6 +61,25 @@ published: false
 * 検出できないWindowsUpdate Downgread攻撃にて、修正済みの脆弱性を悪用できる可能性を検証。BlackHat 2024にて発表
     * https://www.bleepingcomputer.com/news/microsoft/windows-update-downgrade-attack-unpatches-fully-updated-systems/
     * https://www.securityweek.com/safebreach-sounds-alarm-on-windows-update-flaws-allowing-undetectable-downgrade-attacks/
+    * https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html
+* CVE-2024-7553 MongoDB Windows上での権限昇格
+    * https://securityonline.info/mongodb-patches-high-severity-windows-vulnerability-cve-2024-7553-in-multiple-products/
+* CVE-2024-42218 1Password for macOS キーチェーン上のデータを盗む脆弱性
+    * https://securityonline.info/1password-updates-macos-app-to-fix-vulnerabilities-cve-2024-42218-and-cve-2024-42219/
+    * https://www.theregister.com/2024/08/08/using_1password_on_mac_patch/
+* CVE-2024-20451 and CVE-2024-20453 Cisco ビジネス向けのIP-Phone DoSの脆弱性。サポート切れのため適用されないデバイスもある
+    * https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-rce-zero-days-in-end-of-life-ip-phones/
+    * https://securityonline.info/cisco-small-business-ip-phones-affected-by-critical-vulnerabilities-no-patch/
+* CVE-2024-20419 7月に修正されたCisco SSMの脆弱性、PoCリリース
+    * https://securityonline.info/cisco-warns-of-public-poc-exploit-code-of-critical-cve-2024-20419-cvss-10-flaw/
+* CVE-2024-42005 Django SQLi
+    * https://www.security-next.com/160699
+* CVE-2024-3035 GitLab LFSトークンの権限チェックにより、任意のリポジトリへアクセス可能な脆弱性
+    * https://www.security-next.com/160658
+* `0[.]0[.]0[.]0` にアクセスするとlocalhostへアクセスできる脆弱性
+    * https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html
+    * https://securityonline.info/zero-day-vulnerability-18-years-of-exploiting-the-0-0-0-0-flaw/
+    * https://gigazine.net/news/20240808-block-ip-address-0000/
 * KEV
     * CVE-2018-0824 Microsoft COM for Windows Deserialization of Untrusted Data Vulnerability
         * https://securityonline.info/cisa-warns-of-actively-exploited-microsoft-com-for-windows-flaw/
@@ -69,6 +89,7 @@ published: false
             * https://www.securityweek.com/google-patches-android-zero-day-exploited-in-targeted-attacks/
             * https://thehackernews.com/2024/08/google-patches-new-android-kernel.html
     * CVE-2024-32113 Apache OFBiz Path Traversal Vulnerability
+        * https://www.bleepingcomputer.com/news/security/cisa-warns-about-actively-exploited-apache-ofbiz-rce-flaw/
 
 # その他
 
@@ -89,3 +110,5 @@ published: false
     * https://www.darkreading.com/cyber-risk/crowdstrike-will-give-customers-control-over-falcon-sensor-content-updates
 * アメリカジョージア州、自治体の公式サイトの脆弱性で誰でも勝手に「他人の有権者登録取り消しのリクエスト」を送信可能だった
     * https://gigazine.net/news/20240808-anyone-request-cancellation-voter-registrations/
+* AWSにアカウント窃取の脆弱性があった
+    * https://www.securityweek.com/aws-patches-vulnerabilities-potentially-allowing-account-takeovers/
