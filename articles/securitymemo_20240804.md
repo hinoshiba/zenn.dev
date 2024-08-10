@@ -121,7 +121,7 @@ published: true
     * https://gigazine.net/news/20240808-anyone-request-cancellation-voter-registrations/
 * AWSにアカウント窃取の脆弱性があった
     * https://www.securityweek.com/aws-patches-vulnerabilities-potentially-allowing-account-takeovers/
-* トレンドマイクロ、売却
+* トレンドマイクロ、売却を検討か？
     * https://news.mynavi.jp/techplus/article/20240809-3002563/
     * https://jp.reuters.com/markets/japan/funds/HPWQCGJWYJPVZPIQ54HR25SNUQ-2024-08-08/
 
