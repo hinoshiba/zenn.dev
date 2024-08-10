@@ -17,12 +17,17 @@ published: false
 
 # 事件事故
 
+* Yahoo！ JAPAN ID 第三者にメールを閲覧される不具合
+    * https://www.security-next.com/160742
+
 # 攻撃、脅威
 
 * KADOKAWA 社、ランサムウェア攻撃の情報漏洩のお知らせ、ニュースリリース
     * https://tp.kadokawa.co.jp/.assets/240805_release_f2Alq0nH.pdf
 * SHARP オンラインストアサイトへの攻撃、ココロストアに加え、ヘルシオデリも。
     * https://news.goo.ne.jp/article/netkeizai/business/netkeizai-12150.html
+* フロリダ州金融規制局のデータベースを流出させたと主張
+    * https://dailydarkweb.net/threat-actor-claims-to-leak-8-6-million-records-from-florida-office-of-financial-regulation/
 
 # 脆弱性
 
@@ -62,6 +67,7 @@ published: false
     * https://www.bleepingcomputer.com/news/microsoft/windows-update-downgrade-attack-unpatches-fully-updated-systems/
     * https://www.securityweek.com/safebreach-sounds-alarm-on-windows-update-flaws-allowing-undetectable-downgrade-attacks/
     * https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html
+    * https://www.itmedia.co.jp/enterprise/articles/2408/09/news059.html
 * CVE-2024-7553 MongoDB Windows上での権限昇格
     * https://securityonline.info/mongodb-patches-high-severity-windows-vulnerability-cve-2024-7553-in-multiple-products/
 * CVE-2024-42218 1Password for macOS キーチェーン上のデータを盗む脆弱性
@@ -74,12 +80,15 @@ published: false
     * https://securityonline.info/cisco-warns-of-public-poc-exploit-code-of-critical-cve-2024-20419-cvss-10-flaw/
 * CVE-2024-42005 Django SQLi
     * https://www.security-next.com/160699
+    * https://securityonline.info/django-releases-security-updates-to-address-critical-flaw-cve-2024-42005-cvss-9-8/
 * CVE-2024-3035 GitLab LFSトークンの権限チェックにより、任意のリポジトリへアクセス可能な脆弱性
     * https://www.security-next.com/160658
+* CVE-2023-31315 AMD SinkClose と呼ばれるCPUの権限昇格の脆弱性
 * `0[.]0[.]0[.]0` にアクセスするとlocalhostへアクセスできる脆弱性
     * https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html
     * https://securityonline.info/zero-day-vulnerability-18-years-of-exploiting-the-0-0-0-0-flaw/
     * https://gigazine.net/news/20240808-block-ip-address-0000/
+    * https://www.theregister.com/2024/08/09/0000_day_bug/
 * KEV
     * CVE-2018-0824 Microsoft COM for Windows Deserialization of Untrusted Data Vulnerability
         * https://securityonline.info/cisa-warns-of-actively-exploited-microsoft-com-for-windows-flaw/
@@ -112,3 +121,7 @@ published: false
     * https://gigazine.net/news/20240808-anyone-request-cancellation-voter-registrations/
 * AWSにアカウント窃取の脆弱性があった
     * https://www.securityweek.com/aws-patches-vulnerabilities-potentially-allowing-account-takeovers/
+* トレンドマイクロ、売却
+    * https://news.mynavi.jp/techplus/article/20240809-3002563/
+    * https://jp.reuters.com/markets/japan/funds/HPWQCGJWYJPVZPIQ54HR25SNUQ-2024-08-08/
+

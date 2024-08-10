@@ -48,6 +48,7 @@ published: true
     * https://www.security-next.com/159799
     * https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS8zLzYvNDA3XzZfcl8yMDI0MDcxN18xNzIxMjA1MDYxNzE4MzA40gEA?oc=5
     * https://cybersecurity-jp.com/news/98371
+    * https://xtech.nikkei.com/atcl/nxt/news/24/01202/
     * 福岡市水道局の顧客データ22万4000件漏えいか　業務委託先の東京ガス子会社に不正アクセス
         * https://www.nishinippon.co.jp/item/n/1236515/
     * 熊本市の水道事業で不正アクセス
