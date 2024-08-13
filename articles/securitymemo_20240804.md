@@ -84,11 +84,13 @@ published: true
 * CVE-2024-3035 GitLab LFSトークンの権限チェックにより、任意のリポジトリへアクセス可能な脆弱性
     * https://www.security-next.com/160658
 * CVE-2023-31315 AMD SinkClose と呼ばれるCPUの権限昇格の脆弱性
+    * https://www.darkreading.com/remote-workforce/amd-issues-updates-for-silicon-level-sinkclose-flaw
 * `0[.]0[.]0[.]0` にアクセスするとlocalhostへアクセスできる脆弱性
     * https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html
     * https://securityonline.info/zero-day-vulnerability-18-years-of-exploiting-the-0-0-0-0-flaw/
     * https://gigazine.net/news/20240808-block-ip-address-0000/
     * https://www.theregister.com/2024/08/09/0000_day_bug/
+    * https://news.mynavi.jp/techplus/article/20240812-3002641/
 * KEV
     * CVE-2018-0824 Microsoft COM for Windows Deserialization of Untrusted Data Vulnerability
         * https://securityonline.info/cisa-warns-of-actively-exploited-microsoft-com-for-windows-flaw/
