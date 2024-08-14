@@ -37,6 +37,8 @@ published: true
     * https://www.securityweek.com/new-slubstick-attack-makes-linux-kernel-vulnerabilities-more-dangerous/
     * https://thehackernews.com/2024/08/new-linux-kernel-exploit-technique.html
     * https://www.security-next.com/160619
+    * https://news.mynavi.jp/techplus/article/20240813-3002171/
+    * https://github.com/IAIK/SLUBStick
 * CVE-2024-7031 WordPress Plugin File Manager Pro 未認証のファイル編集
     * https://securityvulnerability.io/vulnerability/CVE-2024-7031
 * CVE-2024-38856 Apache OFBiz 未認証のコード実行。PoCあり
@@ -85,6 +87,8 @@ published: true
     * https://www.security-next.com/160658
 * CVE-2023-31315 AMD SinkClose と呼ばれるCPUの権限昇格の脆弱性
     * https://www.darkreading.com/remote-workforce/amd-issues-updates-for-silicon-level-sinkclose-flaw
+    * https://www.securityweek.com/amd-says-new-sinkclose-cpu-vulnerability-only-affects-seriously-breached-systems/
+    * https://www.theregister.com/2024/08/13/amd_sinkclose_patches/
 * `0[.]0[.]0[.]0` にアクセスするとlocalhostへアクセスできる脆弱性
     * https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html
     * https://securityonline.info/zero-day-vulnerability-18-years-of-exploiting-the-0-0-0-0-flaw/
