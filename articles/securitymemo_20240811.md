@@ -3,7 +3,7 @@ title: "2024/08/11 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -17,13 +17,16 @@ published: false
 
 # 事件事故
 
+* 東京海上の｢マネードクター｣出向者が情報漏洩
+    * https://article.auone.jp/detail/1/3/6/7_6_r_20240815_1723723418376368
+    * https://article.auone.jp/detail/1/3/6/214_6_r_20240815_1723720972446315
+    * https://article.auone.jp/detail/1/3/6/333_6_r_20240815_1723720508514721
+
 # 攻撃、脅威
 
 # 脆弱性
 
-* CVE-2024-38200 MicrosoftOfficeを通じて、NTLMハッシュを窃取する脆弱性。機能アップデートで配布済み。最終盤は、8月のWindowsUpdateで配布予定
-    * https://www.bleepingcomputer.com/news/security/microsoft-discloses-unpatched-office-flaw-that-exposes-ntlm-hashes/
-    * https://securityonline.info/cve-2024-38200-zero-day-vulnerability-in-microsoft-office-a-call-for-urgent-action/
+
 * CVE-2024-7589 FreeBSD 系のOpenSSH 任意のコード実行の脆弱性
     * https://securityonline.info/cve-2024-7589-openssh-pre-authentication-vulnerability-in-freebsd-exposes-systems-to-rce/
     * https://thehackernews.com/2024/08/freebsd-releases-urgent-patch-for-high.html
@@ -48,6 +51,16 @@ published: false
     * https://securityonline.info/cve-2024-22116-cvss-9-9-critical-rce-vulnerability-found-in-zabbix-monitoring-solution/
     * https://support.zabbix.com/browse/ZBX-25016
     * https://www.security-next.com/160763
+* CVE-2024-38808 Spring Framework DoS
+    * https://www.security-next.com/160811
+* CVE-2024-37287 Kibana 認証済みRCE
+    * https://www.security-next.com/160807
+* CVE-2024-28986 SolarWinds 任意のコード実行の可能性
+    * https://thehackernews.com/2024/08/solarwinds-releases-patch-for-critical.html
+    * https://www.security-next.com/160825
+    * https://www.bleepingcomputer.com/news/security/cisa-warns-critical-solarwinds-rce-bug-is-exploited-in-attacks/
+* CVE-2024-5914 Paloalto Cortex XSOAR 未認証のコード実行
+    * https://www.securityweek.com/palo-alto-networks-patches-unauthenticated-command-execution-flaw-in-cortex-xsoar/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -59,8 +72,12 @@ published: false
         * https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2024-patch-tuesday-fixes-9-zero-days-6-exploited/
         * https://www.cisa.gov/news-events/alerts/2024/08/13/microsoft-releases-august-2024-security-updates
         * https://www.security-next.com/160776
+        * https://jp.inoreader.com/article/3a9c6e746e122d67-microsoft-issues-patches-for-90-flaws-including-10-critical-zero-day-exploits
         * M365 Defender WindowsServerにおいてネットワーク保護機能が壊れている不具合、8月のアップデートで修正
             * https://www.bleepingcomputer.com/news/microsoft/windows-server-august-updates-fix-microsoft-365-defender-issue/
+        * 7月に発生したWindowsUpdate後にBitLocker画面になる問題を修正。Windows11
+            * https://www.theregister.com/2024/08/14/microsoft_bitlocker_bug_security_update/
+            * https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-bitlocker-security-fix-advises-manual-mitigation/
     * cve
         * Publicly Discosed
             * CVE-2024-21302 Windows Secure Kernel Mode Elevation of Privilege Vulnerability
@@ -78,6 +95,17 @@ published: false
                 * プレビューペインでも発火
             * CVE-2024-38171 Microsoft PowerPoint Remote Code Execution Vulnerabilit
                 * プレビューペインでも発火
+            * CVE-2024-38063 Zero-click Windows TCP/IP RCE
+                * https://www.bleepingcomputer.com/news/microsoft/zero-click-windows-tcp-ip-rce-impacts-all-systems-with-ipv6-enabled-patch-now/
+                * https://securityonline.info/cve-2024-38063-cvss-9-8-0-click-rce-affects-all-windows-systems/
+                * https://www.securityweek.com/zero-click-exploit-concerns-drive-urgent-patching-of-windows-tcp-ip-flaw/
+                * https://x.com/Liliaceae/status/1823859318875415006
+                * https://learn.microsoft.com/ja-jp/troubleshoot/windows-server/networking/configure-ipv6-in-windows
+                * https://www.itmedia.co.jp/enterprise/articles/2408/16/news054.html
+            * CVE-2024-38200 MicrosoftOfficeを通じて、NTLMハッシュを窃取する脆弱性。機能アップデートで配布済み。最終盤は、8月のWindowsUpdateで配布予定
+                * https://www.bleepingcomputer.com/news/security/microsoft-discloses-unpatched-office-flaw-that-exposes-ntlm-hashes/
+                * https://securityonline.info/cve-2024-38200-zero-day-vulnerability-in-microsoft-office-a-call-for-urgent-action/
+                * https://news.mynavi.jp/techplus/article/20240814-3004721/
 * KEV
     * CVE-2024-38189 Microsoft Project Remote Code Execution Vulnerability
     * CVE-2024-38107 Microsoft Windows Power Dependency Coordinator Privilege Escalation Vulnerability
@@ -85,6 +113,7 @@ published: false
     * CVE-2024-38213 Microsoft Windows SmartScreen Security Feature Bypass Vulnerability
     * CVE-2024-38193 Microsoft Windows Ancillary Function Driver for WinSock Privilege Escalation Vulnerability
     * CVE-2024-38178 Microsoft Windows Scripting Engine Memory Corruption Vulnerability
+    * CVE-2024-28986 SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability
 
 # その他
 
@@ -97,6 +126,8 @@ published: false
 * NIST Post-Quantum暗号標準を最終決定
     * https://www.darkreading.com/endpoint-security/nist-finalizes-post-quantum-encryption-standards
     * https://securityboulevard.com/2024/08/nist-announces-the-first-3-post-quantum-cryptography-standards-ready-or-not/
+    * https://www.darkreading.com/endpoint-security/nist-releases-3-post-quantum-standards-urges-orgs-to-start-pqc-journey
+    * https://securityboulevard.com/2024/08/nist-releases-first-post-quantum-encryption-algorithms/
 * FBI Radar/Dispossessor ランサムウェアサーバを停止
     * https://www.darkreading.com/cyberattacks-data-breaches/fbi-shuts-down-dozens-of-radar-dispossessor-ransomware-servers
     * https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html
@@ -105,3 +136,13 @@ published: false
     * https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5041585-cumulative-update-released-with-fixes-new-features/
 * Google Cloudサービス、2時間以上停止。イギリス
     * https://securityonline.info/google-cloud-services-disrupted-in-uk-due-to-power-outage/
+* GitHub GitHub Copilot Autofix を発表 8/14
+    * https://www.okinawatimes.co.jp/articles/-/1416346
+* Windows11 FAT32のサイズ上限を2TBへ。
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-fat32-partition-size-limit-in-windows-11/
+* Outlookがクラッシュする不具合。ワークアラウンドあり
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-crashing-after-opening/
+* Microsoft 段階的にMFA強制を実施していく。アクセスを失わないために、2024/10月を目標に、管理者はMFAを有効に。
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-enable-mfa-or-lose-access-to-admin-portals-in-october/
+* EdgeにPDFを読み込ませることで、Copilotによる支援
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-pdf-reader-is-getting-more-copilot-ai-features/
