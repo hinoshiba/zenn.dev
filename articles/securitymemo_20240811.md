@@ -89,6 +89,8 @@ published: true
             * CVE-2024-38213 Windows Mark of the Web Security Feature Bypass Vulnerability
                 * https://www.bleepingcomputer.com/news/microsoft/new-windows-smartscreen-bypass-exploited-as-zero-day-since-march/
             * CVE-2024-38193 Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability
+                * https://www.securityweek.com/windows-zero-day-attack-linked-to-north-koreas-lazarus-apt/
+                * https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html
             * CVE-2024-38178 Scripting Engine Memory Corruption Vulnerability
         * その他
             * CVE-2024-38173 Microsoft Outlook Remote Code Execution Vulnerability
@@ -102,6 +104,7 @@ published: true
                 * https://x.com/Liliaceae/status/1823859318875415006
                 * https://learn.microsoft.com/ja-jp/troubleshoot/windows-server/networking/configure-ipv6-in-windows
                 * https://www.itmedia.co.jp/enterprise/articles/2408/16/news054.html
+                * https://securityonline.info/beware-of-fake-poc-exploits-for-0-click-rce-cve-2024-38063-on-github/
             * CVE-2024-38200 MicrosoftOfficeを通じて、NTLMハッシュを窃取する脆弱性。機能アップデートで配布済み。最終盤は、8月のWindowsUpdateで配布予定
                 * https://www.bleepingcomputer.com/news/security/microsoft-discloses-unpatched-office-flaw-that-exposes-ntlm-hashes/
                 * https://securityonline.info/cve-2024-38200-zero-day-vulnerability-in-microsoft-office-a-call-for-urgent-action/
@@ -144,5 +147,6 @@ published: true
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-crashing-after-opening/
 * Microsoft 段階的にMFA強制を実施していく。アクセスを失わないために、2024/10月を目標に、管理者はMFAを有効に。
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-enable-mfa-or-lose-access-to-admin-portals-in-october/
+    * https://www.securityweek.com/microsoft-announces-mandatory-mfa-for-azure/
 * EdgeにPDFを読み込ませることで、Copilotによる支援
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-pdf-reader-is-getting-more-copilot-ai-features/

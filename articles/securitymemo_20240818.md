@@ -26,6 +26,15 @@ published: false
     * https://gigazine.net/news/20240817-cfius-tmobile-60-million-usd-penalty/
 
 # 脆弱性
+* macOS上で動作するOfficeソフトに、ライブラリインジェクションの脆弱性があるとCiscoTalosリサーチャ報告。Microsoftは修正予定無しとのこと
+    * https://www.darkreading.com/remote-workforce/multiple-microsoft-apps-for-macos-vuln-to-malicious-library-injection-attacks
+    * https://www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/
+* CVE-2024-7646 k8s ingress-nginx 認証bypass
+    * https://securityonline.info/cve-2024-7646-a-threat-to-kubernetes-clusters-running-ingress-nginx/
+* KEV
+    * CVE-2024-23897 Jenkins Command Line Interface (CLI) Path Traversal Vulnerability
+        * https://www.bleepingcomputer.com/news/security/cisa-warns-of-jenkins-rce-bug-exploited-in-ransomware-attacks/
+        * https://www.security-next.com/160926
 
 # その他
 * Windows11 24H2 より、BitLockerがデフォルトに。
