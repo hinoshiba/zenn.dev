@@ -81,6 +81,8 @@ published: true
     * cve
         * Publicly Discosed
             * CVE-2024-21302 Windows Secure Kernel Mode Elevation of Privilege Vulnerability
+                * PoC公開
+                    * https://securityonline.info/poc-exploit-for-windows-0-day-flaws-cve-2024-38202-and-cve-2024-21302-released/
             * CVE-2024-38199 Windows Line Printer Daemon (LPD) Service Remote Code Execution Vulnerability
         * Exploited
             * CVE-2024-38189 Microsoft Project Remote Code Execution Vulnerability
@@ -148,5 +150,6 @@ published: true
 * Microsoft 段階的にMFA強制を実施していく。アクセスを失わないために、2024/10月を目標に、管理者はMFAを有効に。
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-enable-mfa-or-lose-access-to-admin-portals-in-october/
     * https://www.securityweek.com/microsoft-announces-mandatory-mfa-for-azure/
+    * https://www.darkreading.com/identity-access-management-security/microsoft-will-require-mfa-for-azure-services
 * EdgeにPDFを読み込ませることで、Copilotによる支援
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-pdf-reader-is-getting-more-copilot-ai-features/
