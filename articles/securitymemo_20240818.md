@@ -52,7 +52,32 @@ published: false
     * https://securityonline.info/f5-issues-security-advisories-for-nginx-plus-cve-2024-39792-big-ip-next-central-manager-cve-2024-39809/
 * CVE-2024-5932 WordPress Plugin GiveWP 任意のコード実行の脆弱性
     * https://securityonline.info/cve-2024-5932-cvss-10-critical-rce-vulnerability-impacts-100k-wordpress-sites/
+    * https://www.bitdefender.com/blog/hotforsecurity/over-100-000-wordpress-websites-vulnerable-to-takeover-due-to-critical-donation-plugin-flaw/
+    * https://thehackernews.com/2024/08/givewp-wordpress-plugin-vulnerability.html
+    * https://www.security-next.com/160981
+* CVE-2024-7971 Google Chrome 任意のコード実行やブラウザクラッシュの可能性
+    * https://www.bleepingcomputer.com/news/security/google-fixes-tenth-actively-exploited-chrome-zero-day-in-2024/
+* CVE-2024-28000 WordPress Plugin LiteSpeedCache 未認証の管理者権限
+    * https://www.bleepingcomputer.com/news/security/litespeed-cache-bug-exposes-millions-of-wordpress-sites-to-takeover-attacks/
+    * https://securityonline.info/cve-2024-28000-active-exploitation-litespeed-cache-vulnerability/
+* CVE-2024-6800 GitHub Enterprise 管理者への権限昇格の脆弱性
+    * https://www.securityweek.com/critical-authentication-flaw-haunts-github-enterprise-server/
+    * https://www.bleepingcomputer.com/news/security/github-enterprise-server-vulnerable-to-critical-auth-bypass-flaw/
+    * https://securityonline.info/cve-2024-6800-cvss-9-5-critical-github-enterprise-server-flaw-patched-admin-access-at-risk/
+    * https://www.security-next.com/160998
+* CVE-2024-38021 7月に修正されたOutlookのゼロクリック攻撃、PoC公開
+    * https://securityonline.info/researcher-details-microsoft-outlook-zero-click-vulnerability-cve-2024-38021/
+* CVE-2024-7272 FFmpeg ヒープオーバーフロー PoC公開
+    * https://securityonline.info/cve-2024-7272-critical-heap-overflow-vulnerability-discovered-in-ffmpeg-poc-published/
+* CVE-2024-38810 Spring Framework 未認証のアクセス
+    * https://securityonline.info/cve-2024-38810-spring-security-flaw-leaves-applications-open-to-unauthorized-access/
+* CVE-2024-21689 Atlassian Bamboo Data Center RCE
+    * https://securityonline.info/cve-2024-21689-rce-vulnerability-in-atlassian-bamboo-data-center-and-server/
 * KEV
+    * CVE-2021-33044 Dahua IP Camera Authentication Bypass Vulnerability
+    * CVE-2021-33045 Dahua IP Camera Authentication Bypass Vulnerability
+    * CVE-2022-0185 Linux Kernel Heap-Based Buffer Overflow
+    * CVE-2021-31196 Microsoft Exchange Server Information Disclosure Vulnerability
     * CVE-2024-23897 Jenkins Command Line Interface (CLI) Path Traversal Vulnerability
         * https://www.bleepingcomputer.com/news/security/cisa-warns-of-jenkins-rce-bug-exploited-in-ransomware-attacks/
         * https://www.security-next.com/160926
@@ -64,3 +89,9 @@ published: false
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-launches-unified-teams-app-for-personal-work-accounts/
 * 8月のWindowsUpdateによりデュアルブート環境に不具合。Linux等が起動せず。
     * https://www.bleepingcomputer.com/news/microsoft/august-windows-updates-break-dual-boot-on-some-linux-systems/
+    * https://www.theregister.com/2024/08/21/microsoft_patch_dual_boot/
+    * https://www.bleepingcomputer.com/news/microsoft/august-windows-security-update-breaks-dual-boot-on-linux-systems/
+    * https://securityboulevard.com/2024/08/microsoft-linux-duel-boot-fail-richixbw/
+* Windows Recall 10月にプレビュー公開。セキュリティ懸念への対応もされる予定。詳細は公開時に合わせて情報公開予定
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-windows-recall-to-insiders-in-october/
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-windows-recall-to-insiders-in-october/

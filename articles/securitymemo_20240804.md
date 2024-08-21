@@ -70,6 +70,8 @@ published: true
     * https://www.securityweek.com/safebreach-sounds-alarm-on-windows-update-flaws-allowing-undetectable-downgrade-attacks/
     * https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html
     * https://www.itmedia.co.jp/enterprise/articles/2408/09/news059.html
+    * Windows Downgrade攻撃についてカスペルスキーが注意喚起
+        * https://www.kaspersky.com/blog/windows-downgrade-downdate-protection/52005/
 * CVE-2024-7553 MongoDB Windows上での権限昇格
     * https://securityonline.info/mongodb-patches-high-severity-windows-vulnerability-cve-2024-7553-in-multiple-products/
 * CVE-2024-42218 1Password for macOS キーチェーン上のデータを盗む脆弱性
