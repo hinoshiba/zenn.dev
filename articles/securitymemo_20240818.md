@@ -33,6 +33,8 @@ published: false
 * 豊田市 約15万人に影響 イセトーへのサイバー攻撃関連
     * https://www.nagoyatv.com/news/?id=025951
     * https://www3.nhk.or.jp/tokai-news/20240820/3000037048.html
+* Netflix 未公開のエピソードに関する情報がインターネット上に流出。セキュリティ上の問題
+    * https://www.bitdefender.com/blog/hotforsecurity/hacker-leaks-upcoming-episodes-of-netflix-shows-online-following-security-breach/
 
 # 脆弱性
 * macOS上で動作するOfficeソフトに、ライブラリインジェクションの脆弱性があるとCiscoTalosリサーチャ報告。Microsoftは修正予定無しとのこと
@@ -57,14 +59,18 @@ published: false
     * https://www.security-next.com/160981
 * CVE-2024-7971 Google Chrome 任意のコード実行やブラウザクラッシュの可能性
     * https://www.bleepingcomputer.com/news/security/google-fixes-tenth-actively-exploited-chrome-zero-day-in-2024/
+    * https://www.darkreading.com/vulnerabilities-threats/google-chrome-update-fixes-flaw-exploited-in-the-wild
+    * https://www.bleepingcomputer.com/news/security/google-fixes-ninth-actively-exploited-chrome-zero-day-in-2024/
 * CVE-2024-28000 WordPress Plugin LiteSpeedCache 未認証の管理者権限
     * https://www.bleepingcomputer.com/news/security/litespeed-cache-bug-exposes-millions-of-wordpress-sites-to-takeover-attacks/
     * https://securityonline.info/cve-2024-28000-active-exploitation-litespeed-cache-vulnerability/
+    * https://securityonline.info/cve-2024-28000-in-litespeed-cache-plugin-actively-exploited-over-30000-attacks-blocked-in-24-hours/
 * CVE-2024-6800 GitHub Enterprise 管理者への権限昇格の脆弱性
     * https://www.securityweek.com/critical-authentication-flaw-haunts-github-enterprise-server/
     * https://www.bleepingcomputer.com/news/security/github-enterprise-server-vulnerable-to-critical-auth-bypass-flaw/
     * https://securityonline.info/cve-2024-6800-cvss-9-5-critical-github-enterprise-server-flaw-patched-admin-access-at-risk/
     * https://www.security-next.com/160998
+    * https://thehackernews.com/2024/08/github-patches-critical-security-flaw.html
 * CVE-2024-38021 7月に修正されたOutlookのゼロクリック攻撃、PoC公開
     * https://securityonline.info/researcher-details-microsoft-outlook-zero-click-vulnerability-cve-2024-38021/
 * CVE-2024-7272 FFmpeg ヒープオーバーフロー PoC公開
@@ -92,6 +98,10 @@ published: false
     * https://www.theregister.com/2024/08/21/microsoft_patch_dual_boot/
     * https://www.bleepingcomputer.com/news/microsoft/august-windows-security-update-breaks-dual-boot-on-linux-systems/
     * https://securityboulevard.com/2024/08/microsoft-linux-duel-boot-fail-richixbw/
+    * 対応とワークアラウンド
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-august-updates-break-linux-boot-in-dual-boot-systems/
 * Windows Recall 10月にプレビュー公開。セキュリティ懸念への対応もされる予定。詳細は公開時に合わせて情報公開予定
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-windows-recall-to-insiders-in-october/
-    * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-windows-recall-to-insiders-in-october/
+    * https://www.theregister.com/2024/08/22/microsoft_recall_redux/
+* Windows 11 コントロールパネルの削除が開始。25H2から段階的に。
+    * https://securityonline.info/microsoft-signals-end-of-an-era-control-panel-to-be-phased-out/
