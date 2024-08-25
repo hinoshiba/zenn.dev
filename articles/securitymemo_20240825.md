@@ -34,3 +34,6 @@ published: false
 
 # その他
 
+* テレグラムCEO フランス当局に逮捕
+    * https://jp.reuters.com/world/security/RLENG7HPDFL2HLMQIDFD6GNGDE-2024-08-25/
+    * https://thehackernews.com/2024/08/telegram-founder-pavel-durov-arrested.html
