@@ -3,7 +3,7 @@ title: "2024/08/18 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -65,6 +65,7 @@ published: false
     * https://www.bleepingcomputer.com/news/security/litespeed-cache-bug-exposes-millions-of-wordpress-sites-to-takeover-attacks/
     * https://securityonline.info/cve-2024-28000-active-exploitation-litespeed-cache-vulnerability/
     * https://securityonline.info/cve-2024-28000-in-litespeed-cache-plugin-actively-exploited-over-30000-attacks-blocked-in-24-hours/
+    * https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-bug-in-litespeed-cache-plugin/
 * CVE-2024-6800 GitHub Enterprise 管理者への権限昇格の脆弱性
     * https://www.securityweek.com/critical-authentication-flaw-haunts-github-enterprise-server/
     * https://www.bleepingcomputer.com/news/security/github-enterprise-server-vulnerable-to-critical-auth-bypass-flaw/
@@ -98,8 +99,9 @@ published: false
     * https://www.theregister.com/2024/08/21/microsoft_patch_dual_boot/
     * https://www.bleepingcomputer.com/news/microsoft/august-windows-security-update-breaks-dual-boot-on-linux-systems/
     * https://securityboulevard.com/2024/08/microsoft-linux-duel-boot-fail-richixbw/
-    * 対応とワークアラウンド
+    * 修正や対応、ワークアラウンド
         * https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-august-updates-break-linux-boot-in-dual-boot-systems/
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-linux-boot-issues-on-dual-boot-systems/
 * Windows Recall 10月にプレビュー公開。セキュリティ懸念への対応もされる予定。詳細は公開時に合わせて情報公開予定
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-windows-recall-to-insiders-in-october/
     * https://www.theregister.com/2024/08/22/microsoft_recall_redux/
