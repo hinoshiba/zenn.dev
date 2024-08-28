@@ -107,6 +107,10 @@ published: true
                 * https://learn.microsoft.com/ja-jp/troubleshoot/windows-server/networking/configure-ipv6-in-windows
                 * https://www.itmedia.co.jp/enterprise/articles/2408/16/news054.html
                 * https://securityonline.info/beware-of-fake-poc-exploits-for-0-click-rce-cve-2024-38063-on-github/
+                * PoCリリース
+                    * https://www.darkreading.com/vulnerabilities-threats/poc-exploit-for-zero-click-vulnerability-made-available-to-the-masses
+                    * https://github.com/ynwarcs/CVE-2024-38063
+                    * https://securityonline.info/zero-click-windows-rce-threat-researcher-publishes-poc-exploit-for-cve-2024-38063/
             * CVE-2024-38200 MicrosoftOfficeを通じて、NTLMハッシュを窃取する脆弱性。機能アップデートで配布済み。最終盤は、8月のWindowsUpdateで配布予定
                 * https://www.bleepingcomputer.com/news/security/microsoft-discloses-unpatched-office-flaw-that-exposes-ntlm-hashes/
                 * https://securityonline.info/cve-2024-38200-zero-day-vulnerability-in-microsoft-office-a-call-for-urgent-action/
