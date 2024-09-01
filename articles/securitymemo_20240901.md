@@ -25,3 +25,7 @@ published: false
 
 # その他
 
+* Docker OSX プロジェクト、DMCA削除要請により、削除
+    * https://www.bleepingcomputer.com/news/security/docker-osx-image-used-for-security-research-hit-by-apple-dmca-takedown/
+* ブラジル当局、連邦最高裁判所の命令に従いXへの通信遮断
+    * https://jp.reuters.com/economy/industry/CGYR7S4IQBJMRNFDFZL3HKYINM-2024-09-01/
