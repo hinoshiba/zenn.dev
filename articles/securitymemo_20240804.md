@@ -58,6 +58,8 @@ published: true
 * CVE-2024-43044 Jenkins 外部からのライブラリ読み込みによる任意のコード実行の脆弱性
     * https://github.com/advisories/GHSA-h856-ffvv-xvr4
     * https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-attacks/
+        * PoCリリース
+            * https://securityonline.info/cve-2024-43044-critical-jenkins-vulnerability-exposes-servers-to-rce-poc-exploit-published/
 * CVE-2024-4885 6月末に公開されたProgressの脆弱性、PoCリリース
     * https://www.cvedetails.com/cve/CVE-2024-4885/?q=CVE-2024-4885
 * CVE-2024-37287 Kibana 任意のコード実行

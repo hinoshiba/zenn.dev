@@ -19,6 +19,9 @@ published: false
 
 # 攻撃、脅威
 
+* ロンドンの交通事業者(TfL)、サイバー攻撃を受けている。サービス影響は、現状ない
+    * https://www.bleepingcomputer.com/news/security/transport-for-london-discloses-ongoing-cyber-security-incident/
+
 
 # 脆弱性
 
@@ -29,3 +32,5 @@ published: false
     * https://www.bleepingcomputer.com/news/security/docker-osx-image-used-for-security-research-hit-by-apple-dmca-takedown/
 * ブラジル当局、連邦最高裁判所の命令に従いXへの通信遮断
     * https://jp.reuters.com/economy/industry/CGYR7S4IQBJMRNFDFZL3HKYINM-2024-09-01/
+* Linux Kernel 6.12 にて、カーネルパニック等でのエラーメッセージをQRコードにする機能が追加
+    * https://securityonline.info/qr-codes-coming-to-linux-kernel-panics-with-6-12-release/
