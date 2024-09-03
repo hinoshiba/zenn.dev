@@ -44,6 +44,7 @@ published: true
 * CVE-2024-7593 Ivanti Virtual Traffic Manager (vTM)、認証bypassの脆弱性。PoCあり
     * https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-vtm-auth-bypass-with-public-exploit/
     * https://securityonline.info/cve-2024-7593-cvss-9-8-authentication-bypass-in-ivanti-vtm-proof-of-concept-available/
+    * https://securityonline.info/cve-2024-7593-cvss-9-8-critical-ivanti-vtm-flaw-now-weaponized-poc-exploit-available/
 * CVE-2024-39825 Zoom 権限昇格の脆弱性
     * https://securityonline.info/cve-2024-39825-and-cve-2024-39818-high-risk-zoom-flaws-require-urgent-updates/
 * CVE-2024-22116 Zabbix 認証済みユーザによる任意のコード実行

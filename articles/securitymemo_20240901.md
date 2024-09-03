@@ -24,6 +24,16 @@ published: false
 
 
 # 脆弱性
+* CVE-2024-8387 Firefox, Thunderbird 任意のコード実行の脆弱性
+    * https://www.tenable.com/cve/CVE-2024-8387
+* CVE-2024-38811 VMWare Fusion 任意のコード実行の脆弱性
+    * https://www.securityweek.com/vmware-patches-high-severity-code-execution-flaw-in-fusion/
+    * https://securityonline.info/cve-2024-38811-code-execution-vulnerability-discovered-in-vmware-fusion/
+    * https://www.security-next.com/161455
+* KEV
+    * CVE-2021-20123 Draytek VigorConnect Path Traversal Vulnerability
+    * CVE-2021-20124 Draytek VigorConnect Path Traversal Vulnerability
+    * CVE-2024-7262 Kingsoft WPS Office Path Traversal Vulnerability
 
 
 # その他

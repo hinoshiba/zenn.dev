@@ -68,6 +68,7 @@ published: true
     * https://securityonline.info/cve-2024-6386-cvss-9-9-in-wpml-plugin-exposes-millions-of-wordpress-sites-to-rce-attacks/
     * https://www.bitdefender.com/blog/hotforsecurity/critical-wpml-plugin-vulnerability-affects-over-1-million-wordpress-sites/
     * https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html
+    * https://securityboulevard.com/2024/09/wordpress-sites-at-risk-from-wpml-flaw/
 * CVE-2024-6633 FileCatalyst Workflow データベース情報の窃取や管理者権限の付与の脆弱性
     * https://www.bleepingcomputer.com/news/security/fortra-fixes-critical-filecatalyst-workflow-hardcoded-password-issue/
     * https://securityonline.info/cve-2024-6633-cvss-9-8-critical-flaw-in-fortra-filecatalyst-workflow/
