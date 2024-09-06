@@ -30,6 +30,19 @@ published: false
     * https://www.securityweek.com/vmware-patches-high-severity-code-execution-flaw-in-fusion/
     * https://securityonline.info/cve-2024-38811-code-execution-vulnerability-discovered-in-vmware-fusion/
     * https://www.security-next.com/161455
+* CVE-2024-45195 Apache OFBiz 任意のコード実行の脆弱性
+    * https://www.bleepingcomputer.com/news/security/apache-fixes-critical-ofbiz-remote-code-execution-vulnerability/
+* CVE-2024-20439 Cisco ISE 未認証のコード実行
+    * https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-smart-licensing-utility/
+* CVE-2024-20469 Cisco ISE ルート権限でのコード実行
+    * https://www.bleepingcomputer.com/news/security/cisco-fixes-root-escalation-vulnerability-with-public-exploit-code/
+* CVE-2024-32896 Google Pixcel 権限昇格の脆弱性。EoSモデルにもバックポート
+    * https://www.bleepingcomputer.com/news/security/google-backports-fix-for-pixel-eop-flaw-to-other-android-devices/
+    * https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html
+    * https://www.securityweek.com/androids-september-2024-update-patches-exploited-vulnerability/
+    * https://securityonline.info/google-patches-actively-exploited-zero-day-in-september-android-update/
+* CVE-2024-7720 HP Security Manager 任意のコード実行の脆弱性
+    * https://www.security-next.com/161471
 * KEV
     * CVE-2021-20123 Draytek VigorConnect Path Traversal Vulnerability
     * CVE-2021-20124 Draytek VigorConnect Path Traversal Vulnerability
@@ -44,3 +57,10 @@ published: false
     * https://jp.reuters.com/economy/industry/CGYR7S4IQBJMRNFDFZL3HKYINM-2024-09-01/
 * Linux Kernel 6.12 にて、カーネルパニック等でのエラーメッセージをQRコードにする機能が追加
     * https://securityonline.info/qr-codes-coming-to-linux-kernel-panics-with-6-12-release/
+* IBM QRader PaloAltoに買収
+    * https://www.theregister.com/2024/09/04/palo_alto_networks_ibm_qradar/
+* Ciscoのオンラインストアに悪意のあるJSが注入されクレジットカード情報や認証情報が盗まれていた
+    * https://www.bleepingcomputer.com/news/security/hackers-inject-malicious-js-in-cisco-store-to-steal-credit-cards-credentials/
+* Yubikeyに複製の脆弱性。ただしコストは$11,000
+    * https://securityboulevard.com/2024/09/fwbifx/
+    * https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/
