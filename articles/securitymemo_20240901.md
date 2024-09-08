@@ -3,7 +3,7 @@ title: "2024/09/01 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -30,8 +30,11 @@ published: false
     * https://www.securityweek.com/vmware-patches-high-severity-code-execution-flaw-in-fusion/
     * https://securityonline.info/cve-2024-38811-code-execution-vulnerability-discovered-in-vmware-fusion/
     * https://www.security-next.com/161455
+    * https://news.mynavi.jp/techplus/article/20240905-3018694/
 * CVE-2024-45195 Apache OFBiz 任意のコード実行の脆弱性
     * https://www.bleepingcomputer.com/news/security/apache-fixes-critical-ofbiz-remote-code-execution-vulnerability/
+    * https://www.securityweek.com/apache-makes-another-attempt-at-patching-exploited-rce-in-ofbiz/
+    * https://thehackernews.com/2024/09/apache-ofbiz-update-fixes-high-severity.html
 * CVE-2024-20439 Cisco ISE 未認証のコード実行
     * https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-smart-licensing-utility/
 * CVE-2024-20469 Cisco ISE ルート権限でのコード実行
@@ -43,6 +46,19 @@ published: false
     * https://securityonline.info/google-patches-actively-exploited-zero-day-in-september-android-update/
 * CVE-2024-7720 HP Security Manager 任意のコード実行の脆弱性
     * https://www.security-next.com/161471
+* CVE-2024-45076 IBM webMethods Integration 認証済みユーザによる任意のコード実行の脆弱性
+    * https://securityonline.info/cve-2024-45076-cvss-9-9-critical-flaw-in-ibm-webmethods-integration-demand-immediate-action/
+* CVE-2024-7923 RedHat コンテンツ配備システム Pulpcore に未認証の管理者アクセスの脆弱性
+    * https://securityonline.info/red-hat-issues-critical-patch-for-pulpcore-authentication-bypass-flaw-cve-2024-7923/
+* CVE-2024-7012 Red Hat Satellite 未認証のアクセスの脆弱性
+    * https://securityonline.info/cve-2024-7012-cvss-9-8-critical-foreman-flaw-exposes-red-hat-satellite-to-unauthorized-access/
+* CVE-2024-44000 WordPress Plugin LiteSpeedCache 管理者権限窃取の可能性
+    * https://thehackernews.com/2024/09/critical-security-flaw-found-in.html
+    * https://www.securityweek.com/litespeed-cache-plugin-vulnerability-exposes-millions-of-wordpress-sites-to-attacks/
+* CVE-2024-26581 Linuxへのルート侵害の脆弱性
+    * https://securityonline.info/cve-2024-26581-poc-exploit-released-linux-systems-at-risk-of-root-compromise/
+* CVE-2024-7591 LoadMaster 未認証のコード実行の脆弱性
+    * https://securityonline.info/cve-2024-7591-cvss-10-critical-vulnerability-discovered-in-progress-loadmaster/
 * KEV
     * CVE-2021-20123 Draytek VigorConnect Path Traversal Vulnerability
     * CVE-2021-20124 Draytek VigorConnect Path Traversal Vulnerability
@@ -61,6 +77,7 @@ published: false
     * https://www.theregister.com/2024/09/04/palo_alto_networks_ibm_qradar/
 * Ciscoのオンラインストアに悪意のあるJSが注入されクレジットカード情報や認証情報が盗まれていた
     * https://www.bleepingcomputer.com/news/security/hackers-inject-malicious-js-in-cisco-store-to-steal-credit-cards-credentials/
+    * https://news.mynavi.jp/techplus/article/20240906-3019238/
 * Yubikeyに複製の脆弱性。ただしコストは$11,000
     * https://securityboulevard.com/2024/09/fwbifx/
     * https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/
