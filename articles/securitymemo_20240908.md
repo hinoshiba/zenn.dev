@@ -21,5 +21,8 @@ published: false
 
 # 脆弱性
 
+* CVE-2024-24759 AI等で利用されているMindsDB、SSRFの脆弱性
+    * https://securityonline.info/mindsdb-fixes-critical-cve-2024-24759-dns-rebinding-attack-bypasses-security-protections/
+
 # その他
 
