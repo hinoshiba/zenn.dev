@@ -57,8 +57,10 @@ published: true
     * https://www.securityweek.com/litespeed-cache-plugin-vulnerability-exposes-millions-of-wordpress-sites-to-attacks/
 * CVE-2024-26581 Linuxへのルート侵害の脆弱性
     * https://securityonline.info/cve-2024-26581-poc-exploit-released-linux-systems-at-risk-of-root-compromise/
-* CVE-2024-7591 LoadMaster 未認証のコード実行の脆弱性
+* CVE-2024-7591 Progress LoadMaster 未認証のコード実行の脆弱性
     * https://securityonline.info/cve-2024-7591-cvss-10-critical-vulnerability-discovered-in-progress-loadmaster/
+    * https://thehackernews.com/2024/09/progress-software-issues-patch-for.html
+    * https://www.bleepingcomputer.com/news/security/progress-loadmaster-vulnerable-to-10-10-severity-rce-flaw/
 * KEV
     * CVE-2021-20123 Draytek VigorConnect Path Traversal Vulnerability
     * CVE-2021-20124 Draytek VigorConnect Path Traversal Vulnerability

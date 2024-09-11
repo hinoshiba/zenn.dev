@@ -23,6 +23,48 @@ published: false
 
 * CVE-2024-24759 AI等で利用されているMindsDB、SSRFの脆弱性
     * https://securityonline.info/mindsdb-fixes-critical-cve-2024-24759-dns-rebinding-attack-bypasses-security-protections/
+* CVE-2024-37288 and CVE-2024-37285 Kibana 任意のコード実行
+    * https://securityonline.info/critical-kibana-flaws-cve-2024-37288-cve-2024-37285-expose-systems-to-arbitrary-code-execution/
+    * https://rocket-boys.co.jp/8076/
+* CVE-2024-26230 Windows 4月に修正された権限昇格の脆弱性のPoC公開
+    * https://securityonline.info/poc-exploit-releases-for-windows-elevation-of-privilege-vulnerability-cve-2024-26230/
+* CVE-2024-29847 Ivanti EPM 任意のコード実行の脆弱性
+    * https://www.bleepingcomputer.com/news/security/ivanti-fixes-maximum-severity-rce-bug-in-endpoint-management-software/
+    * https://securityonline.info/ivanti-issues-patch-for-critical-vulnerabilities-in-endpoint-manager-including-cve-2024-29847-cvss-10-0/
+* CVE-2024-41869 CVE-2024-45112 Adobe Acrobat Reader 他 任意のコード実行の脆弱性
+    * https://helpx.adobe.com/security/products/acrobat/apsb24-70.html
+    * https://www.securityweek.com/adobe-patches-critical-code-execution-flaws-in-multiple-products/
+* CVE-2024-7889 and CVE-2024-7890 Citrix Workspace app for Windows 権限昇格の脆弱性
+    * https://support.citrix.com/s/article/CTX691485-citrix-workspace-app-for-windows-security-bulletin-cve20247889-and-cve20247890?language=en_US
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2024-Sep
+        * https://krebsonsecurity.com/2024/09/bug-left-some-windows-pcs-dangerously-unpatched/
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-performance-issues-from-august-updates/
+        * https://www.securityweek.com/microsoft-says-windows-update-zero-day-being-exploited-to-undo-security-fixes/
+        * https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5043064-update-released-with-6-fixes-security-updates/
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2024-patch-tuesday-fixes-4-zero-days-79-flaws/
+* KEV
+    * CVE-2016-3714 ImageMagick Improper Input Validation Vulnerability
+    * CVE-2017-1000253 Linux Kernel PIE Stack Buffer Corruption Vulnerability
+    * CVE-2024-40766 SonicWall SonicOS Improper Access Control Vulnerability
+        * https://jp.inoreader.com/article/3a9c6e745fcd536b-akira-ransomware-exploits-sonicwall-sslvpn-flaw-cve-2024-40766
+        * https://www.darkreading.com/ics-ot-security/akira-ransomware-actors-exploit-sonicwall-bug-for-rce
+        * https://www.security-next.com/161650
+        * https://www.bleepingcomputer.com/news/security/critical-sonicwall-sslvpn-bug-exploited-in-ransomware-attacks/
+    * CVE-2024-38226 Microsoft Publisher Security Feature Bypass Vulnerability
+    * CVE-2024-43491 Microsoft Windows Update Remote Code Execution Vulnerability
+    * CVE-2024-38014 Microsoft Windows Installer Privilege Escalation Vulnerability
+    * CVE-2024-38217 Microsoft Windows Mark of the Web (MOTW) Security Feature Bypass Vulnerability
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-smart-app-control-zero-day-exploited-since-2018/
 
 # その他
 
+* NGINX GitHubへ移行
+    * https://forest.watch.impress.co.jp/docs/news/1622344.html
+    * https://securityonline.info/nginx-open-source-makes-the-jump-to-github-boosting-collaboration-and-community-engagement/
+* カスペルスキー、米国事業縮小に関連して、移行先UltraAVを案内
+    * https://www.securityweek.com/one-million-us-kaspersky-customers-transferred-to-pangos-ultraav/
+* Windows 22H2 を23H2 に強制アップグレードすることを発表。10/8を予定
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-start-force-upgrading-windows-22h2-systems-next-month/
