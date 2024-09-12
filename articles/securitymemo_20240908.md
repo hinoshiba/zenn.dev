@@ -19,6 +19,11 @@ published: false
 
 # 攻撃、脅威
 
+* KFC メキシコの顧客データが販売されている
+    * https://dailydarkweb.net/threat-actor-claims-to-sell-kfc-mexico-customer-database-with-over-349000-records/
+* サイバー攻撃によりアメリカやイギリスの学校が影響を受ける
+    * https://www.theregister.com/2024/09/11/uk_us_school_ransomware/
+
 # 脆弱性
 
 * CVE-2024-24759 AI等で利用されているMindsDB、SSRFの脆弱性
@@ -31,9 +36,12 @@ published: false
 * CVE-2024-29847 Ivanti EPM 任意のコード実行の脆弱性
     * https://www.bleepingcomputer.com/news/security/ivanti-fixes-maximum-severity-rce-bug-in-endpoint-management-software/
     * https://securityonline.info/ivanti-issues-patch-for-critical-vulnerabilities-in-endpoint-manager-including-cve-2024-29847-cvss-10-0/
-* CVE-2024-41869 CVE-2024-45112 Adobe Acrobat Reader 他 任意のコード実行の脆弱性
+    * https://www.securityweek.com/ivanti-patches-critical-vulnerabilities-in-endpoint-manager/
+    * https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html
+* CVE-2024-41869 CVE-2024-45112 Adobe Acrobat Reader 他 任意のコード実行の脆弱性。PoCあり
     * https://helpx.adobe.com/security/products/acrobat/apsb24-70.html
     * https://www.securityweek.com/adobe-patches-critical-code-execution-flaws-in-multiple-products/
+    * https://www.bleepingcomputer.com/news/security/adobe-fixes-acrobat-reader-zero-day-with-public-poc-exploit/
 * CVE-2024-7889 and CVE-2024-7890 Citrix Workspace app for Windows 権限昇格の脆弱性
     * https://support.citrix.com/s/article/CTX691485-citrix-workspace-app-for-windows-security-bulletin-cve20247889-and-cve20247890?language=en_US
 * WindowsUpdate
@@ -45,6 +53,7 @@ published: false
         * https://www.securityweek.com/microsoft-says-windows-update-zero-day-being-exploited-to-undo-security-fixes/
         * https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5043064-update-released-with-6-fixes-security-updates/
         * https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2024-patch-tuesday-fixes-4-zero-days-79-flaws/
+        * https://securityboulevard.com/2024/09/patch-tuesday-september-2024-richixbw/
 * KEV
     * CVE-2016-3714 ImageMagick Improper Input Validation Vulnerability
     * CVE-2017-1000253 Linux Kernel PIE Stack Buffer Corruption Vulnerability
@@ -68,3 +77,7 @@ published: false
     * https://www.securityweek.com/one-million-us-kaspersky-customers-transferred-to-pangos-ultraav/
 * Windows 22H2 を23H2 に強制アップグレードすることを発表。10/8を予定
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-start-force-upgrading-windows-22h2-systems-next-month/
+    * https://www.theregister.com/2024/09/11/microsoft_23h2_forced_update/
+* 10/1よりWodPressPlugin開発者やサイト管理者に対して2FAを要求するようになる。WordPress.org
+    * https://www.bleepingcomputer.com/news/security/wordpressorg-to-require-2fa-for-plugin-developers-by-october/
+    * https://www.bitdefender.com/blog/hotforsecurity/wordpress-to-enforce-2fa-and-separate-credentials-for-website-admin-and-plugin-management/
