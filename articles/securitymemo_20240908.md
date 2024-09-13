@@ -23,6 +23,11 @@ published: false
     * https://dailydarkweb.net/threat-actor-claims-to-sell-kfc-mexico-customer-database-with-over-349000-records/
 * サイバー攻撃によりアメリカやイギリスの学校が影響を受ける
     * https://www.theregister.com/2024/09/11/uk_us_school_ransomware/
+* Fortinet 440GBのデータ侵害を確認
+    * https://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/
+    * https://securityonline.info/fortinet-faces-potential-data-breach-customer-data-at-risk/
+* アベニュー関連会社、ランサムウェア被害。`セキュリティ機器の設定変更を行った際、設定ミスによってセキュリティ上の不備が発生`
+    * https://www.security-next.com/161808
 
 # 脆弱性
 
@@ -44,6 +49,20 @@ published: false
     * https://www.bleepingcomputer.com/news/security/adobe-fixes-acrobat-reader-zero-day-with-public-poc-exploit/
 * CVE-2024-7889 and CVE-2024-7890 Citrix Workspace app for Windows 権限昇格の脆弱性
     * https://support.citrix.com/s/article/CTX691485-citrix-workspace-app-for-windows-security-bulletin-cve20247889-and-cve20247890?language=en_US
+* CVE-2024-8695 DockerDesktop 拡張機能の説明悪用により任意のコード実行の脆弱性
+    * https://cvefeed.io/vuln/detail/CVE-2024-8695
+* CVE-2024-6678 GitLab 未認証のPipeline実行の脆弱性
+    * https://thehackernews.com/2024/09/urgent-gitlab-patches-critical-flaw.html
+    * https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-pipeline-execution-vulnerability/
+    * https://securityonline.info/gitlab-issues-critical-security-patch-for-cve-2024-6678-cvss-9-9-urges-immediate-update/
+* CVE-2024-8522 and CVE-2024-8529 WordPress Plugin LearnPress SQLi
+    * https://securityonline.info/cve-2024-8522-cvss-10-learnpress-sqli-flaw-leaves-90k-wordpress-sites-at-risk/
+    * https://www.security-next.com/161830
+* CVE-2024-45409 Ruby-SAML 認証Bypassの脆弱性
+    * https://securityonline.info/cve-2024-45409-cvss-10-critical-ruby-saml-flaw-leaves-user-accounts-exposed/
+    * https://www.security-next.com/161853
+* CVE-2024-8686 PaloAlto PAN-OS コマンドインジェクションの脆弱性
+    * https://securityonline.info/pan-os-vulnerabilities-command-injection-cve-2024-8686-and-globalprotect-exposure-cve-2024-8687/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -81,3 +100,7 @@ published: false
 * 10/1よりWodPressPlugin開発者やサイト管理者に対して2FAを要求するようになる。WordPress.org
     * https://www.bleepingcomputer.com/news/security/wordpressorg-to-require-2fa-for-plugin-developers-by-october/
     * https://www.bitdefender.com/blog/hotforsecurity/wordpress-to-enforce-2fa-and-separate-credentials-for-website-admin-and-plugin-management/
+    * https://www.tripwire.com/state-of-security/wordpress-plugin-and-theme-developers-told-they-must-use-2fa
+    * https://thehackernews.com/2024/09/wordpress-mandates-two-factor.html
+* マスターカード Recorded Future を買収
+    * https://www.theregister.com/2024/09/12/mastercard_recorded_future/
