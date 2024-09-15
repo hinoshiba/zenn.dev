@@ -3,7 +3,7 @@ title: "2024/09/08 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -26,8 +26,19 @@ published: false
 * Fortinet 440GBのデータ侵害を確認
     * https://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/
     * https://securityonline.info/fortinet-faces-potential-data-breach-customer-data-at-risk/
+    * https://www.darkreading.com/cloud-security/fortinet-customer-data-breach-third-party
 * アベニュー関連会社、ランサムウェア被害。`セキュリティ機器の設定変更を行った際、設定ミスによってセキュリティ上の不備が発生`
     * https://www.security-next.com/161808
+* シアトル航空 8月の攻撃でランサムウェアに感染
+    * https://www.bleepingcomputer.com/news/security/port-of-seattle-says-rhysida-ransomware-was-behind-august-attack/
+* ロンドン交通、攻撃を受けた30,000の従業員にパスワードリセットをリクエスト
+    * https://www.bleepingcomputer.com/news/security/tfl-requires-in-person-password-resets-for-30-000-employees-after-hack/
+* マルウェアHadooken WebLogicをターゲットにするもの
+    * https://www.bleepingcomputer.com/news/security/new-linux-malware-hadooken-targets-oracle-weblogic-servers/
+* RansomHub カワサキにサイバー攻撃を主張したと主張
+    * https://www.bleepingcomputer.com/news/security/ransomhub-claims-kawasaki-cyberattack-threatens-to-leak-stolen-data/
+* Hulu リスト型攻撃と思われる攻撃を受けている
+    * https://www.security-next.com/161851
 
 # 脆弱性
 
@@ -49,12 +60,16 @@ published: false
     * https://www.bleepingcomputer.com/news/security/adobe-fixes-acrobat-reader-zero-day-with-public-poc-exploit/
 * CVE-2024-7889 and CVE-2024-7890 Citrix Workspace app for Windows 権限昇格の脆弱性
     * https://support.citrix.com/s/article/CTX691485-citrix-workspace-app-for-windows-security-bulletin-cve20247889-and-cve20247890?language=en_US
+    * https://securityonline.info/citrix-workspace-app-users-urged-to-update-following-two-privilege-escalation-flaws/
 * CVE-2024-8695 DockerDesktop 拡張機能の説明悪用により任意のコード実行の脆弱性
     * https://cvefeed.io/vuln/detail/CVE-2024-8695
+    * https://securityonline.info/cve-2024-8695-cve-2024-8696-two-critical-rce-flaws-discovered-in-docker-desktop/
 * CVE-2024-6678 GitLab 未認証のPipeline実行の脆弱性
     * https://thehackernews.com/2024/09/urgent-gitlab-patches-critical-flaw.html
     * https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-pipeline-execution-vulnerability/
     * https://securityonline.info/gitlab-issues-critical-security-patch-for-cve-2024-6678-cvss-9-9-urges-immediate-update/
+    * https://www.bitdefender.com/blog/hotforsecurity/gitlab-issues-emergency-patch-for-pipeline-exploitation-vulnerability/
+    * https://www.securityweek.com/gitlab-updates-resolve-critical-pipeline-execution-vulnerability/
 * CVE-2024-8522 and CVE-2024-8529 WordPress Plugin LearnPress SQLi
     * https://securityonline.info/cve-2024-8522-cvss-10-learnpress-sqli-flaw-leaves-90k-wordpress-sites-at-risk/
     * https://www.security-next.com/161830
@@ -86,6 +101,11 @@ published: false
     * CVE-2024-38014 Microsoft Windows Installer Privilege Escalation Vulnerability
     * CVE-2024-38217 Microsoft Windows Mark of the Web (MOTW) Security Feature Bypass Vulnerability
         * https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-smart-app-control-zero-day-exploited-since-2018/
+    * CVE-2024-8190 Ivanti Cloud Services Appliance 任意のコード実行
+        * https://securityonline.info/cisa-ivanti-warn-of-active-exploitation-cloud-services-appliance-flaw-cve-2024-8190/
+        * https://thehackernews.com/2024/09/ivanti-warns-of-active-exploitation-of.html
+        * https://www.bleepingcomputer.com/news/security/ivanti-warns-high-severity-csa-flaw-is-now-exploited-in-attacks/
+        * https://www.cisa.gov/news-events/alerts/2024/09/13/ivanti-releases-security-update-cloud-services-appliance
 
 # その他
 
@@ -104,3 +124,6 @@ published: false
     * https://thehackernews.com/2024/09/wordpress-mandates-two-factor.html
 * マスターカード Recorded Future を買収
     * https://www.theregister.com/2024/09/12/mastercard_recorded_future/
+* Microsoft Windows EDRがカーネルにアクセスする際のデザインを再設計。Crowdstrikeの件により。
+    * https://www.securityweek.com/post-crowdstrike-fallout-microsoft-redesigning-edr-vendor-access-to-windows-kernel/
+    * https://www.theregister.com/2024/09/13/microsoft_is_updating_windows_to/
