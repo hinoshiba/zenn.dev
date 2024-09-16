@@ -54,6 +54,9 @@ published: true
     * https://securityonline.info/ivanti-issues-patch-for-critical-vulnerabilities-in-endpoint-manager-including-cve-2024-29847-cvss-10-0/
     * https://www.securityweek.com/ivanti-patches-critical-vulnerabilities-in-endpoint-manager/
     * https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html
+    * PoCリリース
+        * https://www.bleepingcomputer.com/news/security/exploit-code-released-for-critical-ivanti-rce-flaw-patch-now/
+        * https://securityonline.info/poc-exploit-released-for-ivanti-epm-flaw-cve-2024-29847-cvss-10/
 * CVE-2024-41869 CVE-2024-45112 Adobe Acrobat Reader 他 任意のコード実行の脆弱性。PoCあり
     * https://helpx.adobe.com/security/products/acrobat/apsb24-70.html
     * https://www.securityweek.com/adobe-patches-critical-code-execution-flaws-in-multiple-products/

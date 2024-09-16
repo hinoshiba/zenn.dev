@@ -21,6 +21,24 @@ published: false
 
 # 脆弱性
 
+* CVE-2024-28991 SolarWinds Access Rights Manager (ARM) 任意のコード実行
+    * https://www.securityweek.com/solarwinds-patches-critical-vulnerability-in-access-rights-manager/
+* iOS 17.7 更新
+    * https://forest.watch.impress.co.jp/docs/news/1624053.html
+* KEV
+    * CVE-2024-43461 MSHTML RCE
+        * https://www.darkreading.com/application-security/void-banshee-exploits-second-microsoft-zero-day
+        * https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-flaw-used-in-infostealer-malware-attacks/
+        * https://securityonline.info/new-zero-day-emerges-after-microsoft-patch-tuesday-cve-2024-43461-targets-windows-mshtml/
+        * https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/
+    * CVE-2024-6670 Progress WhatsUp Gold SQL Injection Vulnerability
 
 # その他
 
+* Microsoft 365 appに対してスペルチェックによるクラッシュの不具合を修正
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-crashing-microsoft-365-apps-when-typing/
+* Microsoft Office LTSC 2024 ロールアウト
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-office-ltsc-2024-for-windows-and-mac/
+* Apple iOS 18をリリース
+    * https://forest.watch.impress.co.jp/docs/news/1624051.html
+    * https://www.securityweek.com/apple-patches-major-security-flaws-with-ios-18-refresh/
