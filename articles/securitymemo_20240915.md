@@ -23,8 +23,15 @@ published: false
 
 * CVE-2024-28991 SolarWinds Access Rights Manager (ARM) 任意のコード実行
     * https://www.securityweek.com/solarwinds-patches-critical-vulnerability-in-access-rights-manager/
+    * https://thehackernews.com/2024/09/solarwinds-issues-patch-for-critical.html
 * iOS 17.7 更新
     * https://forest.watch.impress.co.jp/docs/news/1624053.html
+* CVE-2024-38812 VMware vCenter Server 任意のコード実行
+    * https://www.theregister.com/2024/09/17/vmware_vcenter_patch/
+    * https://www.bleepingcomputer.com/news/security/broadcom-fixes-critical-rce-bug-in-vmware-vcenter-server/
+    * https://www.securityweek.com/vmware-patches-remote-code-execution-flaw-found-in-chinese-hacking-contest/
+* CVE-2024-6091 AutoGPT OS Command Injection
+    * https://securityonline.info/166k-projects-at-risk-autogpts-critical-vulnerability-explained-cve-2024-6091-cvss-9-8/
 * KEV
     * CVE-2024-43461 MSHTML RCE
         * https://www.darkreading.com/application-security/void-banshee-exploits-second-microsoft-zero-day
@@ -32,6 +39,10 @@ published: false
         * https://securityonline.info/new-zero-day-emerges-after-microsoft-patch-tuesday-cve-2024-43461-targets-windows-mshtml/
         * https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/
     * CVE-2024-6670 Progress WhatsUp Gold SQL Injection Vulnerability
+    * CVE-2014-0497 Adobe Flash Player Integer Underflow Vulnerability
+    * CVE-2013-0643 Adobe Flash Player Incorrect Default Permissions Vulnerability
+    * CVE-2013-0648 Adobe Flash Player Code Execution Vulnerability
+    * CVE-2014-0502 Adobe Flash Player Double Free Vulnerability
 
 # その他
 
@@ -42,3 +53,10 @@ published: false
 * Apple iOS 18をリリース
     * https://forest.watch.impress.co.jp/docs/news/1624051.html
     * https://www.securityweek.com/apple-patches-major-security-flaws-with-ios-18-refresh/
+* Apple Passwords アプリをリリース
+    * https://securityboulevard.com/2024/09/apples-new-passwords-app-a-game-changer-for-user-security-and-the-cybersecurity-landscape/
+* Cloudflareいくつかのリージョンで障害か？ 2024/09/17 1:45 PM ET
+    * https://www.bleepingcomputer.com/news/technology/cloudflare-outage-cuts-off-access-to-websites-in-some-regions/
+* 1,000以上のServiceNowのユーザがKB程度のデータを漏洩している可能性が見つかった
+    * https://www.bleepingcomputer.com/news/security/over-1-000-servicenow-instances-found-leaking-corporate-kb-data/
+    * https://securityboulevard.com/2024/09/enterprise-servicenow-knowledge-bases-at-risk-extensive-data-exposures-uncovered/

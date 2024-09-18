@@ -79,6 +79,8 @@ published: true
 * CVE-2024-45409 Ruby-SAML 認証Bypassの脆弱性
     * https://securityonline.info/cve-2024-45409-cvss-10-critical-ruby-saml-flaw-leaves-user-accounts-exposed/
     * https://www.security-next.com/161853
+    * GitLabの緊急セキュリティパッチとなる
+        * https://about.gitlab.com/releases/2024/09/17/patch-release-gitlab-17-3-3-released/
 * CVE-2024-8686 PaloAlto PAN-OS コマンドインジェクションの脆弱性
     * https://securityonline.info/pan-os-vulnerabilities-command-injection-cve-2024-8686-and-globalprotect-exposure-cve-2024-8687/
 * WindowsUpdate

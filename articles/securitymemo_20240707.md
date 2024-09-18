@@ -127,6 +127,7 @@ published: true
             * https://securityonline.info/check-point-research-details-0-day-flaw-cve-2024-38112-threatens-windows-users/
             * https://news.mynavi.jp/techplus/article/20240711-2983211/
         * CVE-2024-38080 Windows Hyper-V Elevation of Privilege Vulnerability
+            * https://securityonline.info/poc-exploit-released-for-windows-hyper-v-zero-day-vulnerability-cve-2024-38080/
     * CVSS 9.x
         * CVE-2024-38074 Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
         * CVE-2024-38076 Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
