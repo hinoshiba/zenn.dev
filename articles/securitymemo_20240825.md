@@ -64,6 +64,8 @@ published: true
     * https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html
     * https://securityonline.info/google-chrome-faces-double-blow-with-new-zero-day-flaw-exploits-cve-2024-7965-and-cve-2024-7971/
     * https://www.security-next.com/161147
+    * PoCリリース
+        * https://securityonline.info/poc-exploit-released-for-cve-2024-7965-zero-day-chrome-vulnerability/
 * CVE-2024-6386 WordPress 多言語対応プラグイン WPML 認証済みユーザによる任意のコード実行の脆弱性
     * https://securityonline.info/cve-2024-6386-cvss-9-9-in-wpml-plugin-exposes-millions-of-wordpress-sites-to-rce-attacks/
     * https://www.bitdefender.com/blog/hotforsecurity/critical-wpml-plugin-vulnerability-affects-over-1-million-wordpress-sites/

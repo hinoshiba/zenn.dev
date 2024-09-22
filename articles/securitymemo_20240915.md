@@ -3,7 +3,7 @@ title: "2024/09/15 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -18,6 +18,19 @@ published: false
 # 事件事故
 
 # 攻撃、脅威
+
+* シンガポール子会社にサイバー攻撃、他関連会社に影響なし - ヤマトHD
+    * https://www.security-next.com/161892
+* Disney サイバー攻撃を受けSlackの利用を禁止へ
+    * https://www.msn.com/ja-jp/money/other/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%A9%E3%83%83%E3%82%AF-%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%AD%A2%E3%81%B8-%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%A7%E6%83%85%E5%A0%B1%E6%B5%81%E5%87%BA/ar-AA1qRy0V
+    * https://www.theregister.com/2024/09/20/disney_slack_microsoft_teams/
+    * https://gigazine.net/news/20240920-disney-to-stop-using-slack/
+* レバノンの無線機機爆発について、icom社からニュースリリース
+    * https://www.icom.co.jp/news/8110/
+* 大樹生命、最大７万人分の顧客情報流出か
+    * https://www.topics.or.jp/articles/-/1130490
+* Dell 10,000名以上の従業員のデータがハッキングにより流出
+    * https://www.bleepingcomputer.com/news/security/dell-investigates-data-breach-claims-after-hacker-leaks-employee-info/
 
 # 脆弱性
 
@@ -37,6 +50,8 @@ published: false
     * https://www.securityweek.com/chrome-129-patches-high-severity-vulnerability-in-v8-engine/
 * CVE-2024-7788 LibreOffice 署名偽装の脆弱性
     * https://securityonline.info/libreoffice-vulnerability-cve-2024-7788-exploit-of-repair-mode-signatures-raises-security-concerns/
+* CVE-2024-38014 9月のWindowsUpdateで修正されたMSIインストーラによるゼロデイ、詳細解説
+    * https://securityonline.info/researchers-detail-cve-2024-38014-0-day-vulnerability-in-windows-msi-installers-exploited-in-the-wild/
 * KEV
     * CVE-2024-43461 MSHTML RCE
         * https://www.darkreading.com/application-security/void-banshee-exploits-second-microsoft-zero-day
@@ -50,10 +65,13 @@ published: false
     * CVE-2013-0648 Adobe Flash Player Code Execution Vulnerability
     * CVE-2014-0502 Adobe Flash Player Double Free Vulnerability
     * CVE-2024-27348 Apache HugeGraph-Server Improper Access Control Vulnerability
+        * https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-apache-hugegraph-server-bug/
     * CVE-2020-0618 Microsoft SQL Server Reporting Services Remote Code Execution Vulnerability
     * CVE-2019-1069 Microsoft Windows Task Scheduler Privilege Escalation Vulnerability
     * CVE-2022-21445 Oracle JDeveloper Remote Code Execution Vulnerability
     * CVE-2020-14644 Oracle WebLogic Server Remote Code Execution Vulnerability
+    * CVE-2024-8963 Ivanti Cloud Services Appliance (CSA) Path Traversal Vulnerability
+        * https://www.bleepingcomputer.com/news/security/ivanti-warns-of-another-critical-csa-flaw-exploited-in-attacks/
 
 # その他
 
@@ -80,3 +98,14 @@ published: false
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-revealed-windows-11-24h2-is-coming-this-month/
 * Excel Python提供開始。特定ユーザに限る
     * https://www.theregister.com/2024/09/18/python_in_excel_general_release/
+* Google Passwordマネージャ、パスキーの保存と端末間の自動同期に対応
+    * https://www.bleepingcomputer.com/news/google/google-password-manager-now-automatically-syncs-your-passkeys/
+    * https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html
+    * https://news.mynavi.jp/techplus/article/20240920-3028945/
+* WSUS 将来的に提供を終了。クラウド管理への移行が推奨
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/
+* Windows Server 2025 ホットパッチ対応
+    * https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-hotpatching-in-public-preview-installs-security-updates-without-restarts/
+* ウクライナ、安全保障上の理由により国支給の端末によるテレグラムアプリの利用を禁止
+    * https://www.securityweek.com/ukraine-bans-telegram-messenger-app-on-state-issued-devices-because-of-russian-security-threat/
+    * https://www.bleepingcomputer.com/news/security/ukraine-bans-telegram-on-military-govt-devices-over-security-risks/

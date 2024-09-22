@@ -81,6 +81,9 @@ published: true
     * https://www.security-next.com/161853
     * GitLabの緊急セキュリティパッチとなる
         * https://about.gitlab.com/releases/2024/09/17/patch-release-gitlab-17-3-3-released/
+        * https://www.darkreading.com/application-security/gitlab-warns-max-severity-authentication-bypass-bug
+        * https://www.securityweek.com/gitlab-patches-critical-authentication-bypass-vulnerability/
+        * https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html
 * CVE-2024-8686 PaloAlto PAN-OS コマンドインジェクションの脆弱性
     * https://securityonline.info/pan-os-vulnerabilities-command-injection-cve-2024-8686-and-globalprotect-exposure-cve-2024-8687/
 * WindowsUpdate
