@@ -23,3 +23,9 @@ published: false
 
 # その他
 
+* Telegram 利用規約を更新。法的リクエストの場合、IPアドレスや電話番号を捜査当局に渡すことがある
+    * https://www.theregister.com/2024/09/23/telegram_tcs_suspect_info/
+    * https://www.bleepingcomputer.com/news/security/telegram-now-shares-users-ip-and-phone-number-on-legal-requests/
+* Kaspersky UltraAVを自動deploy
+    * https://www.darkreading.com/application-security/kaspersky-rolls-back-us-customers-ultraav
+

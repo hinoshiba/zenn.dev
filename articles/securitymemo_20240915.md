@@ -104,6 +104,7 @@ published: true
     * https://news.mynavi.jp/techplus/article/20240920-3028945/
 * WSUS 将来的に提供を終了。クラウド管理への移行が推奨
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/
+    * https://www.theregister.com/2024/09/23/microsoft_wsus_deprecation/
 * Windows Server 2025 ホットパッチ対応
     * https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-hotpatching-in-public-preview-installs-security-updates-without-restarts/
 * ウクライナ、安全保障上の理由により国支給の端末によるテレグラムアプリの利用を禁止
