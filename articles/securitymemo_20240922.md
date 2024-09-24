@@ -18,8 +18,14 @@ published: false
 # 事件事故
 
 # 攻撃、脅威
+* Doctor Webに標的型攻撃 - マルウェアDB配信を一時停止
+    * https://www.security-next.com/162131 
 
 # 脆弱性
+
+## KEV
+* CVE-2024-7593 Ivanti Virtual Traffic Manager Authentication Bypass Vulnerability
+    * https://securityonline.info/cisa-warns-of-actively-exploited-ivanti-vtm-flaw-cve-2024-7593-cvss-9-8-poc-published/
 
 # その他
 
