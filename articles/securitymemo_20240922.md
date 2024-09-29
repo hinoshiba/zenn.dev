@@ -3,7 +3,7 @@ title: "2024/09/22 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -19,13 +19,47 @@ published: false
 
 # 攻撃、脅威
 
+* 信州大で学生ら約4100人分の情報が漏洩か　外部から不正アクセス
+    * https://www.asahi.com/articles/ASS9W34LWS9WUOOB002M.html
+
 # 脆弱性
 
+* CVE-2024-4278 GitLab パスワードが漏洩する脆弱性
+    * https://www.security-next.com/162222
+* CVE-2024-38286 Apache Tomcat DoSの脆弱性。6月の更新で修正済み
+    * https://www.security-next.com/162165
+* CVE-2024-47045 e-Tax インストーラの権限昇格の脆弱性
+    * https://www.security-next.com/162168
+* CVE-2024-0132 NVIDIA Container toolkit コンテナエスケープによるホストコンピュータへの侵害の可能性
+    * https://www.theregister.com/2024/09/26/critical_nvidia_bug_container_escape/
+    * https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html
+    * https://securityonline.info/cve-2024-0132-cvss-9-0-critical-vulnerabilities-found-in-nvidia-container-toolkit/
+* CVE-2024-47076, CVE-2024-47175, CVE-2024-47176, CVE-2024-47177 UNIX Printing System (CUPS) の脆弱性によるRCE
+    * https://x.com/HunterMapping/status/1839506035834282464
+    * https://www.security-next.com/162302
+    * https://securityboulevard.com/2024/09/cve-2024-47076-cve-2024-47175-cve-2024-47176-cve-2024-47177-frequently-asked-questions-about-common-unix-printing-system-cups-vulnerabilities/
+    * https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/
+    * https://securityonline.info/critical-cups-vulnerabilities-expose-linux-and-other-systems-to-remote-attacks/
+    * https://securityboulevard.com/2024/09/remote-code-execution-vulnerability-alert-of-unix-cups-print-service-cve-2024-47076-cve-2024-47175-cve-2024-47177/
+* CVE-2024-46461 VLC Media Player任意のコード実行
+    * https://securityonline.info/vlc-media-player-update-needed-cve-2024-46461-discovered/
+* CVE-2024-8275 WordPress Plugin The Event Calender SQLi
+    * https://securityonline.info/critical-sql-injection-vulnerability-discovered-in-the-events-calendar-wordpress-plugin-cve-2024-8275/
+* CVE-2024-7479 and CVE-2024-7481 TeamViewr 権限昇格の脆弱性
+    * https://securityonline.info/teamviewer-urges-users-to-patch-privilege-escalation-flaws-cve-2024-7479-and-cve-2024-7481/
+* CVE-2024-9014 pgAdmin 未認証のアクセス
+    * https://securityonline.info/cve-2024-9014-cvss-9-9-pgadmins-critical-vulnerability-puts-user-data-at-risk/
 # その他
 
 * Telegram 利用規約を更新。法的リクエストの場合、IPアドレスや電話番号を捜査当局に渡すことがある
     * https://www.theregister.com/2024/09/23/telegram_tcs_suspect_info/
     * https://www.bleepingcomputer.com/news/security/telegram-now-shares-users-ip-and-phone-number-on-legal-requests/
+    * https://www.bitdefender.com/blog/hotforsecurity/telegrams-new-privacy-policy-law-enforcement-request-now-cover-a-much-broader-base/
 * Kaspersky UltraAVを自動deploy
     * https://www.darkreading.com/application-security/kaspersky-rolls-back-us-customers-ultraav
-
+* 「WordPress.org」がホスティングサービス「WP Engine」からのアクセスを遮断
+    * https://www.security-next.com/162233
+    * https://www.bleepingcomputer.com/news/security/automattic-blocks-wp-engines-access-to-wordpress-resources/
+    * https://www.theregister.com/2024/09/26/wordpressorg_denies_service_to_wp/
+* Recall は、オプトインかつ、特定アプリのみ無効化できる様子
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-recall-now-can-be-removed-is-more-secure/
