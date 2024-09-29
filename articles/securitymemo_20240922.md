@@ -19,6 +19,8 @@ published: true
 
 # 攻撃、脅威
 
+* Doctor Webに標的型攻撃 - マルウェアDB配信を一時停止
+    * https://www.security-next.com/162131
 * 信州大で学生ら約4100人分の情報が漏洩か　外部から不正アクセス
     * https://www.asahi.com/articles/ASS9W34LWS9WUOOB002M.html
 
@@ -49,6 +51,9 @@ published: true
     * https://securityonline.info/teamviewer-urges-users-to-patch-privilege-escalation-flaws-cve-2024-7479-and-cve-2024-7481/
 * CVE-2024-9014 pgAdmin 未認証のアクセス
     * https://securityonline.info/cve-2024-9014-cvss-9-9-pgadmins-critical-vulnerability-puts-user-data-at-risk/
+## KEV
+* CVE-2024-7593 Ivanti Virtual Traffic Manager Authentication Bypass Vulnerability
+    * https://securityonline.info/cisa-warns-of-actively-exploited-ivanti-vtm-flaw-cve-2024-7593-cvss-9-8-poc-published/
 # その他
 
 * Telegram 利用規約を更新。法的リクエストの場合、IPアドレスや電話番号を捜査当局に渡すことがある
