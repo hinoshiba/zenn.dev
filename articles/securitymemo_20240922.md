@@ -43,6 +43,7 @@ published: true
     * https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/
     * https://securityonline.info/critical-cups-vulnerabilities-expose-linux-and-other-systems-to-remote-attacks/
     * https://securityboulevard.com/2024/09/remote-code-execution-vulnerability-alert-of-unix-cups-print-service-cve-2024-47076-cve-2024-47175-cve-2024-47177/
+    * https://securityboulevard.com/2024/09/cups-unraveling-a-critical-vulnerability-chain-in-unix-printing-systems/
 * CVE-2024-46461 VLC Media Player任意のコード実行
     * https://securityonline.info/vlc-media-player-update-needed-cve-2024-46461-discovered/
 * CVE-2024-8275 WordPress Plugin The Event Calender SQLi

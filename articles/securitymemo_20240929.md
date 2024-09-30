@@ -21,8 +21,28 @@ published: false
 
 * シンガポールヤマト運輸に不正アクセス、他のヤマトグループへの影響は確認されず
     * https://scan.netsecurity.ne.jp/article/2024/09/25/51656.html
+* T-Mobile
+    * https://www.theregister.com/2024/09/30/tmobile_data_breaches_settlement/
+    * https://www.bleepingcomputer.com/news/security/t-mobile-pays-315-million-fcc-settlement-over-4-data-breaches/
 
 # 脆弱性
+* CVE-2024-8926 PHP Parameter Injection の脆弱性
+    * https://securityonline.info/multiple-vulnerabilities-discovered-in-php-prompting-urgent-security-updates/
+* CVE-2024-8353 WordPress Plugin GiveWP PHP Object Injection
+    * https://securityonline.info/cve-2024-8353-critical-givewp-flaw-100k-wordpress-sites-at-risk/  
+
+
+## KEV
+* CVE-2023-25280 D-Link DIR-820 Router OS Command Injection Vulnerability
+* CVE-2020-15415 DrayTek Multiple Vigor Routers OS Command Injection Vulnerability
+* CVE-2021-4043 Motion Spell GPAC Null Pointer Dereference Vulnerability
+* CVE-2019-0344 SAP Commerce Cloud Deserialization of Untrusted Data Vulnerability
 
 # その他
 
+* MicrosoftDefender 安全でないWifi接続時に警告をだしDefenderVPNへの接続を促す機能を追加 
+    * https://www.bleepingcomputer.com/news/security/microsoft-defender-now-automatically-detects-unsecure-wi-fi-networks/
+* ブラジル X再開前に罰金
+    * https://jp.reuters.com/economy/industry/QU4MYMV3RRPFRJHAI6BBERHDNM-2024-09-30/ 
+* Verizon ダウン。iPhoneは、SOSモードになり続ける
+    * https://www.bleepingcomputer.com/news/technology/iphones-android-devices-stuck-in-sos-mode-after-verizon-outage/    
