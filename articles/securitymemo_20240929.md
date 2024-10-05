@@ -25,6 +25,16 @@ published: false
     * https://www.theregister.com/2024/09/30/tmobile_data_breaches_settlement/
     * https://www.bleepingcomputer.com/news/security/t-mobile-pays-315-million-fcc-settlement-over-4-data-breaches/
     * https://www.securityweek.com/t-mobile-to-pay-millions-to-settle-with-fcc-over-data-breaches/
+* タリーズコーヒー　9万人の個人情報流出か　5万人はクレジットカード情報漏れか
+    * https://www.khb-tv.co.jp/news/15452877
+    * https://news.tv-asahi.co.jp/news_economy/articles/000375958.html
+    * https://otakuma.net/archives/2024100401.html
+    * https://www3.nhk.or.jp/news/html/20241004/k10014600481000.html
+    * https://www.j-cast.com/2024/10/04494969.html?p=all
+* 日本生命、契約者情報漏洩18万件　生命保険にも拡大
+    * https://www.nikkei.com/article/DGXZQOUB0678J0W4A900C2000000/
+* イセトー: 不正アクセスによる個人情報漏えいに関するお詫びとご報告
+    * https://www.iseto.co.jp/news/news_202410.html
 
 # 脆弱性
 * CVE-2024-8926 PHP Parameter Injection の脆弱性
@@ -36,6 +46,17 @@ published: false
     * https://www.bleepingcomputer.com/news/security/arc-browser-launches-bug-bounty-program-after-fixing-rce-bug/
 * CVE-2024-45519 Zimbra 任意のコード実行の脆弱性
     * https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-exploited-to-backdoor-servers-using-emails/
+* CVE-2024-9313 Authd の脆弱性により他ユーザへのなりすましが可能
+    * https://securityonline.info/authd-vulnerability-cve-2024-9313-allows-user-impersonation-on-ubuntu-systems/
+* CVE-2024-38200 8月にリリースされたOfficeのNTMLv2ハッシュ流出の脆弱性のPoCリリース
+    * https://securityonline.info/0-day-flaw-cve-2024-38200-in-microsoft-office-exposes-ntlmv2-hashes-poc-exploit-released/
+* CVE-2024-47374 LiteSpeed Cache 未認証のXSSの脆弱性
+    * https://securityonline.info/cve-2024-47374-litespeed-cache-plugin-flaw-threatens-millions-of-wordpress-sites/
+    * https://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html
+* CVE-2024-44204 Apple Device, VoiceOverでパスワードが読み上げられる脆弱性の修正
+    * https://www.itmedia.co.jp/mobile/articles/2410/04/news110.html
+    * https://www.darkreading.com/cyber-risk/iphone-voiceover-feature-read-passwords-aloud
+    * https://www.theregister.com/2024/10/04/apple_voiceover_password_bug/
 
 
 ## KEV
@@ -44,6 +65,7 @@ published: false
 * CVE-2020-15415 DrayTek Multiple Vigor Routers OS Command Injection Vulnerability
 * CVE-2021-4043 Motion Spell GPAC Null Pointer Dereference Vulnerability
 * CVE-2019-0344 SAP Commerce Cloud Deserialization of Untrusted Data Vulnerability
+* CVE-2024-45519 Synacor Zimbra Collaboration Command Execution Vulnerability
 
 # その他
 
@@ -61,5 +83,8 @@ published: false
     * https://scotthelme.co.uk/ios-18-quick-tips-security-edition/
 * 9月上旬の大規模DDoSに関するレポート @Cloudflare
     * https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack/
+    * https://securityonline.info/cloudflare-sets-new-standard-by-auto-mitigating-record-breaking-3-8-tbps-ddos-attack/
 * Microsoft Office 2024 リリース
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/
+* MITRE 'AI Incident Sharing initiative' を立ち上げ
+    * https://www.darkreading.com/threat-intelligence/mitre-launches-ai-incident-sharing-initiative

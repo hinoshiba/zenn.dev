@@ -45,6 +45,7 @@ published: true
     * https://securityboulevard.com/2024/09/remote-code-execution-vulnerability-alert-of-unix-cups-print-service-cve-2024-47076-cve-2024-47175-cve-2024-47177/
     * https://securityboulevard.com/2024/09/cups-unraveling-a-critical-vulnerability-chain-in-unix-printing-systems/
     * https://www.darkreading.com/vulnerabilities-threats/unix-printing-vulnerabilities-easy-ddos-attacks
+    * https://www.bleepingcomputer.com/news/security/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/
 * CVE-2024-46461 VLC Media Player任意のコード実行
     * https://securityonline.info/vlc-media-player-update-needed-cve-2024-46461-discovered/
 * CVE-2024-8275 WordPress Plugin The Event Calender SQLi
