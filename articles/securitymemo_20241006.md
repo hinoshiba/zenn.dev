@@ -18,8 +18,19 @@ published: false
 # 事件事故
 
 # 攻撃、脅威
+* 東京損保鑑定 ランサムウェア被害。東京海上日動火災保険と損害保険ジャパン、三井住友海上火災保険。東京海上日動「ランサムウェア」で委託先の約7.2万件の情報漏えいか
+    * https://article.auone.jp/detail/1/3/6/333_6_r_20241007_1728299659331319 
+    * https://article.auone.jp/detail/1/3/6/16_6_r_20241007_1728296191809527 
 
 # 脆弱性
-
+* CVE-2024-30052 Visual Studio ダンプファイルを用いた任意のコード実行の脆弱性
+    * https://gbhackers.com/cve-2024-30052-visual-studio-exploit/  
+* CVE-2024-43047 Qualcomm DSP Chipset メモリ読み取りの脆弱性
+    * https://www.bleepingcomputer.com/news/security/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/
+    * https://securityonline.info/qualcomm-patched-multi-flaws-including-0-day-cve-2024-43047-rce-cve-2024-33066-cvss-9-8/
+* CVE-2024-20393 Ciscoルータ、外部からの権限昇格の脆弱性
+    * https://securityonline.info/privilege-escalation-and-remote-code-execution-threaten-cisco-routers-no-updates-available/ 
+* CVE-2024-31449 Redis 任意のコード実行の可能性
+    * https://securityonline.info/redis-patches-for-multi-flaws-including-potential-rce-cve-2024-31449/ 
 # その他
 
