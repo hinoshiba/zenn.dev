@@ -3,7 +3,7 @@ title: "2024/09/29 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -57,6 +57,7 @@ published: false
     * https://www.itmedia.co.jp/mobile/articles/2410/04/news110.html
     * https://www.darkreading.com/cyber-risk/iphone-voiceover-feature-read-passwords-aloud
     * https://www.theregister.com/2024/10/04/apple_voiceover_password_bug/
+    * https://thehackernews.com/2024/10/apple-releases-critical-ios-and-ipados.html
 
 
 ## KEV
