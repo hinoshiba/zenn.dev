@@ -32,5 +32,17 @@ published: false
     * https://securityonline.info/privilege-escalation-and-remote-code-execution-threaten-cisco-routers-no-updates-available/ 
 * CVE-2024-31449 Redis 任意のコード実行の可能性
     * https://securityonline.info/redis-patches-for-multi-flaws-including-potential-rce-cve-2024-31449/ 
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2024-Oct
+        * https://www.darkreading.com/vulnerabilities-threats/5-cves-microsofts-october-2024-update-patch-now
+        * https://krebsonsecurity.com/2024/10/patch-tuesday-october-2024-edition/
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/
+
 # その他
 
+* 中国グレートファイアウォール 宇宙に ～ 衛星ブロードバンドのリアルタイム検閲求める
+    * https://scan.netsecurity.ne.jp/article/2024/10/08/51734.html
+* ブラジル最高裁、Ｘのサービス再開許可
+    * https://jp.reuters.com/business/KXEWL477GNLDTAE6O7PYQVFTPA-2024-10-08/

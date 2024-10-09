@@ -52,6 +52,8 @@ published: true
     * https://securityonline.info/critical-sql-injection-vulnerability-discovered-in-the-events-calendar-wordpress-plugin-cve-2024-8275/
 * CVE-2024-7479 and CVE-2024-7481 TeamViewr 権限昇格の脆弱性
     * https://securityonline.info/teamviewer-urges-users-to-patch-privilege-escalation-flaws-cve-2024-7479-and-cve-2024-7481/
+    * PoCリリース
+        * https://securityonline.info/exploit-releases-for-teamviewer-flaws-cve-2024-7479-cve-2024-7481-let-unprivileged-users-load-arbitrary-kernel-drivers/
 * CVE-2024-9014 pgAdmin 未認証のアクセス
     * https://securityonline.info/cve-2024-9014-cvss-9-9-pgadmins-critical-vulnerability-puts-user-data-at-risk/
 ## KEV
