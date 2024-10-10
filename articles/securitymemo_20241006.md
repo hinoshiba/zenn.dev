@@ -21,6 +21,11 @@ published: false
 * 東京損保鑑定 ランサムウェア被害。東京海上日動火災保険と損害保険ジャパン、三井住友海上火災保険。東京海上日動「ランサムウェア」で委託先の約7.2万件の情報漏えいか
     * https://article.auone.jp/detail/1/3/6/333_6_r_20241007_1728299659331319 
     * https://article.auone.jp/detail/1/3/6/16_6_r_20241007_1728296191809527 
+* インターネットアーカイブ ハッキングを受ける.
+    * https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/
+    * https://haveibeenpwned.com/PwnedWebsites#InternetArchive
+* Casio ネットワーク侵害により製品リリースが遅れる
+    * https://securityonline.info/casio-confirms-network-breach-investigates-potential-data-compromise/
 
 # 脆弱性
 * CVE-2024-30052 Visual Studio ダンプファイルを用いた任意のコード実行の脆弱性
@@ -32,6 +37,12 @@ published: false
     * https://securityonline.info/privilege-escalation-and-remote-code-execution-threaten-cisco-routers-no-updates-available/ 
 * CVE-2024-31449 Redis 任意のコード実行の可能性
     * https://securityonline.info/redis-patches-for-multi-flaws-including-potential-rce-cve-2024-31449/ 
+* CVE-2024-9463 / CVE-2024-9464 Paloalto 未認証のコード実行の脆弱性PoCあり
+    * https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-firewall-hijack-bugs-with-public-exploit/
+    * https://securityonline.info/palo-alto-networks-issues-fix-for-critical-vulnerabilities-including-cve-2024-9463-cvss-9-9/
+* CVE-2024-9680 Firefox すでに攻撃が観測されているUAFの脆弱性
+    * https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/
+    * https://securityonline.info/firefox-zero-day-vulnerability-urgent-update-needed-to-patch-cve-2024-9680/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -40,9 +51,21 @@ published: false
         * https://krebsonsecurity.com/2024/10/patch-tuesday-october-2024-edition/
         * https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/
 
+## KEV
+* CVE-2024-23113 Fortinet Multiple Products Format String Vulnerability
+* CVE-2024-9379 Ivanti Cloud Services Appliance (CSA) SQL Injection Vulnerability
+* CVE-2024-9380 Ivanti Cloud Services Appliance (CSA) OS Command Injection Vulnerability
+
 # その他
 
 * 中国グレートファイアウォール 宇宙に ～ 衛星ブロードバンドのリアルタイム検閲求める
     * https://scan.netsecurity.ne.jp/article/2024/10/08/51734.html
 * ブラジル最高裁、Ｘのサービス再開許可
     * https://jp.reuters.com/business/KXEWL477GNLDTAE6O7PYQVFTPA-2024-10-08/
+* 太陽フレアでNICTが注意喚起　10日深夜から数日間、通信障害などのおそれ　「宇宙システムの利用には注意が必要」
+    * https://www.itmedia.co.jp/news/articles/2410/09/news193.html
+    * https://www.nict.go.jp/publicity/topics/2024/10/09-2.html
+* MicrosoftWord ファイルを保存するとファイルが削除される不具合。ワークアラウンドあり
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-word-bug-that-deleted-documents-when-saving/
+* `[.]io` ドメイン終了の可能性が浮上
+    * https://gigazine.net/news/20241009-domain-io/
