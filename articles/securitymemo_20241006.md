@@ -3,7 +3,7 @@ title: "2024/10/06 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -28,6 +28,7 @@ published: false
     * https://securityboulevard.com/2024/10/internet-archive-is-attacked-and-31-million-files-stolen/
 * Casio ネットワーク侵害により製品リリースが遅れる
     * https://securityonline.info/casio-confirms-network-breach-investigates-potential-data-compromise/
+    * https://securityonline.info/casio-hit-by-ransomware-attack-customer-and-employee-data-compromised/
 
 # 脆弱性
 * CVE-2024-30052 Visual Studio ダンプファイルを用いた任意のコード実行の脆弱性
@@ -49,9 +50,11 @@ published: false
     * https://www.darkreading.com/cyberattacks-data-breaches/critical-mozilla-firefox-zero-day-code-execution
     * https://www.theregister.com/2024/10/10/firefixed_mozilla_patches_critical_firefox/
     * https://thehackernews.com/2024/10/mozilla-warns-of-active-exploitation-in.html
+    * https://securityonline.info/mozilla-confirms-active-attacks-on-tor-browser-via-firefox-vulnerability/
 * CVE-2024-9164 GitLab 未認証ユーザが任意のPipelineを実行できる脆弱性
     * https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-arbitrary-branch-pipeline-execution-flaw/
     * https://securityonline.info/cve-2024-9164-cvss-9-6-gitlab-users-urged-to-update-now/
+    * https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -81,7 +84,10 @@ published: false
     * https://gigazine.net/news/20241009-domain-io/
 * Windows PPTP and L2TP の非推奨化
     * https://techcommunity.microsoft.com/t5/windows-server-news-and-best/pptp-and-l2tp-deprecation-a-new-era-of-secure-connectivity/ba-p/4263956
+    * https://securityonline.info/microsoft-deprecates-aging-vpn-protocols-pptp-and-l2tp-in-future-windows-server-versions/
 * Windows 制限された管理者をプレビュー版に導入
     * https://www.darkreading.com/endpoint-security/windows-preview-limit-administrator-privileges
 * オーストラリア、ランサムウェアへの身代金支払いを報告する法律の制定
     * https://therecord.media/australia-bill-mandatory-reporting-ransomware-payments
+* Windows 11 24H2 にて、10月のWindowsアップデート以降 8.63GBのゴミデータがドライブに存在。ユーザ削除不可
+    * https://www.theregister.com/2024/10/11/windows_update_cleanup/
