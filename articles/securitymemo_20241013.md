@@ -24,6 +24,12 @@ published: false
     * https://www.bleepingcomputer.com/news/security/pokemon-dev-game-freak-confirms-breach-after-stolen-data-leaks-online/
 * ダークマーケット販売中のCiscoに関するデータ、Ciscoは事実を調査中
     * https://www.theregister.com/2024/10/15/cisco_confirm_ongoing_investigation/
+* サイゼリヤ、ランサムウェア被害の可能性
+    * https://www.oricon.co.jp/news/2349644/full/
+    * https://www.sponichi.co.jp/society/news/2024/10/16/kiji/20241016s00042000296000c.html
+    * https://www.hokkaido-np.co.jp/article/1076125/
+* 山梨県　県のHP海外からのアクセス負荷により一時閲覧できず
+    * https://news.ntv.co.jp/n/ybs/category/society/ys201b2ab7c3f8494982ea006e1cc6713f
 # 脆弱性
 
 * CVE-2024-9487 GitHub Enterprise 認証bypass
@@ -33,6 +39,12 @@ published: false
     * https://securityonline.info/poc-exploit-release-for-windows-kernel-mode-driver-elevation-of-privilege-flaw-cve-2024-35250/
 * CVE-2024-45731 and CVE-2024-45733 Splunk 任意のコード実行の脆弱性
     * https://securityonline.info/splunk-patches-critical-vulnerabilities-including-remote-code-execution-flaws/
+* CVE-2024-9486 Kubernetes 上のVMへのRootアクセスの脆弱性。builderアカウントを無効化するワークアラウンドあり
+    * https://www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/
+    * https://www.bleepingcomputer.com/news/security/critical-kubernetes-image-builder-flaw-gives-ssh-root-access-to-vms/
+    * https://securityonline.info/cve-2024-9486-cvss-9-8-kubernetes-image-builder-flaw-exposes-vms-to-root-access/
+* CVE-2024-9634 WP Plugin RCE
+    * https://securityonline.info/cve-2024-9634-cvss-9-8-critical-givewp-flaw-exposes-100000-wordpress-sites-to-rce/
 
 ## KEV
 * CVE-2024-30088 Microsoft Windows Kernel TOCTOU Race Condition Vulnerability
@@ -45,6 +57,7 @@ published: false
     * https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/
 * FIDO、パスキーのクロスプラットフォームに関する提案
     * https://www.bleepingcomputer.com/news/security/new-fido-proposal-lets-you-securely-move-passkeys-across-platforms/
+    * https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html
 * Microsoft アカウントでパスキーが同期されるリリースを予定
     * https://blogs.windows.com/windowsdeveloper/2024/10/08/passkeys-on-windows-authenticate-seamlessly-with-passkey-providers/
 * Windows 10 のサポート終了に伴う注意喚起 ipa
