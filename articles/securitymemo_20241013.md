@@ -19,9 +19,33 @@ published: false
 
 # 攻撃、脅威
 
+* ゲームフリーク社、従業員情報等がリーク
+    * https://www.darkreading.com/cyberattacks-data-breaches/insider-info-pokemon-allegedly-leaked-gaming-hack
+    * https://www.bleepingcomputer.com/news/security/pokemon-dev-game-freak-confirms-breach-after-stolen-data-leaks-online/
+* ダークマーケット販売中のCiscoに関するデータ、Ciscoは事実を調査中
+    * https://www.theregister.com/2024/10/15/cisco_confirm_ongoing_investigation/
 # 脆弱性
+
+* CVE-2024-9487 GitHub Enterprise 認証bypass
+    * https://securityonline.info/github-enterprise-server-patches-critical-security-flaw-cve-2024-9487-cvss-9-5/
+    * https://www.securityweek.com/github-patches-critical-vulnerability-in-enterprise-server/
+* CVE-2024-35250 6月に修正されたWindows権限昇格の脆弱性 PoCリリース
+    * https://securityonline.info/poc-exploit-release-for-windows-kernel-mode-driver-elevation-of-privilege-flaw-cve-2024-35250/
+* CVE-2024-45731 and CVE-2024-45733 Splunk 任意のコード実行の脆弱性
+    * https://securityonline.info/splunk-patches-critical-vulnerabilities-including-remote-code-execution-flaws/
+
+## KEV
+* CVE-2024-30088 Microsoft Windows Kernel TOCTOU Race Condition Vulnerability
+* CVE-2024-9680 Mozilla Firefox Use-After-Free Vulnerability
+* CVE-2024-28987 SolarWinds Web Help Desk Hardcoded Credential Vulnerability
 
 # その他
 
 * Chrome uBlockOriginを含むいくつかの広告ブロッカー拡張機能がもう直ぐブロックされるとのこと。のManifestV2拡張機能仕様非推奨化の一環として。
     * https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/
+* FIDO、パスキーのクロスプラットフォームに関する提案
+    * https://www.bleepingcomputer.com/news/security/new-fido-proposal-lets-you-securely-move-passkeys-across-platforms/
+* Microsoft アカウントでパスキーが同期されるリリースを予定
+    * https://blogs.windows.com/windowsdeveloper/2024/10/08/passkeys-on-windows-authenticate-seamlessly-with-passkey-providers/
+* Windows 10 のサポート終了に伴う注意喚起 ipa
+    * https://www.ipa.go.jp/security/security-alert/2024/win10_eos.html

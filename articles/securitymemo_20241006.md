@@ -51,6 +51,7 @@ published: true
     * https://www.theregister.com/2024/10/10/firefixed_mozilla_patches_critical_firefox/
     * https://thehackernews.com/2024/10/mozilla-warns-of-active-exploitation-in.html
     * https://securityonline.info/mozilla-confirms-active-attacks-on-tor-browser-via-firefox-vulnerability/
+    * https://www.security-next.com/162941
 * CVE-2024-9164 GitLab 未認証ユーザが任意のPipelineを実行できる脆弱性
     * https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-arbitrary-branch-pipeline-execution-flaw/
     * https://securityonline.info/cve-2024-9164-cvss-9-6-gitlab-users-urged-to-update-now/
@@ -91,3 +92,4 @@ published: true
     * https://therecord.media/australia-bill-mandatory-reporting-ransomware-payments
 * Windows 11 24H2 にて、10月のWindowsアップデート以降 8.63GBのゴミデータがドライブに存在。ユーザ削除不可
     * https://www.theregister.com/2024/10/11/windows_update_cleanup/
+    * https://news.mynavi.jp/techplus/article/20241014-3043195/
