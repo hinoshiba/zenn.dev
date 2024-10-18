@@ -43,10 +43,17 @@ published: false
     * https://www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/
     * https://www.bleepingcomputer.com/news/security/critical-kubernetes-image-builder-flaw-gives-ssh-root-access-to-vms/
     * https://securityonline.info/cve-2024-9486-cvss-9-8-kubernetes-image-builder-flaw-exposes-vms-to-root-access/
+    * https://thehackernews.com/2024/10/critical-kubernetes-image-builder.html
 * CVE-2024-9634 WP Plugin RCE
     * https://securityonline.info/cve-2024-9634-cvss-9-8-critical-givewp-flaw-exposes-100000-wordpress-sites-to-rce/
-
+* CVE-2024-45844 BIG-IP 権限昇格の脆弱性
+    * https://www.securityweek.com/f5-big-ip-updates-patch-high-severity-elevation-of-privilege-vulnerability/
+* CVE-2024-38814 VMWare HCX SQLi RCEの脆弱性
+    * https://securityonline.info/broadcom-warns-of-high-risk-vmware-hcx-vulnerability-cve-2024-38814/
+* CVE-2024-48904 Trend Micro Cloud Edge CommandInjectionの脆弱性
+    * https://securityonline.info/cve-2024-48904-cvss-9-8-critical-command-injection-vulnerability-in-trend-micro-cloud-edge/
 ## KEV
+* CVE-2024-40711 Veeam Backup and Replication Deserialization Vulnerability
 * CVE-2024-30088 Microsoft Windows Kernel TOCTOU Race Condition Vulnerability
 * CVE-2024-9680 Mozilla Firefox Use-After-Free Vulnerability
 * CVE-2024-28987 SolarWinds Web Help Desk Hardcoded Credential Vulnerability
@@ -62,3 +69,8 @@ published: false
     * https://blogs.windows.com/windowsdeveloper/2024/10/08/passkeys-on-windows-authenticate-seamlessly-with-passkey-providers/
 * Windows 10 のサポート終了に伴う注意喚起 ipa
     * https://www.ipa.go.jp/security/security-alert/2024/win10_eos.html
+* イギリス大使館 都内の中高一貫校でイギリスのサイバーセキュリティー授業　
+    * https://topics.smt.docomo.ne.jp/article/ntv_news24/world/ntv_news24-2024101701474749?fm=latestnews
+    * https://news.ntv.co.jp/category/international/987e1ed2844a41559926660a212cc536
+* Microsoft 9/2-9/19 の間EntraやSentinel等のログが取得できていなかったバグがあり、顧客へ警告
+    * https://www.bleepingcomputer.com/news/security/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/
