@@ -3,7 +3,7 @@ title: "2024/10/13 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -30,6 +30,9 @@ published: false
     * https://www.hokkaido-np.co.jp/article/1076125/
 * 山梨県　県のHP海外からのアクセス負荷により一時閲覧できず
     * https://news.ntv.co.jp/n/ybs/category/society/ys201b2ab7c3f8494982ea006e1cc6713f
+    * https://www3.nhk.or.jp/news/html/20241018/k10014613281000.html
+* 横須賀市 ライクキッズ株式会社 ランサムウェア被害
+    * https://shonanjin.com/news/yokosuka-server-security-issue/
 # 脆弱性
 
 * CVE-2024-9487 GitHub Enterprise 認証bypass
@@ -48,10 +51,17 @@ published: false
     * https://securityonline.info/cve-2024-9634-cvss-9-8-critical-givewp-flaw-exposes-100000-wordpress-sites-to-rce/
 * CVE-2024-45844 BIG-IP 権限昇格の脆弱性
     * https://www.securityweek.com/f5-big-ip-updates-patch-high-severity-elevation-of-privilege-vulnerability/
+    * https://securityonline.info/f5-big-ip-vulnerability-cve-2024-45844-access-control-bypass-risk-poc-available/
 * CVE-2024-38814 VMWare HCX SQLi RCEの脆弱性
     * https://securityonline.info/broadcom-warns-of-high-risk-vmware-hcx-vulnerability-cve-2024-38814/
 * CVE-2024-48904 Trend Micro Cloud Edge CommandInjectionの脆弱性
     * https://securityonline.info/cve-2024-48904-cvss-9-8-critical-command-injection-vulnerability-in-trend-micro-cloud-edge/
+* CVE-2024-44133 macOS HMSurf ユーザの同意なしにSafariからカメラや位置情報取得ができる脆弱性
+    * https://innovatopia.jp/cyber-security/cyber-security-news/43554/
+    * https://www.darkreading.com/vulnerabilities-threats/macos-safari-exploit-camera-mic-browser-data
+    * https://www.securityweek.com/microsoft-macos-vulnerability-potentially-exploited-in-adware-attacks/
+* CVE-2024-9264 Grafana RCE
+    * https://securityonline.info/patch-now-grafana-hit-by-9-9-severity-rce-vulnerability-cve-2024-9264/
 ## KEV
 * CVE-2024-40711 Veeam Backup and Replication Deserialization Vulnerability
 * CVE-2024-30088 Microsoft Windows Kernel TOCTOU Race Condition Vulnerability
