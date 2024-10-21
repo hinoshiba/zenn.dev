@@ -19,8 +19,21 @@ published: false
 
 # 攻撃、脅威
 
+* 名古屋市HP サイバー攻撃により繋がりずらい状況
+    * https://news.biglobe.ne.jp/topics/it/1020/00782.html
+    * https://www.msn.com/ja-jp/news/national/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%EF%BD%88%EF%BD%90%E3%81%AB%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%8B-%E5%A4%A7%E9%87%8F%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%A7%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3-%E9%96%B2%E8%A6%A7%E3%81%97%E3%81%A5%E3%82%89%E3%81%84%E7%8A%B6%E6%85%8B/ar-AA1sANIM
+    * https://news.goo.ne.jp/article/yomiuri/nation/20241020-567-OYT1T50096.html
+    * https://www.msn.com/ja-jp/news/national/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E3%81%AEhp%E3%81%8C%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3-%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%82/ar-AA1sAuYk
+    * https://www.asahi.com/articles/ASSBN3S8VSBNOIPE00YM.html
+    * https://news.goo.ne.jp/article/tokaitv/nation/tokaitv-20241020-1948-36940.html
+    * https://www.fnn.jp/articles/-/775235
+* Internet Archve 攻撃者となのる主張。Gitのconfigファイルが開発サーバ上にあったことからAPIトークンを窃取とのこと
+    * https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/
+
 # 脆弱性
 
 
 # その他
 
+* Microsoft 引退させたハニーポットに関するブログを公開
+    * https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/
