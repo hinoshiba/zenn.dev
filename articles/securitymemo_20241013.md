@@ -22,8 +22,9 @@ published: true
 * ゲームフリーク社、従業員情報等がリーク
     * https://www.darkreading.com/cyberattacks-data-breaches/insider-info-pokemon-allegedly-leaked-gaming-hack
     * https://www.bleepingcomputer.com/news/security/pokemon-dev-game-freak-confirms-breach-after-stolen-data-leaks-online/
-* ダークマーケット販売中のCiscoに関するデータ、Ciscoは事実を調査中
+* Ciscoに関するデータ、ダークマーケットで販売される
     * https://www.theregister.com/2024/10/15/cisco_confirm_ongoing_investigation/
+    * https://www.securityweek.com/cisco-confirms-security-incident-after-hacker-offers-to-sell-data/
 * サイゼリヤ、ランサムウェア被害の可能性
     * https://www.oricon.co.jp/news/2349644/full/
     * https://www.sponichi.co.jp/society/news/2024/10/16/kiji/20241016s00042000296000c.html
@@ -60,6 +61,9 @@ published: true
     * https://innovatopia.jp/cyber-security/cyber-security-news/43554/
     * https://www.darkreading.com/vulnerabilities-threats/macos-safari-exploit-camera-mic-browser-data
     * https://www.securityweek.com/microsoft-macos-vulnerability-potentially-exploited-in-adware-attacks/
+    * https://www.theregister.com/2024/10/21/microsoft_macos_hm_surf/
+    * https://forbesjapan.com/articles/detail/74491
+    * https://rocket-boys.co.jp/9843/
 * CVE-2024-9264 Grafana RCE
     * https://securityonline.info/patch-now-grafana-hit-by-9-9-severity-rce-vulnerability-cve-2024-9264/
 ## KEV

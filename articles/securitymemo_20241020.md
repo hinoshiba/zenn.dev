@@ -27,11 +27,19 @@ published: false
     * https://www.asahi.com/articles/ASSBN3S8VSBNOIPE00YM.html
     * https://news.goo.ne.jp/article/tokaitv/nation/tokaitv-20241020-1948-36940.html
     * https://www.fnn.jp/articles/-/775235
+* 福岡空港などでHP障害
+    * https://www.nishinippon.co.jp/item/n/1272456/
+    * https://www3.nhk.or.jp/fukuoka-news/20241021/5010025938.html
 * Internet Archve 攻撃者となのる主張。Gitのconfigファイルが開発サーバ上にあったことからAPIトークンを窃取とのこと
     * https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/
 
 # 脆弱性
+* CVE-2024-30090 6月に修正された権限昇格の脆弱性。PoCリリース
+    * https://securityonline.info/microsoft-windows-flaw-cve-2024-30090-poc-exploit-published-posing-system-privilege-threat/ 
 
+
+## KEV
+* CVE-2024-9537 ScienceLogic SL1 Unspecified Vulnerability
 
 # その他
 
