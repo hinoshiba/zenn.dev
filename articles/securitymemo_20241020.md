@@ -17,6 +17,9 @@ published: false
 
 # 事件事故
 
+* 14歳の中学生　不正アクセス、送金しようとした疑いで逮捕　自宅の部屋から276万円を押収
+    * https://www.kobe-np.co.jp/news/jiken/202410/0018262385.shtml
+
 # 攻撃、脅威
 
 * 名古屋市HP サイバー攻撃により繋がりずらい状況
@@ -48,11 +51,19 @@ published: false
     * https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html
 * CVE-2024-44068 SAMSUNG のAndroid権限昇格の脆弱性、ゼロデイ
     * https://www.securityweek.com/google-warns-of-samsung-zero-day-exploited-in-the-wild/
+* CVE-2024-47575 FortiManager RCEの脆弱性。ゼロデイ
+    * https://www.securityweek.com/fortinet-confirms-zero-day-exploit-targeting-fortimanager-systems/
+    * https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-critical-fortimanager-flaw-used-in-zero-day-attacks/
+    * https://rocket-boys.co.jp/9955/
+* CVE-2024-8312 GitLab XSS
+    * https://about.gitlab.com/releases/2024/10/23/patch-release-gitlab-17-5-1-released/
 
 
 ## KEV
 * CVE-2024-9537 ScienceLogic SL1 Unspecified Vulnerability
 * CVE-2024-38094 Microsoft SharePoint Deserialization Vulnerability
+    * https://www.theregister.com/2024/10/23/microsoft_sharepoint_rce_exploited/
+* CVE-2024-47575 Fortinet FortiManager Missing Authentication Vulnerability
 
 # その他
 
