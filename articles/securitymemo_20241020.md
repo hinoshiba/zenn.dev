@@ -32,16 +32,33 @@ published: false
     * https://www3.nhk.or.jp/fukuoka-news/20241021/5010025938.html
 * Internet Archve 攻撃者となのる主張。Gitのconfigファイルが開発サーバ上にあったことからAPIトークンを窃取とのこと
     * https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/
+* カシオ計算機 中間決算発表を延期
+    * https://news.biglobe.ne.jp/international/1022/reu_241022_8687482569.html
+    * https://jp.reuters.com/markets/world-indices/NVA6TW6MB5NWLISQGM2JF3BJLM-2024-10-22/
+    * https://rocket-boys.co.jp/9898/
 
 # 脆弱性
 * CVE-2024-30090 6月に修正された権限昇格の脆弱性。PoCリリース
     * https://securityonline.info/microsoft-windows-flaw-cve-2024-30090-poc-exploit-published-posing-system-privilege-threat/ 
+* CVE-2024-43532 10月に修正されたWindows NTLMリレー攻撃の脆弱性、PoCリリース
+    * https://www.bleepingcomputer.com/news/security/exploit-released-for-new-windows-server-winreg-ntlm-relay-attack/
+* broadcom CVE-2024-38812 への修正が不十分で再修正を配布
+    * https://www.theregister.com/2024/10/22/vmware_rce_vcenter_bugs/
+    * https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/
+    * https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html
+* CVE-2024-44068 SAMSUNG のAndroid権限昇格の脆弱性、ゼロデイ
+    * https://www.securityweek.com/google-warns-of-samsung-zero-day-exploited-in-the-wild/
 
 
 ## KEV
 * CVE-2024-9537 ScienceLogic SL1 Unspecified Vulnerability
+* CVE-2024-38094 Microsoft SharePoint Deserialization Vulnerability
 
 # その他
 
 * Microsoft 引退させたハニーポットに関するブログを公開
     * https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/
+* CISA 政府と個人データ保護のためのセキュリティ要件を提案
+    * https://www.bleepingcomputer.com/news/security/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/
+* OWASP Mobile top10 更新差分ブログ
+    * https://kratikal.com/blog/owasp-mobile-top-10-2024-update-overview/
