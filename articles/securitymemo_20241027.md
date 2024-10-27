@@ -22,5 +22,8 @@ published: false
 
 # 脆弱性
 
+* CVE-2024-9488 WordPress Plugin wpDiscuz 認証bypassの脆弱性
+    * https://securityonline.info/cve-2024-9488-cvss-9-8-authentication-bypass-flaw-in-wpdiscuz-plugin-over-80000-sites-at-risk/
+
 # その他
 
