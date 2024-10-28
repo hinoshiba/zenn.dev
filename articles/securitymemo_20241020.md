@@ -57,6 +57,8 @@ published: true
     * https://www.theregister.com/2024/10/22/vmware_rce_vcenter_bugs/
     * https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/
     * https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html
+    * 詳細な解説
+        * https://securityonline.info/researcher-details-cve-2024-38812-cvss-9-8-critical-rce-flaw-in-vmware-vcenter/
 * CVE-2024-44068 SAMSUNG のAndroid権限昇格の脆弱性、ゼロデイ
     * https://www.securityweek.com/google-warns-of-samsung-zero-day-exploited-in-the-wild/
 * CVE-2024-47575 FortiManager RCEの脆弱性。ゼロデイ

@@ -24,6 +24,11 @@ published: false
 
 * CVE-2024-9488 WordPress Plugin wpDiscuz 認証bypassの脆弱性
     * https://securityonline.info/cve-2024-9488-cvss-9-8-authentication-bypass-flaw-in-wpdiscuz-plugin-over-80000-sites-at-risk/
+* Windowsのダウングレード攻撃、修正済みのWindowsで実証
+    * https://thehackernews.com/2024/10/researchers-uncover-os-downgrade.html
+    * https://news.mynavi.jp/techplus/article/20241028-3053962/
 
 # その他
 
+* Exchange Online向けの受信SMTP DANEおよびDNSSECの一般提供開始
+    * https://techcommunity.microsoft.com/t5/exchange-team-blog/announcing-general-availability-of-inbound-smtp-dane-with-dnssec/ba-p/4281292

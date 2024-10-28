@@ -66,6 +66,9 @@ published: true
     * https://rocket-boys.co.jp/9843/
 * CVE-2024-9264 Grafana RCE
     * https://securityonline.info/patch-now-grafana-hit-by-9-9-severity-rce-vulnerability-cve-2024-9264/
+    * PoCリリース
+        * https://securityonline.info/grafana-vulnerability-cve-2024-9264-poc-released-for-9-9-rated-critical-flaw/
+
 ## KEV
 * CVE-2024-40711 Veeam Backup and Replication Deserialization Vulnerability
 * CVE-2024-30088 Microsoft Windows Kernel TOCTOU Race Condition Vulnerability
