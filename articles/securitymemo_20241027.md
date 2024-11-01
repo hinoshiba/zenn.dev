@@ -55,6 +55,14 @@ published: false
 * CVE-2024-10392 WordPress Plugin AI Power 任意のコード実行の脆弱性
     * https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/gpt3-ai-content-generator/ai-power-complete-ai-pack-1889-unauthenticated-arbitrary-file-upload
     https://securityonline.info/cve-2024-10392-cvss-9-8-popular-wordpress-ai-plugin-exposed-to-critical-security-risk/
+* CVE-2024-10443 Synology NAS 任意のコード実行の脆弱性。PoCなし
+    * https://x.com/thezdi/status/1849068671177531664
+    * https://www.bleepingcomputer.com/news/security/synology-fixed-two-critical-zero-days-exploited-at-pwn2own-within-days/
+* CVE-2024-10487 GoogleChrome領域外書き込みの脆弱性
+    * https://www.bitdefender.com/en-gb/blog/hotforsecurity/patch-browser-google-updates-chrome-critical-bug-fixes/
+* CVE-2024-9632 X.Org Server RCEやDoSの脆弱性
+    * https://securityonline.info/cve-2024-9632-18-year-old-bug-in-x-org-server-leaves-systems-vulnerable-to-attack/
+
 # その他
 
 * Exchange Online向けの受信SMTP DANEおよびDNSSECの一般提供開始
