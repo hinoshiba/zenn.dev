@@ -3,7 +3,7 @@ title: "2024/10/27 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -49,6 +49,7 @@ published: false
     * https://www.theregister.com/2024/10/30/zeroday_windows_themes/
 * CVE-2024-38821 Spring WebFlux 認証bypassの脆弱性
     * https://securityonline.info/cve-2024-38821-cvss-9-1-allows-authorization-bypass-in-webflux-applications/
+    * https://securityonline.info/poc-exploit-releases-for-spring-webflux-authorization-bypass-cve-2024-38821/
 * CVE-2024-50550 WordPress Plugin LiteSpeedCache 未認証の管理者アクセスの脆弱性
     * https://www.bleepingcomputer.com/news/security/litespeed-cache-wordpress-plugin-bug-lets-hackers-get-admin-access/
     * https://thehackernews.com/2024/10/litespeed-cache-plugin-vulnerability.html
