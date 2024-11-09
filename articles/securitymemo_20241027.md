@@ -40,6 +40,7 @@ published: true
     * https://securityonline.info/qnap-patches-critical-zero-day-exploited-at-pwn2own-ireland-2024-cve-2024-50388/
     * https://www.bleepingcomputer.com/news/security/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/
     * https://www.security-next.com/163670
+    * https://securityonline.info/qnap-patches-zero-day-flaw-cve-2024-50389-in-qurouter-following-pwn2own-ireland-2024-exploits/
 * CVE-2024-45802 Squid Edge Side Includes (ESI)機能が有効な場合、DoSの脆弱性の影響
     * https://securityonline.info/denial-of-service-vulnerability-found-in-squid-proxy-server-cve-2024-45802/
 * CVE-2024-45656 IBM Power Systems server 任意のアクセスが可能となる脆弱性
