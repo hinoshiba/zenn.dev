@@ -20,8 +20,12 @@ published: false
 # 攻撃、脅威
 
 # 脆弱性
+* CVE-2024-47295 SEIKO EPSON のデバイス、管理者権限を容易に乗っ取られる脆弱性
+    * https://securityonline.info/unpatched-epson-devices-at-risk-cve-2024-47295-allows-easy-hijacking/
 
 
 # その他
 * Windows 11 22H2 and 23H2 10月のWindowsUpdate以降SSHの接続に失敗する不具合がある。ワークアラウンドあり
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-11-updates-break-ssh-connections/
+* iPhone 長時間の放置時に自動再起動することで、再暗号化し、デバイスのセキュリティを高める機能を追加
+    * https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/

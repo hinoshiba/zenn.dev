@@ -36,6 +36,7 @@ published: true
     * https://www.bleepingcomputer.com/news/security/cisco-bug-lets-hackers-run-commands-as-root-on-uwrb-access-points/
     * https://securityonline.info/cve-2024-20418-cvss-10-cisco-urwb-access-points-vulnerable-to-remote-takeover/
     * https://www.theregister.com/2024/11/07/cisco_uiws_flaw/
+    * https://news.mynavi.jp/techplus/article/20241111-3060914/
 * CVE-2024-44258 iOS symbolic linkに関する不具合。バックアップ時に影響
     * https://securityonline.info/poc-exploit-releases-for-critical-symlink-flaw-in-apples-ios-cve-2024-44258/
     * https://www.itmedia.co.jp/enterprise/articles/2411/08/news093.html
