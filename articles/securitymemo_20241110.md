@@ -22,10 +22,28 @@ published: false
 # 脆弱性
 * CVE-2024-47295 SEIKO EPSON のデバイス、管理者権限を容易に乗っ取られる脆弱性
     * https://securityonline.info/unpatched-epson-devices-at-risk-cve-2024-47295-allows-easy-hijacking/
-
+* CVE-2024-50330 Ivanti Endpoint Manager RCE
+    * https://securityonline.info/cve-2024-50330-cvss-9-8-unpatched-ivanti-endpoint-manager-vulnerable-to-rce-attacks/
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2024-Nov
+        * https://securityboulevard.com/2024/11/patch-tuesday-update-november-2024/
+        * https://www.darkreading.com/cloud-security/2-zero-day-bugs-microsoft-nov-update-active-exploit
+        * https://krebsonsecurity.com/2024/11/microsoft-patch-tuesday-november-2024-edition/
+        * https://www.securityweek.com/microsoft-confirms-zero-day-exploitation-of-task-scheduler-flaw/
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2024-patch-tuesday-fixes-4-zero-days-91-flaws/
+## KEV
+* CVE-2021-26086 Atlassian Jira Server and Data Center Path Traversal Vulnerability
+* CVE-2014-2120 Cisco Adaptive Security Appliance (ASA) Cross-Site Scripting (XSS) Vulnerability
+* CVE-2021-41277 Metabase GeoJSON API Local File Inclusion Vulnerability
+* CVE-2024-43451 Microsoft Windows NTLMv2 Hash Disclosure Spoofing Vulnerability
+* CVE-2024-49039 Microsoft Windows Task Scheduler Privilege Escalation Vulnerability
 
 # その他
 * Windows 11 22H2 and 23H2 10月のWindowsUpdate以降SSHの接続に失敗する不具合がある。ワークアラウンドあり
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-11-updates-break-ssh-connections/
 * iPhone 長時間の放置時に自動再起動することで、再暗号化し、デバイスのセキュリティを高める機能を追加
     * https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/
+* VMWare Workstationやfusionを商用も無償化へ
+    * https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/
