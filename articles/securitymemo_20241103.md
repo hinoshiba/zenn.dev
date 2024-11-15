@@ -46,6 +46,7 @@ published: true
     * https://securityonline.info/cve-2024-10470-cvss-9-8-in-popular-wordpress-theme-exposes-thousands-of-sites/
 * CVE-2024-10914 D-Link 任意のコード実行の脆弱性
     * https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-flaw-affecting-60-000-older-nas-devices/
+    * https://www.bleepingcomputer.com/news/security/critical-bug-in-eol-d-link-nas-devices-now-exploited-in-attacks/
 
 ## KEV
 * CVE-2024-8957 PTZOptics PT30X-SDI/NDI Cameras OS Command Injection Vulnerability
