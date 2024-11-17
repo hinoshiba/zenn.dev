@@ -3,7 +3,7 @@ title: "2024/11/10 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -29,6 +29,17 @@ published: false
 * CVE-2024-9693 GitLab Kubernetes Agent 未認証のアクセスの可能性
     * https://securityonline.info/cve-2024-9693-gitlab-issues-critical-patch-for-kubernetes-agent/
     * https://www.security-next.com/164207
+* CVE-2024-11120 GeoVision 未認証のコード実行の脆弱性
+    * https://www.bleepingcomputer.com/news/security/botnet-exploits-geovision-zero-day-to-install-mirai-malware/
+    * https://securityonline.info/cve-2024-11120-os-command-injection-flaw-in-geovision-devices-actively-exploited-no-patch/
+* PAN-SA-2024-0015 Paloalto 未認証のコード実行の脆弱性
+    * https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/
+    * https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/
+    * https://www.securityweek.com/palo-alto-networks-confirms-new-firewall-zero-day-exploitation/
+* CVE-2024-10979 PostgreSQL 任意のコード実行や情報漏洩の可能性
+    * https://thehackernews.com/2024/11/high-severity-flaw-in-postgresql-allows.html
+* CVE-2024-52301 Laravel 未認証のアクセスや権限昇格の可能性
+    * https://securityonline.info/critical-laravel-flaw-cve-2024-52301-exposes-millions-of-web-applications-to-attack/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -54,12 +65,14 @@ published: false
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-11-updates-break-ssh-connections/
 * iPhone 長時間の放置時に自動再起動することで、再暗号化し、デバイスのセキュリティを高める機能を追加
     * https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/
-* VMWare Workstationやfusionを商用も無償化へ
-    * https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/
 * WindowsServer2025への勝手にアップグレードした問題、サードパーティ製品の更新管理システムの影響か
     * https://learn.microsoft.com/en-us/windows/release-health/status-windows-server-2025#3404msgdesc
 * Windows 11 Arm版、直接ISOのDLが可能に
     * https://www.theregister.com/2024/11/14/windows_11_arm_iso/
 * Broadcom VMWare Workstation ProおよびFusionを無償化へ
+    * https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/
     * https://www.theregister.com/2024/11/14/vmware_workstation_free/
     * https://news.mynavi.jp/techplus/article/20241113-3063120/
+* Microsoft Windwos 10 ベータチャンネルをクローズ
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-just-killed-the-windows-10-beta-channel-for-good/
+    * https://news.mynavi.jp/techplus/article/20241115-3065337/
