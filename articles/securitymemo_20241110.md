@@ -36,6 +36,7 @@ published: true
     * https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/
     * https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/
     * https://www.securityweek.com/palo-alto-networks-confirms-new-firewall-zero-day-exploitation/
+    * https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html
 * CVE-2024-10979 PostgreSQL 任意のコード実行や情報漏洩の可能性
     * https://thehackernews.com/2024/11/high-severity-flaw-in-postgresql-allows.html
 * CVE-2024-52301 Laravel 未認証のアクセスや権限昇格の可能性

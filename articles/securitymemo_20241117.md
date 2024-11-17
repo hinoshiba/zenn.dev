@@ -17,6 +17,10 @@ published: false
 
 # 事件事故
 
+* 2024/11/15 Salesforce 大規模障害
+    * https://status.salesforce.com/incidents/13457
+    * https://piyolog.hatenadiary.jp/entry/2024/11/18/040039
+
 # 攻撃、脅威
 
 # 脆弱性
