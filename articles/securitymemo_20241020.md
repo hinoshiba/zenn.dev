@@ -70,6 +70,8 @@ published: true
     * https://www.securityweek.com/new-fortinet-zero-day-exploited-for-months-before-patch-release/
     * https://thehackernews.com/2024/10/fortinet-warns-of-critical.html
     * https://www.theregister.com/2024/10/23/fortimanager_critical_vulnerability/
+    * PoCリリース
+        * https://securityonline.info/poc-exploit-releases-for-zero-day-cve-2024-47575-flaw-in-fortinet-fortimanager/
 * CVE-2024-8312 GitLab XSS
     * https://about.gitlab.com/releases/2024/10/23/patch-release-gitlab-17-5-1-released/
 * CVE-2024-20481 Cisco VPN製品へのDoS

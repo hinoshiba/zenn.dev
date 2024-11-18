@@ -24,5 +24,20 @@ published: false
 # 攻撃、脅威
 
 # 脆弱性
+* CVE-2024-38812 and CVE-2024-38813 脆弱性公表からパッチ適用まで1ヶ月ほど。すでに攻撃に利用されているため、パッチの適用を呼びかけ
+    * https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/
+    * https://www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/
+* CVE-2024-10924 WordPress Plugin Really Simple Security(SSL) 認証bypassの脆弱性
+    * https://thehackernews.com/2024/11/urgent-critical-wordpress-plugin.html
+    * https://rocket-boys.co.jp/10663/
+
+## KEV
+* CVE-2024-1212 Progress Kemp LoadMaster OS Command Injection Vulnerability
+* CVE-2024-0012 Palo Alto Networks PAN-OS Management Interface Authentication Bypass Vulnerability
+* CVE-2024-9474 Palo Alto Networks PAN-OS Management Interface OS Command Injection Vulnerability
+
 
 # その他
+
+* Brave iOS版、Wipe機能が追加
+    * https://www.bleepingcomputer.com/news/security/brave-on-ios-adds-new-shred-button-to-wipe-site-specific-data/
