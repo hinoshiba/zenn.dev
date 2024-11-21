@@ -32,7 +32,7 @@ published: true
 * CVE-2024-11120 GeoVision 未認証のコード実行の脆弱性
     * https://www.bleepingcomputer.com/news/security/botnet-exploits-geovision-zero-day-to-install-mirai-malware/
     * https://securityonline.info/cve-2024-11120-os-command-injection-flaw-in-geovision-devices-actively-exploited-no-patch/
-* CVE-2024-0012 Paloalto 未認証のコード実行の脆弱性
+* CVE-2024-0012 Paloalto 未認証のコード実行の脆弱性。PoCあり
     * https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/
     * https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/
     * https://www.securityweek.com/palo-alto-networks-confirms-new-firewall-zero-day-exploitation/
@@ -40,6 +40,7 @@ published: true
     * https://www.bleepingcomputer.com/news/security/palo-alto-networks-patches-two-firewall-zero-days-used-in-attacks/
     * https://securityonline.info/cve-2024-0012-and-cve-2024-9474-actively-exploited-vulnerabilities-impact-palo-alto-networks-pan-os/
     * https://www.security-next.com/164355
+    * https://securityonline.info/analysis-poc-exploits-released-for-palo-alto-zero-days-cve-2024-0012-and-cve-2024-9474/
 * CVE-2024-10979 PostgreSQL 任意のコード実行や情報漏洩の可能性
     * https://thehackernews.com/2024/11/high-severity-flaw-in-postgresql-allows.html
 * CVE-2024-52301 Laravel 未認証のアクセスや権限昇格の可能性

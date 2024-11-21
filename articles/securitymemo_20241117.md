@@ -30,14 +30,26 @@ published: false
 * CVE-2024-10924 WordPress Plugin Really Simple Security(SSL) 認証bypassの脆弱性
     * https://thehackernews.com/2024/11/urgent-critical-wordpress-plugin.html
     * https://rocket-boys.co.jp/10663/
+* CVE-2024-44308 Apple Device JavaScriptCore RCEの脆弱性
+    * https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-days-used-in-attacks-on-intel-based-macs/
+    * https://securityonline.info/cve-2024-44308-and-cve-2024-44309-apple-addresses-zero-day-vulnerabilities/
+    * https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/
+* CVE-2024-52308 GitHub CLI 任意のコード実行の可能性
+    * https://securityonline.info/cve-2024-52308-github-cli-vulnerability-could-allow-remote-code-execution/
+* CVE-2024-51503 TrendMicro Deep Security Agent RCEの脆弱性
+    * https://securityonline.info/cve-2024-51503-trend-micro-deep-security-agent-rce-vulnerability-fixed/
 
 ## KEV
 * CVE-2024-1212 Progress Kemp LoadMaster OS Command Injection Vulnerability
 * CVE-2024-0012 Palo Alto Networks PAN-OS Management Interface Authentication Bypass Vulnerability
 * CVE-2024-9474 Palo Alto Networks PAN-OS Management Interface OS Command Injection Vulnerability
+* CVE-2024-38812 VMware vCenter Server Heap-Based Buffer Overflow Vulnerability
+* CVE-2024-38813 VMware vCenter Server Privilege Escalation Vulnerability
 
 
 # その他
 
 * Brave iOS版、Wipe機能が追加
     * https://www.bleepingcomputer.com/news/security/brave-on-ios-adds-new-shred-button-to-wipe-site-specific-data/
+* MITRE 2024年ソフトウェアの脆弱ポイントtop25を公開
+    * https://www.bleepingcomputer.com/news/security/mitre-shares-2024s-top-25-most-dangerous-software-weaknesses/
