@@ -38,6 +38,8 @@ published: false
     * https://securityonline.info/cve-2024-52308-github-cli-vulnerability-could-allow-remote-code-execution/
 * CVE-2024-51503 TrendMicro Deep Security Agent RCEの脆弱性
     * https://securityonline.info/cve-2024-51503-trend-micro-deep-security-agent-rce-vulnerability-fixed/
+* CVE-2024-10220 k8s 任意のコード実行の脆弱性
+    * https://securityonline.info/cve-2024-10220-kubernetes-vulnerability-allows-arbitrary-command-execution/
 
 ## KEV
 * CVE-2024-1212 Progress Kemp LoadMaster OS Command Injection Vulnerability
@@ -45,6 +47,9 @@ published: false
 * CVE-2024-9474 Palo Alto Networks PAN-OS Management Interface OS Command Injection Vulnerability
 * CVE-2024-38812 VMware vCenter Server Heap-Based Buffer Overflow Vulnerability
 * CVE-2024-38813 VMware vCenter Server Privilege Escalation Vulnerability
+* CVE-2024-44308 Apple Multiple Products Code Execution Vulnerability
+* CVE-2024-44309 Apple Multiple Products Cross-Site Scripting (XSS) Vulnerability
+* CVE-2024-21287 Oracle Agile Product Lifecycle Management (PLM) Incorrect Authorization Vulnerability
 
 
 # その他
@@ -53,3 +58,6 @@ published: false
     * https://www.bleepingcomputer.com/news/security/brave-on-ios-adds-new-shred-button-to-wipe-site-specific-data/
 * MITRE 2024年ソフトウェアの脆弱ポイントtop25を公開
     * https://www.bleepingcomputer.com/news/security/mitre-shares-2024s-top-25-most-dangerous-software-weaknesses/
+    * https://securityonline.info/2024-cwe-top-25-critical-software-weaknesses-revealed/
+* 国民生活センター、デジタル終活を公開
+    * https://www.kokusen.go.jp/news/data/n-20241120_1.html

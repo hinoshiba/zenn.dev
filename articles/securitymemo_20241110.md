@@ -41,6 +41,7 @@ published: true
     * https://securityonline.info/cve-2024-0012-and-cve-2024-9474-actively-exploited-vulnerabilities-impact-palo-alto-networks-pan-os/
     * https://www.security-next.com/164355
     * https://securityonline.info/analysis-poc-exploits-released-for-palo-alto-zero-days-cve-2024-0012-and-cve-2024-9474/
+    * https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/
 * CVE-2024-10979 PostgreSQL 任意のコード実行や情報漏洩の可能性
     * https://thehackernews.com/2024/11/high-severity-flaw-in-postgresql-allows.html
 * CVE-2024-52301 Laravel 未認証のアクセスや権限昇格の可能性
