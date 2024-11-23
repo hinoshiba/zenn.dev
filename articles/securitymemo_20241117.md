@@ -61,3 +61,7 @@ published: false
     * https://securityonline.info/2024-cwe-top-25-critical-software-weaknesses-revealed/
 * 国民生活センター、デジタル終活を公開
     * https://www.kokusen.go.jp/news/data/n-20241120_1.html
+* WSLにRHE登場
+    * https://securityonline.info/red-hat-enterprise-linux-lands-on-windows-subsystem-for-linux/
+* Windows 11 Hotpacthアップデート
+    * https://techcommunity.microsoft.com/blog/windows-itpro-blog/hotpatch-for-client-comes-to-windows-11-enterprise/4302717
