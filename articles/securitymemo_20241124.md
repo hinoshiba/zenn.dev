@@ -21,6 +21,10 @@ published: false
 
 # 脆弱性
 
+* CVE-2024-48860 QNAP QuRouter 任意のコード実行の脆弱性
+    * https://securityonline.info/cve-2024-48860-cvss-9-5-critical-flaw-in-qnap-qurouter-immediate-update-recommended/
+    * https://www.bleepingcomputer.com/news/security/qnap-addresses-critical-flaws-across-nas-router-software/
+
 # その他
 
 * Microsoft フィッシングサービスのONNX をtakedown
