@@ -24,6 +24,19 @@ published: false
 * CVE-2024-48860 QNAP QuRouter 任意のコード実行の脆弱性
     * https://securityonline.info/cve-2024-48860-cvss-9-5-critical-flaw-in-qnap-qurouter-immediate-update-recommended/
     * https://www.bleepingcomputer.com/news/security/qnap-addresses-critical-flaws-across-nas-router-software/
+* CVE-2024-52899 IBM Data Virtualization Manager and Security SOAR JDBC URLパラメータによるコード実行の脆弱性
+    * https://www.securityweek.com/ibm-patches-rce-vulnerabilities-in-data-virtualization-manager-security-soar/
+* CVE-2024-10542 CVE-2024-10781 WordPress Plugin Anti Spam 任意のコード実行の脆弱性
+    * https://thehackernews.com/2024/11/critical-wordpress-anti-spam-plugin.html
+    * https://www.securityweek.com/critical-vulnerabilities-found-in-anti-spam-plugin-used-by-200000-wordpress-sites/
+    * https://securityonline.info/cve-2024-10542-cve-2024-10781-critical-wordpress-plugin-flaw-exposes-200000-sites/
+* CVE-2024-5921 Paloalto GlobalProtect App 悪意のあるソフトウェアがインストールされる可能性
+    * https://securityonline.info/palo-alto-networks-warns-of-globalprotect-app-flaw-with-public-exploit-code-cve-2024-5921/
+* CVE-2024-8932 PHP 任意のコード実行の可能性。ldap_escapeを32bit環境で利用すると影響あり
+    * https://securityonline.info/php-patches-multi-flaws-including-cve-2024-8932-cvss-9-8-urges-immediate-update/
+
+## KEV
+* CVE-2023-28461 Array Networks AG and vxAG ArrayOS Missing Authentication for Critical Function Vulnerability
 
 # その他
 
