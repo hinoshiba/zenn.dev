@@ -34,6 +34,10 @@ published: false
     * https://securityonline.info/palo-alto-networks-warns-of-globalprotect-app-flaw-with-public-exploit-code-cve-2024-5921/
 * CVE-2024-8932 PHP 任意のコード実行の可能性。ldap_escapeを32bit環境で利用すると影響あり
     * https://securityonline.info/php-patches-multi-flaws-including-cve-2024-8932-cvss-9-8-urges-immediate-update/
+* CVE-2024-42330 Zabbix 任意のコード実行の脆弱性
+    * https://securityonline.info/cve-2024-42330-cvss-9-1-zabbix-patches-critical-remote-code-execution-vulnerability/
+* CVE-2024-42327 Zabbix 権限昇格の脆弱性
+    * https://securityonline.info/cve-2024-42327-critical-sql-injection-vulnerability-found-in-zabbix/
 
 ## KEV
 * CVE-2023-28461 Array Networks AG and vxAG ArrayOS Missing Authentication for Critical Function Vulnerability
@@ -42,3 +46,6 @@ published: false
 
 * Microsoft フィッシングサービスのONNX をtakedown
     * https://securityonline.info/microsoft-takes-down-onnx-phishing-as-a-service-operation/
+* Cloudflare 3.5hのログ保管トラブル。55%が失われる
+    * https://www.bleepingcomputer.com/news/security/cloudflare-says-it-lost-55-percent-of-logs-pushed-to-customers-for-35-hours/
+    * https://securityonline.info/cloudflare-logs-suffer-critical-failure-losing-55-of-user-data/
