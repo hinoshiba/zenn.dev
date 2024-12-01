@@ -3,7 +3,7 @@ title: "2024/11/24 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -38,6 +38,7 @@ published: false
     * https://securityonline.info/cve-2024-42330-cvss-9-1-zabbix-patches-critical-remote-code-execution-vulnerability/
 * CVE-2024-42327 Zabbix 権限昇格の脆弱性
     * https://securityonline.info/cve-2024-42327-critical-sql-injection-vulnerability-found-in-zabbix/
+    * https://www.theregister.com/2024/11/29/zabbix_urges_upgrades_after_critical/
 
 ## KEV
 * CVE-2023-28461 Array Networks AG and vxAG ArrayOS Missing Authentication for Critical Function Vulnerability
