@@ -28,6 +28,7 @@ published: false
     * https://securityonline.info/cve-2024-8672-critical-flaw-in-widget-options-plugin-threatens-100000-websites/
 * CVE-2024-8785 Progress WhatsUp Gold RCEの脆弱性
     * https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-whatsup-gold-rce-flaw-patch-now/
+    * https://securityonline.info/exploit-code-available-critical-flaw-found-in-whatsup-gold-cve-2024-8785-cvss-9-8/
 * CVE-2024-49039 11月のWindowsUpdateで修正されたTaskSchedulerの脆弱性。PoCリリース
     * https://securityonline.info/zero-day-exploit-code-released-for-windows-task-scheduler-flaw-cve-2024-49039-actively-exploited-by-romcom-group/
     * https://www.itmedia.co.jp/enterprise/articles/2412/05/news080.html
@@ -51,3 +52,5 @@ published: false
     * https://www.securityweek.com/aws-launches-incident-response-service/
 * Microsoft 2025年月次アップデートの予定を公開
     * https://scan.netsecurity.ne.jp/article/2024/12/04/51991.html
+* Windows 10 のアップグレードについて、TPM 2.0必須であることをMicrosoftが明言
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/
