@@ -39,6 +39,9 @@ published: true
 * CVE-2024-42327 Zabbix 権限昇格の脆弱性
     * https://securityonline.info/cve-2024-42327-critical-sql-injection-vulnerability-found-in-zabbix/
     * https://www.theregister.com/2024/11/29/zabbix_urges_upgrades_after_critical/
+    * https://www.securityweek.com/critical-vulnerability-found-in-zabbix-network-monitoring-tool/
+    * PoCリリース
+        * https://securityonline.info/poc-exploit-releases-for-critical-zabbix-vulnerability-cve-2024-42327/
 
 ## KEV
 * CVE-2023-28461 Array Networks AG and vxAG ArrayOS Missing Authentication for Critical Function Vulnerability

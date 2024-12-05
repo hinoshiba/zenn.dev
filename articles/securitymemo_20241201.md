@@ -17,12 +17,37 @@ published: false
 
 # 事件事故
 
+* LINE アルバム不具合。他人の画像が表示
+    * https://www.security-next.com/164819
+
 # 攻撃、脅威
 
 # 脆弱性
 
 * CVE-2024-8672 WordPress Widget Options 任意のコード実行の脆弱性
     * https://securityonline.info/cve-2024-8672-critical-flaw-in-widget-options-plugin-threatens-100000-websites/
+* CVE-2024-8785 Progress WhatsUp Gold RCEの脆弱性
+    * https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-whatsup-gold-rce-flaw-patch-now/
+* CVE-2024-49039 11月のWindowsUpdateで修正されたTaskSchedulerの脆弱性。PoCリリース
+    * https://securityonline.info/zero-day-exploit-code-released-for-windows-task-scheduler-flaw-cve-2024-49039-actively-exploited-by-romcom-group/
+    * https://www.itmedia.co.jp/enterprise/articles/2412/05/news080.html
+* CVE-2024-35368 FFmpeg ダブルフリーの脆弱性
+    * https://www.security-next.com/164873
+
+## KEV
+* CVE-2023-45727 North Grid Proself Improper Restriction of XML External Entity (XEE) Reference Vulnerability
+* CVE-2024-11680 ProjectSend Improper Authentication Vulnerability
+* CVE-2024-11667 Zyxel Multiple Firewalls Path Traversal Vulnerability
+* CVE-2024-51378 CyberPanel Incorrect Default Permissions Vulnerability
 
 # その他
 
+* マイナ保険証開始
+    * https://www.ncctv.co.jp/news/article/15532145
+* DMMビットコイン廃業
+    * https://jp.reuters.com/markets/japan/funds/GNC6GYCUEVPFRGZYT4J7KOV4ZY-2024-12-02/
+* AWS インシデントレスポンスサービスを公開
+    * https://www.darkreading.com/threat-intelligence/aws-launches-new-incident-response-service
+    * https://www.securityweek.com/aws-launches-incident-response-service/
+* Microsoft 2025年月次アップデートの予定を公開
+    * https://scan.netsecurity.ne.jp/article/2024/12/04/51991.html
