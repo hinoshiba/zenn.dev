@@ -21,5 +21,17 @@ published: false
 
 # 脆弱性
 
+* CVE-2024-12209 WordPress Plugin Umbrella 未認証のアクセスの脆弱性
+    * https://securityonline.info/cve-2024-12209-cvss-9-8-wp-umbrella-plugin-vulnerability-exposes-30000-websites-to-compromise/
+    * https://rocket-boys.co.jp/11257/
+* 8月に修正されたWindows脆弱性、PoCリリース CVE-2024-38193
+    * https://securityonline.info/windows-zero-day-vulnerability-cve-2024-38193-exploited-in-the-wild-poc-published/
+* CVE-2024-48863 QNAP 任意のコード実行の脆弱性
+    * https://securityonline.info/qnap-addresses-high-severity-vulnerabilities-in-license-center-and-operating-systems/
+* CVE-2024-39343 and CVE-2024-53842 Google Pixel RCE
+    * https://securityonline.info/google-fixes-critical-rce-vulnerabilities-in-december-2024-pixel-security-update/
+
 # その他
 
+* JPCERT/CC インシデント報告Webフォームメンテナンス 2024年12月19日（木）9:00 - 15:00
+    * https://www.jpcert.or.jp/maintenance20241209.html
