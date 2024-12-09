@@ -3,7 +3,7 @@ title: "2024/12/01 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -34,6 +34,10 @@ published: false
     * https://www.itmedia.co.jp/enterprise/articles/2412/05/news080.html
 * CVE-2024-35368 FFmpeg ダブルフリーの脆弱性
     * https://www.security-next.com/164873
+* 新しいWindowsNTMLの脆弱性。まだ公式のパッチはなし。非公式パッチあり
+    * https://www.bleepingcomputer.com/news/security/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/
+* CVE-2024-53990 Java Library AsyncHttpClient ユーザセッションや未認証アクセスの可能性脆弱性
+    * https://securityonline.info/cve-2024-53990-asynchttpclient-vulnerability-puts-java-applications-at-risk/
 
 ## KEV
 * CVE-2023-45727 North Grid Proself Improper Restriction of XML External Entity (XEE) Reference Vulnerability
@@ -52,5 +56,6 @@ published: false
     * https://www.securityweek.com/aws-launches-incident-response-service/
 * Microsoft 2025年月次アップデートの予定を公開
     * https://scan.netsecurity.ne.jp/article/2024/12/04/51991.html
-* Windows 10 のアップグレードについて、TPM 2.0必須であることをMicrosoftが明言
+* Windows 10 からWindows11へのアップグレードについて、TPM 2.0必須であることをMicrosoftが明言
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/
+    * https://news.mynavi.jp/techplus/article/20241206-3078257/
