@@ -38,6 +38,7 @@ published: true
     * https://www.bleepingcomputer.com/news/security/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/
     * https://reinforz.co.jp/bizmedia/64761/
     * https://codebook.machinarecord.com/threatreport/36185/
+    * https://www.darkreading.com/application-security/microsoft-ntlm-zero-day-remain-unpatched-april
 * CVE-2024-53990 Java Library AsyncHttpClient ユーザセッションや未認証アクセスの可能性脆弱性
     * https://securityonline.info/cve-2024-53990-asynchttpclient-vulnerability-puts-java-applications-at-risk/
 
