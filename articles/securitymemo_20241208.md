@@ -20,6 +20,8 @@ published: false
 * Microsoft365 管理センター等に障害
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-office-web-apps-admin-center/
     * https://x.com/MSFT365Status/status/1866439364932251718
+* Facebook他、サービスダウン
+    * https://www.bleepingcomputer.com/news/technology/facebook-instagram-whatsapp-hit-by-massive-worldwide-outage/
 
 # 攻撃、脅威
 
@@ -40,8 +42,13 @@ published: false
 * CVE-2024-11639 Ivanti CSA 遠隔からの認証bypassによる管理権限アクセス
     * https://www.bleepingcomputer.com/news/security/ivanti-warns-of-maximum-severity-csa-auth-bypass-vulnerability/
     * https://www.security-next.com/165155
+    * https://securityonline.info/cve-2024-11639-cvss-10-critical-flaw-in-ivanti-cloud-services-application-immediate-patch-recommended/
 * CVE-2024-47578 SAP NetWeaver AS for JAVA 他脆弱性との組み合わせで、任意のコード実行の可能性
     * https://securityonline.info/cve-2024-47578-cvss-9-1-sap-issues-critical-patch-for-netweaver-as-for-java/
+* CVE-2024-53677 S2-067 Apache Struts2 未認証RCE
+    * https://cwiki.apache.org/confluence/display/WW/S2-067
+* CVE-2024-45490 Apple Device 遠隔コード埋め込みの可能性
+    * https://www.securityweek.com/apple-pushes-major-ios-macos-security-updates/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -70,3 +77,5 @@ published: false
     * https://msrc.microsoft.com/blog/2024/12/mitigating-ntlm-relay-attacks-by-default-ja/
 * Lets Encrypt OCSPから、CRLへの移行。2025年8月までの予定
     * https://securityonline.info/lets-encrypt-to-deprecate-ocsp-in-favor-of-crls-enhancing-user-privacy/
+* Microsoft月次アップデート、2024に関するレポート
+    * https://securityboulevard.com/2024/12/microsoft-patch-tuesday-2024-year-in-review/
