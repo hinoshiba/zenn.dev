@@ -22,8 +22,16 @@ published: false
     * https://x.com/MSFT365Status/status/1866439364932251718
 * Facebook他、サービスダウン
     * https://www.bleepingcomputer.com/news/technology/facebook-instagram-whatsapp-hit-by-massive-worldwide-outage/
+* ChatGPT サービスダウン
+    * https://securityonline.info/chatgpt-and-sora-go-offline-openai-scrambles-to-restore-service-amid-global-outage/
+    * https://rocket-boys.co.jp/11389/
 
 # 攻撃、脅威
+
+* KADOKAWA から298万ドル受領とBlackSuit。KADOKAWAとしてはコメント無し
+    * https://databreaches.net/2024/12/12/japanese-publisher-paid-blacksuit-3-million-but-blacksuit-leaked-their-data-anyway-reports/
+    * https://webun.jp/articles/-/723361
+    * https://www.daily.co.jp/society/national/2024/12/12/0018438421.shtml
 
 # 脆弱性
 
@@ -47,8 +55,15 @@ published: false
     * https://securityonline.info/cve-2024-47578-cvss-9-1-sap-issues-critical-patch-for-netweaver-as-for-java/
 * CVE-2024-53677 S2-067 Apache Struts2 未認証RCE
     * https://cwiki.apache.org/confluence/display/WW/S2-067
+    * https://www.theregister.com/2024/12/12/apache_struts_2_vuln/
+    * https://securityonline.info/cve-2024-53677-critical-vulnerability-in-apache-struts-allows-remote-code-execution/
+* CVE-2024-11274 GitLab ユーザのセッションデータを盗む脆弱性
+    * https://securityonline.info/cve-2024-11274-gitlab-vulnerability-exposes-user-accounts/
+    * https://www.security-next.com/165202
 * CVE-2024-45490 Apple Device 遠隔コード埋め込みの可能性
     * https://www.securityweek.com/apple-pushes-major-ios-macos-security-updates/
+* CVE-2024-53247 Splunk Secure Gateway App 任意のコード実行の脆弱性
+    * https://securityonline.info/cve-2024-53247-splunk-secure-gateway-app-vulnerability-allows-remote-code-execution/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
