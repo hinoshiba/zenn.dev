@@ -3,7 +3,7 @@ title: "2024/12/08 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -32,6 +32,9 @@ published: false
     * https://databreaches.net/2024/12/12/japanese-publisher-paid-blacksuit-3-million-but-blacksuit-leaked-their-data-anyway-reports/
     * https://webun.jp/articles/-/723361
     * https://www.daily.co.jp/society/national/2024/12/12/0018438421.shtml
+    * https://kumanichi.com/articles/1633321
+* FBI Rydoxマーケットプレースを摘発
+    * https://thehackernews.com/2024/12/fbi-busts-rydox-marketplace-with-7600.html
 
 # 脆弱性
 
@@ -64,6 +67,10 @@ published: false
     * https://www.securityweek.com/apple-pushes-major-ios-macos-security-updates/
 * CVE-2024-53247 Splunk Secure Gateway App 任意のコード実行の脆弱性
     * https://securityonline.info/cve-2024-53247-splunk-secure-gateway-app-vulnerability-allows-remote-code-execution/
+* CVE-2024-37143 Dell PowerFlex, InsightIQ, and Data Lakehouse products 遠隔からの未認証コード実行の可能性
+    * https://securityonline.info/dell-warns-of-critical-flaws-in-enterprise-products-including-cve-2024-37143/
+* CVE-2024-55633 Apache Superset 未認証のデータアクセス
+    * https://securityonline.info/cve-2024-55633-apache-superset-vulnerability-exposes-sensitive-data-to-unauthorized-modification/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -78,6 +85,7 @@ published: false
 
 ## KEV
 * CVE-2024-49138 Microsoft Windows Common Log File System (CLFS) Driver Heap-Based Buffer Overflow Vulnerability
+* CVE-2024-50623 Cleo Multiple Products Unrestricted File Upload Vulnerability
 
 # その他
 
