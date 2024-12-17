@@ -21,5 +21,12 @@ published: false
 
 # 脆弱性
 
+## KEV
+* CVE-2024-20767 Adobe ColdFusion Improper Access Control Vulnerability
+* CVE-2024-35250 Microsoft Windows Kernel-Mode Driver Untrusted Pointer Dereference Vulnerability
+    * https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/
+
 # その他
 
+* Kali Linux 2024.4 released
+    * https://www.bleepingcomputer.com/news/security/kali-linux-20244-released-with-14-new-tools-deprecates-some-features/

@@ -60,6 +60,7 @@ published: true
     * https://cwiki.apache.org/confluence/display/WW/S2-067
     * https://www.theregister.com/2024/12/12/apache_struts_2_vuln/
     * https://securityonline.info/cve-2024-53677-critical-vulnerability-in-apache-struts-allows-remote-code-execution/
+    * https://securityboulevard.com/2024/12/apache-struts-arbitrary-file-upload-vulnerability-s2-067-cve-2024-53677/
 * CVE-2024-11274 GitLab ユーザのセッションデータを盗む脆弱性
     * https://securityonline.info/cve-2024-11274-gitlab-vulnerability-exposes-user-accounts/
     * https://www.security-next.com/165202
