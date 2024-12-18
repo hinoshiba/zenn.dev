@@ -25,6 +25,7 @@ published: false
 * CVE-2024-20767 Adobe ColdFusion Improper Access Control Vulnerability
 * CVE-2024-35250 Microsoft Windows Kernel-Mode Driver Untrusted Pointer Dereference Vulnerability
     * https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/
+* CVE-2024-55956 Cleo Multiple Products Unauthenticated File Upload Vulnerability
 
 # その他
 

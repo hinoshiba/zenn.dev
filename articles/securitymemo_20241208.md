@@ -61,6 +61,8 @@ published: true
     * https://www.theregister.com/2024/12/12/apache_struts_2_vuln/
     * https://securityonline.info/cve-2024-53677-critical-vulnerability-in-apache-struts-allows-remote-code-execution/
     * https://securityboulevard.com/2024/12/apache-struts-arbitrary-file-upload-vulnerability-s2-067-cve-2024-53677/
+    * https://www.bleepingcomputer.com/news/security/new-critical-apache-struts-flaw-exploited-to-find-vulnerable-servers/
+    * https://securityonline.info/hackers-exploit-critical-apache-struts-rce-flaw-cve-2024-53677-after-poc-exploit-release/
 * CVE-2024-11274 GitLab ユーザのセッションデータを盗む脆弱性
     * https://securityonline.info/cve-2024-11274-gitlab-vulnerability-exposes-user-accounts/
     * https://www.security-next.com/165202
