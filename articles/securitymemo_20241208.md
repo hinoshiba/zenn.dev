@@ -63,6 +63,9 @@ published: true
     * https://securityboulevard.com/2024/12/apache-struts-arbitrary-file-upload-vulnerability-s2-067-cve-2024-53677/
     * https://www.bleepingcomputer.com/news/security/new-critical-apache-struts-flaw-exploited-to-find-vulnerable-servers/
     * https://securityonline.info/hackers-exploit-critical-apache-struts-rce-flaw-cve-2024-53677-after-poc-exploit-release/
+    * https://www.securityweek.com/exploitation-of-recent-critical-apache-struts-2-flaw-begins/
+    * https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html
+    * https://www.darkreading.com/application-security/actively-exploited-bug-struts-2
 * CVE-2024-11274 GitLab ユーザのセッションデータを盗む脆弱性
     * https://securityonline.info/cve-2024-11274-gitlab-vulnerability-exposes-user-accounts/
     * https://www.security-next.com/165202
