@@ -3,7 +3,7 @@ title: "2024/12/15 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -55,3 +55,6 @@ published: false
 
 * Kali Linux 2024.4 released
     * https://www.bleepingcomputer.com/news/security/kali-linux-20244-released-with-14-new-tools-deprecates-some-features/
+* Microsoft 365 アクティベーション ランダムで無効になる不具合
+    * https://news.mynavi.jp/techplus/article/20241220-3090506/
+    * https://www.theregister.com/2024/12/20/microsoft_office_activation_issue/
