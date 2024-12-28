@@ -22,6 +22,7 @@ published: true
 * Juniper がSSRデバイスのデフォルト認証情報を用いたbotネットのターゲットになることを警告
     * https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html
     * https://www.bleepingcomputer.com/news/security/juniper-warns-of-mirai-botnet-targeting-session-smart-routers/
+    * https://www.security-next.com/165614
 
 # 脆弱性
 
@@ -35,6 +36,9 @@ published: true
     * https://www.security-next.com/165419
     * https://securityboulevard.com/2024/12/cve-2024-50379-a-critical-race-condition-in-apache-tomcat/
     * https://securityboulevard.com/2024/12/apache-tomcat-conditional-competition-code-execution-vulnerability-cve-2024-50379/
+    * CVE-2024-56337
+        * https://www.bleepingcomputer.com/news/security/apache-fixes-remote-code-execution-bypass-in-tomcat-web-server/
+        * https://securityonline.info/cve-2024-56337-apache-tomcat-patches-critical-rce-vulnerability/
 * CVE-2024-55661 Laravel Pulse RCE
     * https://www.security-next.com/165404
 * CVE-2024-45337 Go言語 認証バイパスの脆弱性
