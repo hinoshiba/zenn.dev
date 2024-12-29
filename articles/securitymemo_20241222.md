@@ -3,7 +3,7 @@ title: "2024/12/22 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -60,3 +60,6 @@ published: false
 * ASUSのクリスマスキャンペーンに避難
     * https://news.mynavi.jp/techplus/article/20241225-3093971/
     * https://www.windowslatest.com/2024/12/22/asus-bombards-windows-11-with-christmas-exe-malware-like-christmas-wreath-banner/
+* CISA、モバイル通信を保護する8つのベストプラクティスを公開 12/18
+    * https://atmarkit.itmedia.co.jp/ait/articles/2412/26/news076.html
+    * https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf
