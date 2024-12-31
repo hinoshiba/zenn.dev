@@ -21,11 +21,15 @@ published: false
     * https://www.yomiuri.co.jp/national/20241230-OYT1T50097/
     * https://news.goo.ne.jp/picture/nation/20241230-567-OYT1T50097.html
     * https://www.sankei.com/article/20241230-DOWAMZU7NVPK7HNNRWCRFKBPJA/
+* みずほ銀行 繋がりづらい状態
+    * https://www.yomiuri.co.jp/economy/20241231-OYT1T50045/
 
 # 攻撃、脅威
 
-* 16個のChromeExtensionがハッキングを受け、ユーザのデータを盗むアップデートが行われる
+* 35個のChromeExtensionがハッキングを受け、ユーザのデータを盗むアップデートが行われる
     * https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html
+    * https://www.bleepingcomputer.com/news/security/new-details-reveal-how-hackers-hijacked-35-google-chrome-extensions/
+    * https://www.extensiontotal.com/cyberhaven-incident-live
 
 # 脆弱性
 
