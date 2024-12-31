@@ -46,6 +46,8 @@ published: true
 * CVE-2024-45387 Apache Traffic Control SQLi
     * https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html
     * https://www.security-next.com/165656
+    * PoCリリース
+        * https://securityonline.info/cve-2024-45387-poc-published-for-critical-sql-injection-in-apache-traffic-control/
 * CVE-2024-30085 6月に修正されたWindows権限昇格の意是弱生、PoCリリース
     * https://securityonline.info/poc-exploit-released-for-cve-2024-30085-windows-elevation-of-privilege-vulnerability/
 * CVE-2024-53961 Adobe ColdFusion 緊急度の高い脆弱性。PoC及びセキュリティパッチをリリース

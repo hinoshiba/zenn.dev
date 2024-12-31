@@ -17,9 +17,20 @@ published: false
 
 # 事件事故
 
+* りそな銀行 繋がりづらい状態
+    * https://www.yomiuri.co.jp/national/20241230-OYT1T50097/
+    * https://news.goo.ne.jp/picture/nation/20241230-567-OYT1T50097.html
+    * https://www.sankei.com/article/20241230-DOWAMZU7NVPK7HNNRWCRFKBPJA/
+
 # 攻撃、脅威
 
+* 16個のChromeExtensionがハッキングを受け、ユーザのデータを盗むアップデートが行われる
+    * https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html
+
 # 脆弱性
+
+## KEV
+* CVE-2024-3393 Palo Alto Networks PAN-OS Malformed DNS Packet Vulnerability
 
 # その他
 
