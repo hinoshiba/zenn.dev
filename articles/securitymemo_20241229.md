@@ -33,6 +33,15 @@ published: false
 
 # 脆弱性
 
+* CVE-2024-49113 12月に修正されたWindowsLDAPの脆弱性、PoCリリース
+    * https://www.securityweek.com/exploit-code-published-for-potentially-dangerous-windows-ldap-vulnerability/
+    * https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html
+    * https://securityonline.info/poc-exploit-released-for-zero-click-vulnerability-cve-2024-49112-in-windows/
+* CVE-2025-22275 iTerm2 ユーザの入出力がサーバ上に保存されてしまう脆弱性
+    * https://securityonline.info/iterm2-patches-critical-security-vulnerability-exposing-user-input-and-output/
+* CVE-2024-21182 2024/07月に公開されたWebLogicの脆弱性、PoCリリース
+    * https://securityonline.info/cve-2024-21182-poc-exploit-code-published-for-severe-weblogic-flaw/
+
 ## KEV
 * CVE-2024-3393 Palo Alto Networks PAN-OS Malformed DNS Packet Vulnerability
 
