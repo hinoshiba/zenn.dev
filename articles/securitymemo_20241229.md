@@ -30,6 +30,8 @@ published: true
     * https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html
     * https://www.bleepingcomputer.com/news/security/new-details-reveal-how-hackers-hijacked-35-google-chrome-extensions/
     * https://www.extensiontotal.com/cyberhaven-incident-live
+    * https://www.bleepingcomputer.com/news/security/malicious-browser-extensions-are-the-next-frontier-for-identity-attacks/
+    * https://news.mynavi.jp/techplus/article/20250106-3101219/
 
 # 脆弱性
 
