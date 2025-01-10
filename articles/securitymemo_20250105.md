@@ -28,6 +28,11 @@ published: false
 * りそな銀行 再び、繋がりづらい状態
     * https://news.goo.ne.jp/picture/business/tbs-1654021.html
     * https://www.nnn.co.jp/articles/-/452712
+* Proton Mail世界的にサービス障害
+    * https://www.bleepingcomputer.com/news/technology/proton-mail-still-down-as-proton-recovers-from-worldwide-outage/
+* 三菱UFJでシステム障害、他行ATMで出金できず　「サイバー攻撃ではない」
+    * https://www.sankei.com/article/20250109-4YWVMVJWTJOP3L5WDICDLSVXRU/
+    * https://www.fnn.jp/articles/-/812255
 
 
 
@@ -58,6 +63,7 @@ published: false
 * CVE-2025-0282 Ivanti Connect Secure Vulnerability
     * https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-connect-secure-flaw-used-in-zero-day-attacks/
     * https://www.security-next.com/165969
+    * https://www.bleepingcomputer.com/news/security/google-chinese-hackers-likely-behind-ivanti-vpn-zero-day-attacks/
 
 # その他
 
