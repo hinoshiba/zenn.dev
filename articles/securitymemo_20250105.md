@@ -3,7 +3,7 @@ title: "2025/01/05 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -30,9 +30,13 @@ published: false
     * https://www.nnn.co.jp/articles/-/452712
 * Proton Mail世界的にサービス障害
     * https://www.bleepingcomputer.com/news/technology/proton-mail-still-down-as-proton-recovers-from-worldwide-outage/
+    * https://www.bleepingcomputer.com/news/technology/proton-worldwide-outage-caused-by-kubernetes-migration-software-change/
 * 三菱UFJでシステム障害、他行ATMで出金できず　「サイバー攻撃ではない」
     * https://www.sankei.com/article/20250109-4YWVMVJWTJOP3L5WDICDLSVXRU/
     * https://www.fnn.jp/articles/-/812255
+* 1/9 tenki.jp にDDoS
+    * https://www.security-next.com/166059
+    * https://mainichi.jp/articles/20250110/k00/00m/040/399000c
 
 
 
@@ -69,3 +73,5 @@ published: false
 
 * インド、WARPを含むVPNソフトウェア、アプリストアから削除(撤退)。インド政府のログ保管要件に合わず
     * https://securityonline.info/indias-vpn-crackdown-popular-apps-vanish-from-app-stores/
+* Docker Desktop macOS上でマルウェアと誤判定
+    * https://www.bleepingcomputer.com/news/security/docker-desktop-blocked-on-macs-due-to-false-malware-alert/
