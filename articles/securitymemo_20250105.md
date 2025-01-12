@@ -1,6 +1,6 @@
 ---
 title: "2025/01/05 週 セキュリティニュースメモ"
-emoji: "🔖"
+emoji: "🎍"
 type: "tech"
 topics: ["Security"]
 published: true
