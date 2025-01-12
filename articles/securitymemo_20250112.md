@@ -33,4 +33,5 @@ published: false
 
 * 2月のWindowsUpdateにて、Windows10にOutlookがインストールされるとのこと
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-new-outlook-on-windows-10-pcs-in-february/
-
+* LDAPNightmare に関する偽のPoCがGitHub上に設置されている。トレンドマイクロ社
+    * https://www.trendmicro.com/en_us/research/25/a/information-stealer-masquerades-as-ldapnightmare-poc-exploit.html
