@@ -17,8 +17,14 @@ published: false
 
 # 事件事故
 
+* Microsoft MFAに関して障害
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-mfa-outage-blocking-access-to-microsoft-365-apps/
+
 
 # 攻撃、脅威
+
+* iPhoneユーザに対して、iMessageのフィッシング保護機能を無効化するような誘導するキャンペーン
+    * https://www.bitdefender.com/en-us/blog/hotforsecurity/iphone-users-tricked-into-disabling-apple-imessages-phishing-protection
 
 # 脆弱性
 
@@ -28,6 +34,12 @@ published: false
     * https://securityonline.info/cve-2024-12847-cvss-9-8-netgear-router-flaw-exploited-in-the-wild-for-years-poc-published/
 * CVE-2024-12426 LibreOffice 環境変数等の流出の可能性
     * https://forest.watch.impress.co.jp/docs/news/1653446.html
+* CVE-2024-44243 昨年12月に公表されたmacOSのセキュリティ機能bypassの脆弱性、詳細レポートをMicrosoftがリリース
+    * https://www.microsoft.com/en-us/security/blog/2025/01/13/analyzing-cve-2024-44243-a-macos-system-integrity-protection-bypass-through-kernel-extensions/
+* CVE-2024-54498 昨年12月に公表されたmacOSのsandbox bypassの脆弱性、PoCリリース
+    * https://securityonline.info/new-macos-exploit-revealed-poc-for-cve-2024-54498-breaks-sandbox-security/
+* CVE-2025-21598 JunOS 細工されたBGPパケットによるDoS
+    * https://www.securityweek.com/juniper-networks-fixes-high-severity-vulnerabilities-in-junos-os/
 
 # その他
 
