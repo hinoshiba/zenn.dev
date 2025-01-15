@@ -36,10 +36,33 @@ published: false
     * https://forest.watch.impress.co.jp/docs/news/1653446.html
 * CVE-2024-44243 昨年12月に公表されたmacOSのセキュリティ機能bypassの脆弱性、詳細レポートをMicrosoftがリリース
     * https://www.microsoft.com/en-us/security/blog/2025/01/13/analyzing-cve-2024-44243-a-macos-system-integrity-protection-bypass-through-kernel-extensions/
+    * https://thehackernews.com/2025/01/microsoft-uncovers-macos-vulnerability.html
 * CVE-2024-54498 昨年12月に公表されたmacOSのsandbox bypassの脆弱性、PoCリリース
     * https://securityonline.info/new-macos-exploit-revealed-poc-for-cve-2024-54498-breaks-sandbox-security/
 * CVE-2025-21598 JunOS 細工されたBGPパケットによるDoS
     * https://www.securityweek.com/juniper-networks-fixes-high-severity-vulnerabilities-in-junos-os/
+    * https://securityonline.info/unauthenticated-attackers-can-exploit-junos-vulnerabilities-cve-2025-21598-cve-2025-21599/
+* CVE-2024-55591 FortiOS 権限昇格の脆弱性。ゼロデイ
+    * https://www.bleepingcomputer.com/news/security/fortinet-warns-of-auth-bypass-zero-day-exploited-to-hijack-firewalls/
+    * https://securityonline.info/active-exploitation-of-cve-2024-55591-cvss-9-6-fortios-and-fortiproxy-under-threat/
+    * https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html
+* CVE-2024-27397 Linux nftablesの権限昇格の脆弱性、PoCリリース
+    * https://securityonline.info/linux-kernel-privilege-escalation-vulnerability-cve-2024-27397-exploited-poc-released/
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2025-Jan
+        * https://krebsonsecurity.com/2025/01/microsoft-happy-2025-heres-161-security-updates/
+        * https://www.bleepingcomputer.com/news/microsoft/january-windows-updates-may-fail-if-citrix-sra-is-installed/
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2025-patch-tuesday-fixes-8-zero-days-159-flaws/
+
+## KEV
+* CVE-2024-55591 Fortinet FortiOS Authorization Bypass Vulnerability
+* CVE-2025-21333 Microsoft Windows Hyper-V NT Kernel Integration VSP Heap-based Buffer Overflow Vulnerability
+* CVE-2025-21334 Microsoft Windows Hyper-V NT Kernel Integration VSP Use-After-Free Vulnerability
+* CVE-2025-21335 Microsoft Windows Hyper-V NT Kernel Integration VSP Use-After-Free Vulnerability
+* CVE-2024-12686 BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) OS Command Injection Vulnerability
+* CVE-2023-48365 Qlik Sense HTTP Tunneling Vulnerability
 
 # その他
 
@@ -47,3 +70,5 @@ published: false
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-new-outlook-on-windows-10-pcs-in-february/
 * LDAPNightmare に関する偽のPoCがGitHub上に設置されている。トレンドマイクロ社
     * https://www.trendmicro.com/en_us/research/25/a/information-stealer-masquerades-as-ldapnightmare-poc-exploit.html
+* Officeソフトが更新後にクラッシュする不具合
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-365-apps-crash-on-windows-server-after-office-update/
