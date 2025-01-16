@@ -20,11 +20,12 @@ published: false
 * Microsoft MFAに関して障害
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-mfa-outage-blocking-access-to-microsoft-365-apps/
 
-
 # 攻撃、脅威
 
 * iPhoneユーザに対して、iMessageのフィッシング保護機能を無効化するような誘導するキャンペーン
     * https://www.bitdefender.com/en-us/blog/hotforsecurity/iphone-users-tricked-into-disabling-apple-imessages-phishing-protection
+* Google検索結果に表示されるGoogle広告の管理ページに対して、偽のページへ誘導する広告ページを作成する攻撃キャンペーン
+    * https://www.bleepingcomputer.com/news/security/hackers-use-google-search-ads-to-steal-google-ads-accounts/
 
 # 脆弱性
 
@@ -46,8 +47,16 @@ published: false
     * https://www.bleepingcomputer.com/news/security/fortinet-warns-of-auth-bypass-zero-day-exploited-to-hijack-firewalls/
     * https://securityonline.info/active-exploitation-of-cve-2024-55591-cvss-9-6-fortios-and-fortiproxy-under-threat/
     * https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html
+    * https://www.securityweek.com/fortinet-confirms-new-zero-day-exploitation/
+* CVE-2023-37936 FortiSwitch コード実行の脆弱性
+    * https://securityonline.info/cve-2023-37936-cvss-9-6-urgent-patch-needed-for-fortiswitch-vulnerability/
 * CVE-2024-27397 Linux nftablesの権限昇格の脆弱性、PoCリリース
     * https://securityonline.info/linux-kernel-privilege-escalation-vulnerability-cve-2024-27397-exploited-poc-released/
+* CVE-2024-12084 rsync コード実行の可能性を含む脆弱性の公開
+    * https://thehackernews.com/2025/01/google-cloud-researchers-uncover-flaws.html
+    * https://securityonline.info/cve-2024-12084-cvss-9-8-code-execution-risk-rsync-vulnerability-demands-immediate-patching/
+* CVE-2025-0147 Zoom Linux環境においてネットワーク経由の権限昇格の脆弱性
+    * https://securityonline.info/cve-2025-0147-zoom-fixes-high-severity-security-flaw/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -72,3 +81,6 @@ published: false
     * https://www.trendmicro.com/en_us/research/25/a/information-stealer-masquerades-as-ldapnightmare-poc-exploit.html
 * Officeソフトが更新後にクラッシュする不具合
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-365-apps-crash-on-windows-server-after-office-update/
+* Google OAuthに関して、第三者がアカウントを取得しなおすことで、サービスへサインインが可能となる問題への報告
+    * https://www.msn.com/ja-jp/news/techandscience/google%E3%81%A7%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3-%E3%81%AE%E9%87%8D%E5%A4%A7%E3%81%AA%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8C%E6%8C%87%E6%91%98%E3%81%95%E3%82%8C%E3%82%8B/ar-AA1xe3h1
+    * https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw
