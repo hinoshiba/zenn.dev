@@ -3,7 +3,7 @@ title: "2025/01/12 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -48,6 +48,8 @@ published: false
     * https://securityonline.info/active-exploitation-of-cve-2024-55591-cvss-9-6-fortios-and-fortiproxy-under-threat/
     * https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html
     * https://www.securityweek.com/fortinet-confirms-new-zero-day-exploitation/
+    * https://scan.netsecurity.ne.jp/article/2025/01/17/52173.html
+    * https://securityboulevard.com/2025/01/fortinet-os-fortiproxy-authentication-bypass-vulnerability-cve-2024-55591-notification/
 * CVE-2023-37936 FortiSwitch コード実行の脆弱性
     * https://securityonline.info/cve-2023-37936-cvss-9-6-urgent-patch-needed-for-fortiswitch-vulnerability/
 * CVE-2024-27397 Linux nftablesの権限昇格の脆弱性、PoCリリース
@@ -55,8 +57,24 @@ published: false
 * CVE-2024-12084 rsync コード実行の可能性を含む脆弱性の公開
     * https://thehackernews.com/2025/01/google-cloud-researchers-uncover-flaws.html
     * https://securityonline.info/cve-2024-12084-cvss-9-8-code-execution-risk-rsync-vulnerability-demands-immediate-patching/
+    * https://news.mynavi.jp/techplus/article/20250117-3108101/
 * CVE-2025-0147 Zoom Linux環境においてネットワーク経由の権限昇格の脆弱性
     * https://securityonline.info/cve-2025-0147-zoom-fixes-high-severity-security-flaw/
+* CVE-2025-0107 PaloAlto OSコマンド実行の脆弱性。PoCあり
+    * https://securityonline.info/cve-2025-0107-poc-exploit-code-released-for-palo-alto-expedition-rce-flaw/
+* CVE-2024-53691 QNAP RCEの脆弱性、PoCリリース
+    * https://securityonline.info/cve-2024-53691-poc-exploit-released-for-severe-qnap-rce-flaw/
+* CVE-2025-23013 Yubico pam-u2f 権限昇格の脆弱性
+    * https://securityonline.info/yubico-addresses-authentication-bypass-vulnerability-cve-2025-23013-in-pam-u2f-package/
+* CVE-2025-0282 Iavnti Connect Secure 他 未認証の接続などの脆弱性。PoCあり
+    * https://securityonline.info/poc-exploit-released-for-ivanti-connect-secure-flaw-cve-2025-0282-used-in-attacks/
+* CVE-2024-9042 k8s Windowsのnode上で任意のコード事項の脆弱性
+    * https://securityonline.info/cve-2024-9042-code-execution-vulnerability-found-in-kubernetes-windows-nodes/
+* CVE-2024-12365 W3 Total Cache 未認証のアクセス、SSRFの脆弱性
+    * https://securityonline.info/cve-2024-12365-popular-wordpress-caching-plugin-exposes-millions-of-sites-to-attack/
+    * https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/w3-total-cache/w3-total-cache-281-authenticated-subscriber-missing-authorization-to-server-side-request-forgery
+    * https://www.bleepingcomputer.com/news/security/w3-total-cache-plugin-flaw-exposes-1-million-wordpress-sites-to-attacks/
+    * https://rocket-boys.co.jp/12079/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -64,6 +82,9 @@ published: false
         * https://krebsonsecurity.com/2025/01/microsoft-happy-2025-heres-161-security-updates/
         * https://www.bleepingcomputer.com/news/microsoft/january-windows-updates-may-fail-if-citrix-sra-is-installed/
         * https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2025-patch-tuesday-fixes-8-zero-days-159-flaws/
+        * https://securityboulevard.com/2025/01/microsofts-january-security-update-of-high-risk-vulnerabilities-in-multiple-products/
+        * CVE-2025-21298 Outlook ゼロクリック脆弱性
+            * https://securityonline.info/microsoft-patches-outlook-zero-click-cve-2025-21298-exploits-rce-via-emails/
 
 ## KEV
 * CVE-2024-55591 Fortinet FortiOS Authorization Bypass Vulnerability
@@ -84,3 +105,11 @@ published: false
 * Google OAuthに関して、第三者がアカウントを取得しなおすことで、サービスへサインインが可能となる問題への報告
     * https://www.msn.com/ja-jp/news/techandscience/google%E3%81%A7%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3-%E3%81%AE%E9%87%8D%E5%A4%A7%E3%81%AA%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8C%E6%8C%87%E6%91%98%E3%81%95%E3%82%8C%E3%82%8B/ar-AA1xe3h1
     * https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw
+* Windows 11 管理者プロテクト機能をプレビューばんへ追加。管理者でログインしていても常時は標準ユーザとして動作し、ソフトウェアインストール等でPINや生体認証によって認証する
+    * https://www.bleepingcomputer.com/news/security/microsoft-expands-testing-of-windows-11-admin-protection-feature/
+* Windows 11無償アップグレードには期限あり、早めに対応を
+    * https://news.mynavi.jp/techplus/article/20250116-3107920/
+* Microsoft Edgeのpdfリーダ、Acrobatに移行。2025年半ば
+    * https://www.windowslatest.com/2025/01/13/microsoft-edge-could-soon-load-pdf-faster-on-windows-11-especially-low-end-pcs/
+* Microsoft Windows 11 22H2, 23H3の強制アップグレードを開始
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-force-upgrading-windows-11-22h2-23h3-devices/
