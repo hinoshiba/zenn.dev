@@ -17,9 +17,36 @@ published: false
 
 # 事件事故
 
+* アトラシアン、Bitbucket Cloud に障害
+    * https://www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/atlassian_bitbucket_cloud_outage
+    * https://www.bleepingcomputer.com/news/technology/bitbucket-services-hard-down-due-to-major-worldwide-outage/
+* 快活CLUB サイバー攻撃で会員情報一部漏えいの可能性
+    * https://www3.nhk.or.jp/news/html/20250121/k10014699481000.html
+    * https://www.nikkei.com/article/DGXZQOUC21AN60R20C25A1000000/
+
 # 攻撃、脅威
+* Google広告に表示されるhomebrewのリンク偽ページ誘導。curlで異なる配布元から悪意のあるbrewをインストール
+    * https://x.com/ryanchenkie/status/1880730173634699393
+    * https://www.bleepingcomputer.com/news/security/fake-homebrew-google-ads-target-mac-users-with-malware/
+    * https://securityonline.info/homebrew-phishing-site-appears-in-google-search-raising-concerns/
+* Cloudflare 5.6TbpsのDDoS攻撃を軽減
+    * https://www.bleepingcomputer.com/news/security/cloudflare-mitigated-a-record-breaking-56-tbps-ddos-attack/
 
 # 脆弱性
 
+* CVE-2024-54887 TP-Link 任意のコード実行の脆弱性
+    * https://securityonline.info/tp-link-vulnerability-poc-exploit-for-cve-2024-54887-reveals-remote-code-execution-risks/
+* CVE-2025-0411 7-Zip 展開時にMotWをファイルへ伝搬しない脆弱性
+    * https://securityonline.info/cve-2025-0411-7-zip-security-vulnerability-enables-code-execution-update-now/
+    * https://www.bleepingcomputer.com/news/security/7-zip-fixes-bug-that-bypasses-the-windows-motw-security-mechanism-patch-now/
+* CVE-2024-49138 12月に修正されたWindows 権限昇格の脆弱性、PoCリリース
+    * https://securityonline.info/zero-day-vulnerability-in-windows-exploited-cve-2024-49138-poc-code-released/
 
 # その他
+* TikTok アメリカでのサービス停止 1/19
+    * https://www.bleepingcomputer.com/news/software/tiktok-shuts-down-in-the-us-as-trump-throws-the-company-a-lifeline/
+    * https://thehackernews.com/2025/01/tiktok-goes-dark-in-us-as-federal-ban.html
+* Outlookがクラッシュする不具合へのワークアラウンド
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-crashing-when-writing-emails/
+* CVEProject がパワーアップ。CISAのVulnrichmentが含まれるようになる
+    * https://www.cisa.gov/news-events/news/unlocking-vulnrichment-enriching-cve-data
