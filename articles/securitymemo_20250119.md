@@ -23,6 +23,7 @@ published: false
 * 快活CLUB サイバー攻撃で会員情報一部漏えいの可能性
     * https://www3.nhk.or.jp/news/html/20250121/k10014699481000.html
     * https://www.nikkei.com/article/DGXZQOUC21AN60R20C25A1000000/
+    * https://www.security-next.com/166372
 
 # 攻撃、脅威
 * Google広告に表示されるhomebrewのリンク偽ページ誘導。curlで異なる配布元から悪意のあるbrewをインストール
@@ -41,6 +42,17 @@ published: false
     * https://www.bleepingcomputer.com/news/security/7-zip-fixes-bug-that-bypasses-the-windows-motw-security-mechanism-patch-now/
 * CVE-2024-49138 12月に修正されたWindows 権限昇格の脆弱性、PoCリリース
     * https://securityonline.info/zero-day-vulnerability-in-windows-exploited-cve-2024-49138-poc-code-released/
+* CVE-2025-21535 Oracle WebLogic DoS
+    * https://securityboulevard.com/2025/01/oracle-weblogic-server-remote-code-execution-and-denial-of-service-vulnerability-cve-2025-21535-cve-2025-21549/
+* CVE-2025-0314 GitLab XSS
+    * https://securityonline.info/cve-2025-0314-gitlab-releases-patch-for-xss-exploit/
+* CVE-2025-20156 Cisco Meeting Management Software 権限昇格の脆弱性
+    * https://securityonline.info/cve-2025-20156-cvss-9-9-cisco-meeting-management-flaw-allows-for-privilege-escalation/
+* CVE-2025-20128 ClamAV DoSの脆弱性。PoCあり
+    * https://securityonline.info/proof-of-concept-found-for-clamav-dos-flaw-cve-2025-20128/
+
+## KEV
+* CVE-2020-11023 JQuery Cross-Site Scripting (XSS) Vulnerability
 
 # その他
 * TikTok アメリカでのサービス停止 1/19
@@ -50,3 +62,7 @@ published: false
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-crashing-when-writing-emails/
 * CVEProject がパワーアップ。CISAのVulnrichmentが含まれるようになる
     * https://www.cisa.gov/news-events/news/unlocking-vulnrichment-enriching-cve-data
+* LinkedIn プライベートDMをAIの学習に用い、非難
+    * https://www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/
+* JVN iPedia と MyJVN サービスがシステムメンテナンス、1 / 31 ～ 2 / 3
+    * https://scan.netsecurity.ne.jp/article/2025/01/23/52209.html

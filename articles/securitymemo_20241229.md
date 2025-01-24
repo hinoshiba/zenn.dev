@@ -32,6 +32,7 @@ published: true
     * https://www.extensiontotal.com/cyberhaven-incident-live
     * https://www.bleepingcomputer.com/news/security/malicious-browser-extensions-are-the-next-frontier-for-identity-attacks/
     * https://news.mynavi.jp/techplus/article/20250106-3101219/
+    * https://www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/
 
 # 脆弱性
 

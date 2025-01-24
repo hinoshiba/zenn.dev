@@ -58,6 +58,8 @@ published: true
     * https://thehackernews.com/2025/01/google-cloud-researchers-uncover-flaws.html
     * https://securityonline.info/cve-2024-12084-cvss-9-8-code-execution-risk-rsync-vulnerability-demands-immediate-patching/
     * https://news.mynavi.jp/techplus/article/20250117-3108101/
+    * QNAP 更新
+        * https://www.bleepingcomputer.com/news/security/qnap-fixes-six-rsync-vulnerabilities-in-hbs-nas-backup-recovery-app/
 * CVE-2025-0147 Zoom Linux環境においてネットワーク経由の権限昇格の脆弱性
     * https://securityonline.info/cve-2025-0147-zoom-fixes-high-severity-security-flaw/
 * CVE-2025-0107 PaloAlto OSコマンド実行の脆弱性。PoCあり
