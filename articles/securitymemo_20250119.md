@@ -3,7 +3,7 @@ title: "2025/01/19 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -44,15 +44,19 @@ published: false
     * https://securityonline.info/zero-day-vulnerability-in-windows-exploited-cve-2024-49138-poc-code-released/
 * CVE-2025-21535 Oracle WebLogic DoS
     * https://securityboulevard.com/2025/01/oracle-weblogic-server-remote-code-execution-and-denial-of-service-vulnerability-cve-2025-21535-cve-2025-21549/
+    * https://securityonline.info/cve-2025-21535-cvss-9-8-vulnerability-in-oracle-weblogic-server-could-lead-to-remote-code-execution/
 * CVE-2025-0314 GitLab XSS
     * https://securityonline.info/cve-2025-0314-gitlab-releases-patch-for-xss-exploit/
 * CVE-2025-20156 Cisco Meeting Management Software 権限昇格の脆弱性
     * https://securityonline.info/cve-2025-20156-cvss-9-9-cisco-meeting-management-flaw-allows-for-privilege-escalation/
 * CVE-2025-20128 ClamAV DoSの脆弱性。PoCあり
     * https://securityonline.info/proof-of-concept-found-for-clamav-dos-flaw-cve-2025-20128/
+* 2024/10月に修正されたMicrosoft Configuration ManagerのPoCリリース CVE-2024-43468
+    * https://securityonline.info/cve-2024-43468-cvss-9-8-microsoft-configuration-manager-exploit-revealed-with-poc-code/
 
 ## KEV
 * CVE-2020-11023 JQuery Cross-Site Scripting (XSS) Vulnerability
+* CVE-2025-23006 SonicWall SMA1000 Appliances Deserialization Vulnerability
 
 # その他
 * TikTok アメリカでのサービス停止 1/19
@@ -66,3 +70,5 @@ published: false
     * https://www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/
 * JVN iPedia と MyJVN サービスがシステムメンテナンス、1 / 31 ～ 2 / 3
     * https://scan.netsecurity.ne.jp/article/2025/01/23/52209.html
+* WSUSによるドライバの同期が4/18に終了することをアナウンス
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-wsus-driver-synchronization-in-90-days/
