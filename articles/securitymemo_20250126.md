@@ -21,5 +21,14 @@ published: false
 
 # 脆弱性
 
+* CVE-2024-11218 Podman and Buildah コンテナ外へのアクセス
+    * https://securityonline.info/podman-and-buildah-vulnerable-to-container-breakout-cve-2024-11218/
+* CVE-2025-23040 GitHub Desktop 細工されたURLによる認証情報流出の可能性
+    * https://thehackernews.com/2025/01/github-desktop-vulnerability-risks.html
+* CVE-2025-24085 Apple iOSデバイス。権限昇格の脆弱性。ゼロデイ
+    * https://www.bleepingcomputer.com/news/security/apple-fixes-this-years-first-actively-exploited-zero-day-bug/
+    * https://www.darkreading.com/endpoint-security/apple-patches-actively-exploited-zero-day-vulnerability
+    * https://securityonline.info/cve-2025-24085-apple-patches-actively-exploited-zero-day-vulnerability/
+
 
 # その他

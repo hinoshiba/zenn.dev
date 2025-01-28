@@ -40,6 +40,8 @@ published: true
 * CVE-2025-0411 7-Zip 展開時にMotWをファイルへ伝搬しない脆弱性
     * https://securityonline.info/cve-2025-0411-7-zip-security-vulnerability-enables-code-execution-update-now/
     * https://www.bleepingcomputer.com/news/security/7-zip-fixes-bug-that-bypasses-the-windows-motw-security-mechanism-patch-now/
+    * PoCリリース
+        * https://securityonline.info/poc-for-7-zip-cve-2025-0411-lets-attackers-bypass-motw-and-run-malicious-code/
 * CVE-2024-49138 12月に修正されたWindows 権限昇格の脆弱性、PoCリリース
     * https://securityonline.info/zero-day-vulnerability-in-windows-exploited-cve-2024-49138-poc-code-released/
 * CVE-2025-21535 Oracle WebLogic DoS
