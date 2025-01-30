@@ -50,6 +50,8 @@ published: true
     * https://www.securityweek.com/fortinet-confirms-new-zero-day-exploitation/
     * https://scan.netsecurity.ne.jp/article/2025/01/17/52173.html
     * https://securityboulevard.com/2025/01/fortinet-os-fortiproxy-authentication-bypass-vulnerability-cve-2024-55591-notification/
+    * PoCリリース
+        * https://securityonline.info/poc-releases-for-fortinet-zero-day-vulnerability-cve-2024-5559-45000-remain-vulnerable/
 * CVE-2023-37936 FortiSwitch コード実行の脆弱性
     * https://securityonline.info/cve-2023-37936-cvss-9-6-urgent-patch-needed-for-fortiswitch-vulnerability/
 * CVE-2024-27397 Linux nftablesの権限昇格の脆弱性、PoCリリース
