@@ -17,6 +17,9 @@ published: false
 
 # 事件事故
 
+*  インド、Tata Technologies 社、ランサムウェア被害
+    * https://www.bleepingcomputer.com/news/security/indian-tech-giant-tata-technologies-hit-by-ransomware-attack/
+
 # 攻撃、脅威
 
 # 脆弱性
@@ -50,3 +53,5 @@ published: false
     * https://www.bleepingcomputer.com/news/google/google-to-kill-chrome-sync-on-older-chrome-browser-versions/
 * Signal 新しいデバイスを追加した際に、メッセージをsyncできる機能を追加
     * https://www.bleepingcomputer.com/news/security/signal-will-let-you-sync-old-messages-when-linking-new-devices/
+* IPA 情報セキュリティ10大脅威 2025 発表
+    * https://news.mynavi.jp/techplus/article/20250130-3118677/
