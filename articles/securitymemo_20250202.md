@@ -18,8 +18,24 @@ published: false
 # 事件事故
 
 # 攻撃、脅威
+* Cacio UK オンラインストア Javascript埋め込みによりクレジットカード情報等が盗まれた可能性
+    * https://www.bleepingcomputer.com/news/security/casio-uk-online-store-hacked-to-steal-customer-credit-cards/
+
 
 # 脆弱性
 
+* CVE-2024-53104 Android 権限昇格の脆弱性 ゼロデイ
+    * https://securityonline.info/cve-2024-53104-critical-zero-day-vulnerability-patched-in-february-2025-android-security-update/
+    * https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-attacks/
+* CVE-2025-24118 Appleデバイス。メモリプロテクション管理
+    * https://securityonline.info/poc-exploit-released-for-macos-kernel-vulnerability-cve-2025-24118-cvss-9-8/
+
 
 # その他
+* 「サイバーセキュリティ月間」がスタート - チョコプラ「TT兄弟」も登場
+    * https://www.security-next.com/166817
+* 【イギリス】政府、「AIサイバーセキュリティ行動規範」発表。
+    * https://sustainablejapan.jp/2025/02/02/uk-ai-cyber-security-code-of-practice/110396
+* Microsoft Defender VPN 2/28 で終了
+    * https://www.darkreading.com/mobile-security/microsoft-sets-end-date-for-defender-vpn
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-kills-off-defender-privacy-protection-vpn-feature/
