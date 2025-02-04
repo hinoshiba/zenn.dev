@@ -29,6 +29,10 @@ published: false
     * https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-attacks/
 * CVE-2025-24118 Appleデバイス。メモリプロテクション管理
     * https://securityonline.info/poc-exploit-released-for-macos-kernel-vulnerability-cve-2025-24118-cvss-9-8/
+* PSV-2023-0039 Netgear ルータ、未認証のコード実行の脆弱性
+    * https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-critical-wifi-router-vulnerabilities/
+* CVE-2025-21293 2025/01に修正されたADの権限昇格の脆弱性、PoCリリース
+    * https://securityonline.info/privilege-escalation-in-active-directory-domain-services-cve-2025-21293-exploit-revealed-with-poc-code/
 
 
 # その他
