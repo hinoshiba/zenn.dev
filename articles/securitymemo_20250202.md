@@ -20,6 +20,7 @@ published: false
 # 攻撃、脅威
 * Cacio UK オンラインストア Javascript埋め込みによりクレジットカード情報等が盗まれた可能性
     * https://www.bleepingcomputer.com/news/security/casio-uk-online-store-hacked-to-steal-customer-credit-cards/
+    * https://news.mynavi.jp/techplus/article/20250205-3122269/
 
 
 # 脆弱性
@@ -33,6 +34,11 @@ published: false
     * https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-critical-wifi-router-vulnerabilities/
 * CVE-2025-21293 2025/01に修正されたADの権限昇格の脆弱性、PoCリリース
     * https://securityonline.info/privilege-escalation-in-active-directory-domain-services-cve-2025-21293-exploit-revealed-with-poc-code/
+* CVE-2024-56161 AMDのCPU マイクロコード挿入の脆弱性
+    * https://www.bleepingcomputer.com/news/security/amd-fixes-bug-that-lets-hackers-load-malicious-microcode-patches/
+
+## KEV
+* CVE-2024-53104 Linux Kernel Out-of-Bounds Write Vulnerability
 
 
 # その他
