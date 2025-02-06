@@ -36,9 +36,21 @@ published: false
     * https://securityonline.info/privilege-escalation-in-active-directory-domain-services-cve-2025-21293-exploit-revealed-with-poc-code/
 * CVE-2024-56161 AMDのCPU マイクロコード挿入の脆弱性
     * https://www.bleepingcomputer.com/news/security/amd-fixes-bug-that-lets-hackers-load-malicious-microcode-patches/
+* CVE-2025-20124 Cisco ISE 遠隔からのコード実行の脆弱性
+    * https://www.bleepingcomputer.com/news/security/critical-cisco-ise-bug-can-let-attackers-run-commands-as-root/
+    * https://securityonline.info/cve-2025-20124-cve-2025-20125-cisco-patches-critical-flaws-in-identity-services-engine/
+* CVE-2025-23419 NGINX クライアントの認証をbypassできる脆弱性
+    * https://securityonline.info/f5-warns-of-tls-session-resumption-vulnerability-in-nginx-cve-2025-23419/
+* CVE-2025-24503 Symantec PAM コード実行の脆弱性
+    * https://securityonline.info/symantec-pam-patches-critical-security-flaw-cve-2025-24503-cvssv4-9-3/
 
 ## KEV
 * CVE-2024-53104 Linux Kernel Out-of-Bounds Write Vulnerability
+* CVE-2025-0411 7-Zip Mark of the Web Bypass Vulnerability
+* CVE-2022-23748 Dante Discovery Process Control Vulnerability
+* CVE-2024-21413 Microsoft Outlook Improper Input Validation Vulnerability
+* CVE-2020-29574 CyberoamOS (CROS) SQL Injection Vulnerability
+* CVE-2020-15069 Sophos XG Firewall Buffer Overflow Vulnerability
 
 
 # その他
@@ -49,3 +61,5 @@ published: false
 * Microsoft Defender VPN 2/28 で終了
     * https://www.darkreading.com/mobile-security/microsoft-sets-end-date-for-defender-vpn
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-kills-off-defender-privacy-protection-vpn-feature/
+* WSL2 Arch Linux をサポート
+    * https://securityonline.info/arch-linux-on-wsl-2-microsoft-confirms-official-support/
