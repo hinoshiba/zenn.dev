@@ -3,7 +3,7 @@ title: "2025/02/02 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -51,6 +51,7 @@ published: false
 * CVE-2024-21413 Microsoft Outlook Improper Input Validation Vulnerability
 * CVE-2020-29574 CyberoamOS (CROS) SQL Injection Vulnerability
 * CVE-2020-15069 Sophos XG Firewall Buffer Overflow Vulnerability
+* CVE-2025-0994 Trimble Cityworks Deserialization Vulnerability
 
 
 # その他
