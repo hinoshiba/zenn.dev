@@ -21,4 +21,26 @@ published: false
 
 # 脆弱性
 
+* CVE-2025-24200 iOSデバイス USB制限モードへの脆弱性。extremely sophisticated
+    * https://www.bleepingcomputer.com/news/apple/apple-fixes-zero-day-exploited-in-extremely-sophisticated-attacks/
+    * https://securityonline.info/apple-issues-emergency-updates-to-patch-actively-exploited-zero-day-vulnerability-cve-2025-24200/
+    * https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html
+    * https://www.bitdefender.com/en-us/blog/hotforsecurity/apple-emergency-ios-18-3-1-extremely-sophisticated-attack-update-now
+* CVE-2025-23369 GitHub Enterprise SAML Bypass
+    * https://securityonline.info/github-enterprise-saml-bypass-flaw-cve-2025-23369-exposed-technical-analysis-and-exploit-poc/
+* CVE-2024-47908 Ivanti CSA 任意のコード実行の脆弱性
+    * https://securityonline.info/cve-2024-47908-cvss-9-1-critical-ivanti-csa-flaw-enables-attackers-to-run-arbitrary-code/
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2025-Feb
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2025-patch-tuesday-fixes-4-zero-days-55-flaws/
+        * https://www.securityweek.com/microsoft-patches-wormable-windows-flaw-and-file-deleting-zero-day/
+
+## KEV
+* CVE-2024-40891 Zyxel DSL CPE OS Command Injection Vulnerability
+* CVE-2024-40890 Zyxel DSL CPE OS Command Injection Vulnerability
+* CVE-2025-21418 Microsoft Windows Ancillary Function Driver for WinSock Heap-Based Buffer Overflow Vulnerability
+* CVE-2025-21391 Microsoft Windows Storage Link Following Vulnerability
+
 # その他
