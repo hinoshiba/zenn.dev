@@ -30,6 +30,8 @@ published: false
     * https://securityonline.info/github-enterprise-saml-bypass-flaw-cve-2025-23369-exposed-technical-analysis-and-exploit-poc/
 * CVE-2024-47908 Ivanti CSA 任意のコード実行の脆弱性
     * https://securityonline.info/cve-2024-47908-cvss-9-1-critical-ivanti-csa-flaw-enables-attackers-to-run-arbitrary-code/
+* CVE-2025-22467 Ivanti Connect Secure 任意のコード実行の脆弱性
+    * https://securityonline.info/cve-2025-22467-cvss-9-9-ivanti-connect-secure-vulnerability-allows-remote-code-execution/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -44,3 +46,5 @@ published: false
 * CVE-2025-21391 Microsoft Windows Storage Link Following Vulnerability
 
 # その他
+* Google Youtube Userのメールアドレスが漏れる不具合を修正
+    * https://www.bleepingcomputer.com/news/security/google-fixes-flaw-that-could-unmask-youtube-users-email-addresses/
