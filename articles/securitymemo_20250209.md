@@ -32,6 +32,10 @@ published: false
     * https://securityonline.info/cve-2024-47908-cvss-9-1-critical-ivanti-csa-flaw-enables-attackers-to-run-arbitrary-code/
 * CVE-2025-22467 Ivanti Connect Secure 任意のコード実行の脆弱性
     * https://securityonline.info/cve-2025-22467-cvss-9-9-ivanti-connect-secure-vulnerability-allows-remote-code-execution/
+* CVE-2024-54531 macOS 昨年12月に修正されたKASLR Bypassの脆弱性、PoCリリース
+    * https://securityonline.info/macos-security-breach-cve-2024-54531-poc-published-attackers-can-bypass-kaslr/
+* CVE-2025-0108 Paloalto PAN-OS 未認証のアクセスの脆弱性
+    * https://securityonline.info/cve-2025-0108-cve-2025-0110-palo-alto-networks-fixes-high-severity-pan-os-vulnerabilities/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
@@ -44,6 +48,7 @@ published: false
 * CVE-2024-40890 Zyxel DSL CPE OS Command Injection Vulnerability
 * CVE-2025-21418 Microsoft Windows Ancillary Function Driver for WinSock Heap-Based Buffer Overflow Vulnerability
 * CVE-2025-21391 Microsoft Windows Storage Link Following Vulnerability
+* CVE-2024-57727 SimpleHelp Path Traversal Vulnerability
 
 # その他
 * Google Youtube Userのメールアドレスが漏れる不具合を修正
