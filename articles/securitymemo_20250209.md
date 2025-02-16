@@ -3,7 +3,7 @@ title: "2025/02/09 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -36,6 +36,9 @@ published: false
     * https://securityonline.info/macos-security-breach-cve-2024-54531-poc-published-attackers-can-bypass-kaslr/
 * CVE-2025-0108 Paloalto PAN-OS 未認証のアクセスの脆弱性
     * https://securityonline.info/cve-2025-0108-cve-2025-0110-palo-alto-networks-fixes-high-severity-pan-os-vulnerabilities/
+    * https://www.bleepingcomputer.com/news/security/hackers-exploit-authentication-bypass-in-palo-alto-networks-pan-os/
+    * PoCリリース
+        * https://securityonline.info/palo-alto-firewall-flaw-cve-2025-0108-active-exploits-in-the-wild-poc-released/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
