@@ -26,5 +26,7 @@ published: false
     * https://securityonline.info/cve-2025-1240-winzip-vulnerability-opens-door-to-remote-code-execution/
 * CVE-2024-21966 AMD Ryzen Master Utility 権限昇格の脆弱性
     * https://securityonline.info/amd-ryzen-master-utility-vulnerable-to-dll-hijacking-cve-2024-21966/
+* CVE-2022-31631 PHP SQLiの脆弱性
+    * https://securityonline.info/cve-2022-31631-cvss-9-1-critical-php-flaw-exposes-websites-to-sql-injection-attacks/
 
 # その他
