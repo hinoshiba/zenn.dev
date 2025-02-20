@@ -28,5 +28,21 @@ published: false
     * https://securityonline.info/amd-ryzen-master-utility-vulnerable-to-dll-hijacking-cve-2024-21966/
 * CVE-2022-31631 PHP SQLiの脆弱性
     * https://securityonline.info/cve-2022-31631-cvss-9-1-critical-php-flaw-exposes-websites-to-sql-injection-attacks/
+* CVE-2025-21589 Juniper SSR 認証bypassの脆弱性
+    * https://www.bleepingcomputer.com/news/security/juniper-patches-critical-auth-bypass-in-session-smart-routers/
+    * https://www.securityweek.com/critical-vulnerability-patched-in-juniper-session-smart-router/
+    * https://thehackernews.com/2025/02/juniper-session-smart-routers.html
+    * https://securityonline.info/cve-2025-21589-cvss-9-8-critical-authentication-bypass-flaw-in-juniper-session-smart-routers/
+* CVE-2025-26465 OpenSSH MITMの脆弱性
+    * https://securityonline.info/openssh-flaws-cve-2025-26465-cve-2025-26466-expose-clients-and-servers-to-attacks/
+    * https://www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/
+* 1月に修正されたLibreOfficeの脆弱性PoCリリース
+    * https://securityonline.info/libreoffice-vulnerabilities-cve-2024-12425-cve-2024-12426-pocs-released-patch-asap/#google_vignette
+
+## KEV
+* CVE-2025-0108 Palo Alto PAN-OS Authentication Bypass Vulnerability
+* CVE-2024-53704 SonicWall SonicOS SSLVPN Improper Authentication Vulnerability
 
 # その他
+* WSUS ドライバ同期機能停止まで、60日
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-prepare-for-wsus-driver-sync-deprecation/

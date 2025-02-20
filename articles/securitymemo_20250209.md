@@ -39,6 +39,7 @@ published: true
     * https://www.bleepingcomputer.com/news/security/hackers-exploit-authentication-bypass-in-palo-alto-networks-pan-os/
     * PoCリリース
         * https://securityonline.info/palo-alto-firewall-flaw-cve-2025-0108-active-exploits-in-the-wild-poc-released/
+    * https://www.theregister.com/2025/02/19/palo_alto_firewall_attack/
 * WindowsUpdate
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
