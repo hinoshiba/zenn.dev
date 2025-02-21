@@ -38,10 +38,19 @@ published: false
     * https://www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/
 * 1月に修正されたLibreOfficeの脆弱性PoCリリース
     * https://securityonline.info/libreoffice-vulnerabilities-cve-2024-12425-cve-2024-12426-pocs-released-patch-asap/#google_vignette
+* CVE-2024-50379 and CVE-2024-56337 Confluence Data Center and Server address RCE
+    * https://www.securityweek.com/atlassian-patches-critical-vulnerabilities-in-confluence-crowd/
+* CVE-2025-21420: Windows Disk Cleanup Tool 権限昇格の脆弱性
+    * https://securityonline.info/cve-2025-21420-windows-disk-cleanup-tool-flaw-exploited-to-gain-system-privileges-poc-released/
+* CVE-2025-26506 HP プリンタ コード実行の可能性
+    * https://securityonline.info/hp-warns-of-critical-security-flaw-in-laserjet-printers-cve-2025-26506-cvssv4-9-2/
 
 ## KEV
 * CVE-2025-0108 Palo Alto PAN-OS Authentication Bypass Vulnerability
 * CVE-2024-53704 SonicWall SonicOS SSLVPN Improper Authentication Vulnerability
+* CVE-2025-23209 Craft CMS Code Injection Vulnerability
+* CVE-2025-0111 Palo Alto Networks PAN-OS File Read Vulnerability
+
 
 # その他
 * WSUS ドライバ同期機能停止まで、60日
