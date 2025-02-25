@@ -23,11 +23,16 @@ published: false
 
 * 昨年リリースされたParallels Desktop 権限昇格脆弱性CVE-2024-34331  PoCリリース
     * https://securityonline.info/0-day-in-parallels-desktop-allows-root-privilege-escalation-poc-released/
+* CVE-2025-27364 MITRE Caldera RCEの脆弱性
+    * https://securityonline.info/cve-2025-27364-cvss-10-remote-code-execution-flaw-found-in-mitre-caldera-poc-releases/
+    * https://www.theregister.com/2025/02/25/10_bug_mitre_caldera/
 
 ## KEV
 * CVE-2025-24989 Microsoft Power Pages Improper Access Control Vulnerability
 * CVE-2017-3066 Adobe ColdFusion Deserialization Vulnerability
 * CVE-2024-20953 Oracle Agile Product Lifecycle Management (PLM) Deserialization Vulnerability
+* CVE-2024-49035 Microsoft Partner Center Improper Access Control Vulnerability
+* CVE-2023-34192 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting (XSS) Vulnerability
 
 # その他
 * オーストラリア政府 Kasperskyの利用を停止
