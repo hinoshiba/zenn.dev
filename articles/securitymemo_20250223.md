@@ -26,6 +26,16 @@ published: false
 * CVE-2025-27364 MITRE Caldera RCEの脆弱性
     * https://securityonline.info/cve-2025-27364-cvss-10-remote-code-execution-flaw-found-in-mitre-caldera-poc-releases/
     * https://www.theregister.com/2025/02/25/10_bug_mitre_caldera/
+* 1月に修正されたrsyncの脆弱性、PoCリリース CVE-2024-12084 & CVE-2024-12085
+    * https://securityonline.info/cve-2024-12084-cve-2024-12085-rsync-flaws-allow-hackers-to-take-over-servers-poc-published/
+* CVE-2025-20111 CISCO Nexus 3000 and 9000 DoS の脆弱性の修正
+    * https://securityonline.info/cisco-warns-of-dos-vulnerability-in-nexus-3000-and-9000-series-switches-cve-2025-20111/
+* CVE-2025-20029 F5 BIG-IP コマンドインジェクションの脆弱性 PoCあり
+    * https://securityonline.info/cve-2025-20029-command-injection-flaw-discovered-in-f5-big-ip-system-poc-releases/
+* CVE-2025-0514 LibreOffice 細工されたURLにより任意の実行の可能性
+    * https://securityonline.info/cve-2025-0514-libreoffice-flaw-could-allow-unintentional-execution-of-malicious-files/
+* CVE-2025-0475 GitLab XSSの脆弱性
+    * https://securityonline.info/cve-2025-0475-cve-2025-0555-gitlabs-high-risk-patch-now/
 
 ## KEV
 * CVE-2025-24989 Microsoft Power Pages Improper Access Control Vulnerability
@@ -48,3 +58,5 @@ published: false
     * https://www.bleepingcomputer.com/news/security/apple-pulls-icloud-end-to-end-encryption-feature-in-the-uk/
 * Docker pullなどに制限
     * https://www.theregister.com/2025/02/22/docker_hub_pull_limits/
+* Skype 5月に終了
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-its-killing-off-skype-in-may-after-14-years/
