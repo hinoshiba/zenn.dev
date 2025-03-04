@@ -23,6 +23,30 @@ published: false
 
 * CVE-2025-27110 ModSecurity ルールのbypassの脆弱性
     * https://securityonline.info/cve-2025-27110-modsecurity-vulnerability-leaves-web-applications-exposed/
+* CVE-2025-22224 VMware ESXi, vSphere, Workstation, Fusion, Cloud Foundation, and Telco Cloud Platform 権限昇格の脆弱性
+    * https://www.theregister.com/2025/03/04/vmware_plugs_three_hypervisorhijack_holes/
+    * https://thehackernews.com/2025/03/vmware-security-flaws-exploited-in.html
+    * https://www.bleepingcomputer.com/news/security/broadcom-fixes-three-vmware-zero-days-exploited-in-attacks/
+* CVE-2024-43093 Android 権限昇格の脆弱性 ゼロデイ
+    * https://www.bleepingcomputer.com/news/security/google-fixes-android-zero-days-exploited-in-targeted-attacks/
+    * https://securityonline.info/android-alert-critical-flaws-cve-2024-43093-cve-2024-50302-exploited-update-now/
+* CVE-2025-0159 IBM Storage 認証Bypassの脆弱性
+    * https://securityonline.info/cve-2025-0159-cvss-9-1-critical-ibm-storage-flaw-allows-authentication-bypass/
+* CVE-2025-23388 Rancher DoSの脆弱性
+    * https://securityonline.info/flaws-in-rancher-cve-2025-23388-cve-2025-23389-expose-kubernetes-environments-to-attacks/
+* 2月に修正されたHyper-Vの脆弱性 CVE-2025-21333、PoCリリース
+    * https://securityonline.info/windows-hyper-v-zero-day-cve-2025-21333-poc-drops-system-access-exposed/
 
+## KEV
+* CVE-2023-20118 Cisco Small Business RV Series Routers Command Injection Vulnerability
+* CVE-2022-43939 Hitachi Vantara Pentaho BA Server Authorization Bypass Vulnerability
+* CVE-2022-43769 Hitachi Vantara Pentaho BA Server Special Element Injection Vulnerability
+* CVE-2018-8639 Microsoft Windows Win32k Improper Resource Shutdown or Release Vulnerability
+* CVE-2024-4885 Progress WhatsUp Gold Path Traversal Vulnerability
 
 # その他
+
+* Firefox 縦タブリリース
+    * https://www.theregister.com/2025/03/04/firefox_136/
+* o365 認証周りの障害 3/1 現在は復旧ずみ
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-links-recent-microsoft-365-outage-to-buggy-update/
