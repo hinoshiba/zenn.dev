@@ -3,7 +3,7 @@ title: "2025/03/02 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -17,6 +17,9 @@ published: false
 
 # 事件事故
 
+* NTTコムにサイバー攻撃 - 法人顧客情報が流出した可能性
+    * https://www.security-next.com/167889
+
 # 攻撃、脅威
 
 # 脆弱性
@@ -27,6 +30,7 @@ published: false
     * https://www.theregister.com/2025/03/04/vmware_plugs_three_hypervisorhijack_holes/
     * https://thehackernews.com/2025/03/vmware-security-flaws-exploited-in.html
     * https://www.bleepingcomputer.com/news/security/broadcom-fixes-three-vmware-zero-days-exploited-in-attacks/
+    * https://www.bleepingcomputer.com/news/security/over-37-000-vmware-esxi-servers-vulnerable-to-ongoing-attacks/
 * CVE-2024-43093 Android 権限昇格の脆弱性 ゼロデイ
     * https://www.bleepingcomputer.com/news/security/google-fixes-android-zero-days-exploited-in-targeted-attacks/
     * https://securityonline.info/android-alert-critical-flaws-cve-2024-43093-cve-2024-50302-exploited-update-now/
@@ -36,6 +40,12 @@ published: false
     * https://securityonline.info/flaws-in-rancher-cve-2025-23388-cve-2025-23389-expose-kubernetes-environments-to-attacks/
 * 2月に修正されたHyper-Vの脆弱性 CVE-2025-21333、PoCリリース
     * https://securityonline.info/windows-hyper-v-zero-day-cve-2025-21333-poc-drops-system-access-exposed/
+* CVE-2025-25015 Kibana RCE
+    * https://securityonline.info/cve-2025-25015-cvss-9-9-critical-code-execution-vulnerability-patched-in-elastic-kibana/
+* CVE-2025-1080 LibreOffice スクリプトの実行
+    * https://securityonline.info/cve-2025-1080-libreoffice-patches-security-flaw-allowing-arbitrary-script-execution/
+* CVE-2025-27423 Vim 細工されたTarファイルによるスクリプト実行の可能性
+    * https://securityonline.info/vim-users-warned-crafted-tar-files-could-trigger-code-execution-cve-2025-27423/
 
 ## KEV
 * CVE-2023-20118 Cisco Small Business RV Series Routers Command Injection Vulnerability
