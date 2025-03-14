@@ -29,6 +29,7 @@ published: false
     * https://securityonline.info/servicenow-addresses-authorization-bypass-vulnerability-in-now-platform-cve-2025-0337/
 * CVE-2025-1316 Edimax IC-7100 IP 任意のコード実行の脆弱性。CIA警告
     * https://securityonline.info/cisa-warns-of-critical-edimax-ip-camera-flaw-cve-2025-1316-with-public-exploits-and-no-vendor-fix/
+    * https://www.securityweek.com/edimax-says-no-patches-coming-for-zero-day-exploited-by-botnets/
 * CVE-2025-20206: Cisco Secure Client 任意のコード実行の脆弱性
     * https://securityonline.info/cve-2025-20206-cisco-secure-client-flaw-allows-code-execution-with-system-privileges/
 * CVE-2025-27624 Jenkins CSRF
@@ -37,6 +38,36 @@ published: false
     * https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/give/givewp-donation-plugin-and-fundraising-platform-3194-unauthenticated-php-object-injection
 * CVE-2024-56337 Apache Tomcat レースコンディションによりファイルをJSPとして利用される可能性
     * https://www.security-next.com/168002
+* CVE-2025-24813 Apache Tomcat 任意のコード実行の可能性
+    * https://securityonline.info/cve-2025-24813-flaw-in-apache-tomcat-exposes-servers-to-rce-data-leaks-update-immediately/
+* CVE-2025-24201 Apple device Webkitの脆弱性
+    * https://www.darkreading.com/mobile-security/apple-drops-another-webkit-zero-day-bug
+    * https://thehackernews.com/2025/03/apple-releases-patch-for-webkit-zero.html
+    * https://securityonline.info/cve-2025-24201-apple-issues-emergency-patches-for-actively-exploited-zero-day-vulnerability/
+    * https://www.bleepingcomputer.com/news/apple/apple-fixes-webkit-zero-day-exploited-in-extremely-sophisticated-attacks/
+* CVE-2025-27440 Zoom 権限昇格の脆弱性
+    * https://www.securityweek.com/zoom-patches-4-high-severity-vulnerabilities/
+    * https://securityonline.info/zoom-addresses-multi-high-severity-vulnerabilities-in-workplace-apps-and-sdks/
+* CVE-2023-40723 ForiSIEM 遠隔からのDB情報読み取りの可能性
+    * https://www.securityweek.com/fortinet-patches-18-vulnerabilities/
+* CVE-2025-26865 Apache OfBiz RCE
+    * https://securityonline.info/cve-2025-26865-apache-ofbiz-vulnerability-could-lead-to-remote-code-execution/
+* CVE-2025-21590 Juniper Junos RCE
+    * https://www.bleepingcomputer.com/news/security/juniper-patches-bug-that-let-chinese-cyberspies-backdoor-routers-since-mid-2024/
+* CVE-2025-25291 and CVE-2025-25292 RubySAML Bypassの脆弱性。GitLabやGitHubにも影響あり
+    * https://www.bleepingcomputer.com/news/security/gitlab-patches-critical-authentication-bypass-vulnerabilities/
+    * https://thehackernews.com/2025/03/github-uncovers-new-ruby-saml.html
+    * https://securityonline.info/gitlab-urgently-patches-critical-authentication-bypass-flaws-cve-2025-25291-cve-2025-25292/
+* CVE-2025-20138 Cisco IOS XR
+    * https://securityonline.info/cisco-issues-high-severity-security-alert-for-ios-xr-software-cve-2025-20138/
+* CVE-2025-27017 Apache NiFi 未認証のDBアクセス
+    * https://securityonline.info/cve-2025-27017-apache-nifi-vulnerability-exposes-mongodb-credentials/
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2025-Mar
+        * https://securityboulevard.com/2025/03/microsofts-march-2025-patch-tuesday-addresses-56-cves-cve-2025-26633-cve-2025-24983-cve-2025-24993/
+        * https://securityonline.info/microsoft-patch-tuesday-march-2025-addresses-67-vulnerabilities-including-seven-zero-day-flaws/
 
 ## KEV
 * CVE-2025-25181 Advantive VeraCore SQL Injection Vulnerability
@@ -44,6 +75,12 @@ published: false
 * CVE-2024-13159 Ivanti Endpoint Manager (EPM) Absolute Path Traversal Vulnerability
 * CVE-2024-13160 Ivanti Endpoint Manager (EPM) Absolute Path Traversal Vulnerability
 * CVE-2024-13161 Ivanti Endpoint Manager (EPM) Absolute Path Traversal Vulnerability
+* CVE-2025-24201 Apple Multiple Products WebKit Out-of-Bounds Write Vulnerability
+* CVE-2025-21590 Juniper Junos OS Improper Isolation or Compartmentalization Vulnerability
 
 # その他
 
+* MicrosoftがリモートデスクトップアプリをWindowsAppに切り替えていく
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-replacing-remote-desktop-app-with-windows-app-in-may/
+* GCC 15のリリース間近
+    * https://www.theregister.com/2025/03/13/gcc_15_is_close/
