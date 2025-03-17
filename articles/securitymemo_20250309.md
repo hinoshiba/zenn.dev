@@ -3,7 +3,7 @@ title: "2025/03/09 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -38,8 +38,10 @@ published: false
     * https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/give/givewp-donation-plugin-and-fundraising-platform-3194-unauthenticated-php-object-injection
 * CVE-2024-56337 Apache Tomcat レースコンディションによりファイルをJSPとして利用される可能性
     * https://www.security-next.com/168002
-* CVE-2025-24813 Apache Tomcat 任意のコード実行の可能性
+* CVE-2025-24813 Apache Tomcat 任意のコード実行の可能性。PoCリリース
     * https://securityonline.info/cve-2025-24813-flaw-in-apache-tomcat-exposes-servers-to-rce-data-leaks-update-immediately/
+    * https://securityonline.info/tomcat-flaw-cve-2025-24813-exploited-in-the-wild-poc-released/#google_vignette
+    * https://github.com/iSee857/CVE-2025-24813-PoC
 * CVE-2025-24201 Apple device Webkitの脆弱性
     * https://www.darkreading.com/mobile-security/apple-drops-another-webkit-zero-day-bug
     * https://thehackernews.com/2025/03/apple-releases-patch-for-webkit-zero.html
@@ -54,6 +56,7 @@ published: false
     * https://securityonline.info/cve-2025-26865-apache-ofbiz-vulnerability-could-lead-to-remote-code-execution/
 * CVE-2025-21590 Juniper Junos RCE
     * https://www.bleepingcomputer.com/news/security/juniper-patches-bug-that-let-chinese-cyberspies-backdoor-routers-since-mid-2024/
+    * https://securityonline.info/juniper-issues-urgent-fix-for-actively-exploited-junos-os-flaw-cve-2025-21590/
 * CVE-2025-25291 and CVE-2025-25292 RubySAML Bypassの脆弱性。GitLabやGitHubにも影響あり
     * https://www.bleepingcomputer.com/news/security/gitlab-patches-critical-authentication-bypass-vulnerabilities/
     * https://thehackernews.com/2025/03/github-uncovers-new-ruby-saml.html
