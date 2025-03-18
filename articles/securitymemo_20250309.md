@@ -42,6 +42,10 @@ published: true
     * https://securityonline.info/cve-2025-24813-flaw-in-apache-tomcat-exposes-servers-to-rce-data-leaks-update-immediately/
     * https://securityonline.info/tomcat-flaw-cve-2025-24813-exploited-in-the-wild-poc-released/#google_vignette
     * https://github.com/iSee857/CVE-2025-24813-PoC
+    * https://www.darkreading.com/vulnerabilities-threats/apache-tomcat-rce-vulnerability-exploit
+    * https://www.securityweek.com/exploit-code-for-apache-tomcat-rce-vulnerability-published-on-chinese-forum/
+    * https://thehackernews.com/2025/03/apache-tomcat-vulnerability-comes-under.html
+    * https://www.bleepingcomputer.com/news/security/critical-rce-flaw-in-apache-tomcat-actively-exploited-in-attacks/
 * CVE-2025-24201 Apple device Webkitの脆弱性
     * https://www.darkreading.com/mobile-security/apple-drops-another-webkit-zero-day-bug
     * https://thehackernews.com/2025/03/apple-releases-patch-for-webkit-zero.html

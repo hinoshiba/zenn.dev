@@ -25,6 +25,10 @@ published: false
     * https://securityonline.info/cve-2025-27407-cvss-9-1-critical-graphql-ruby-flaw-exposes-millions-to-rce/
 * CVE-2025-30066 GitHub Actions tj-actions/changed-files への悪意のあるコード注入
     * https://securityonline.info/popular-github-action-tj-actions-changed-files-compromised-cve-2025-30066/
+    * https://www.bleepingcomputer.com/news/security/supply-chain-attack-on-popular-github-action-exposes-ci-cd-secrets/
+    * https://www.theregister.com/2025/03/17/supply_chain_attack_github/
+    * https://thehackernews.com/2025/03/github-action-compromise-puts-cicd.html
+    * https://www.securityweek.com/popular-github-action-targeted-in-supply-chain-attack/
 
 # その他
 
