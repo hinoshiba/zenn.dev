@@ -29,6 +29,35 @@ published: false
     * https://www.theregister.com/2025/03/17/supply_chain_attack_github/
     * https://thehackernews.com/2025/03/github-action-compromise-puts-cicd.html
     * https://www.securityweek.com/popular-github-action-targeted-in-supply-chain-attack/
+    * 依存先の、`reviewdog/action-setup` によるものとのブログをwizが公開
+        * https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup
+* CVE-2025-26909 WordPress Plugin GHOST RCE
+    * https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-wp-ghost-vulnerable-to-remote-code-execution-bug/
+* CVE-2025-24071 今月のWindowsUpdateで修正されたNTMLハッシュを細工された圧縮ファイルで盗む脆弱性、PoCリリース
+    * https://securityonline.info/poc-released-windows-explorer-cve-2025-24071-vulnerability-exposes-ntlm-hashes/
+* CVE-2024-11131 Synology Camera 任意のコード実行の脆弱性
+    * https://securityonline.info/cve-2024-11131-cvss-9-8-critical-vulnerability-found-in-synology-camera-firmware/
+* CVE-2025-0755 MongoDB ドライバ不備によりバッファオーバーフローの脆弱性
+    * https://securityonline.info/cve-2025-0755-mongodb-c-driver-vulnerability-could-lead-to-buffer-overflow/
+*  CVE-2024-10441 Synology 任意のコード実行の脆弱性。Synology BeeStation Manager (BSM), Synology DiskStation Manager (DSM), and Synology Unified Controller (DSMUC) など。
+    * https://securityonline.info/cve-2024-10441-cvss-9-8-synology-patches-critical-code-execution-flaw-in-multiple-products/
+* ZDI-CAN-25373 Windows lnk によるコード実行の脆弱性。
+    * https://www.bleepingcomputer.com/news/security/new-windows-zero-day-exploited-by-11-state-hacking-groups-since-2017/
+* CVE-2025-1861 PHP stream HTTP wrapperのバッファ不足によりDoSの可能性
+    * https://securityonline.info/multiple-security-vulnerabilities-plague-php-exposing-applications-to-risk/
+* CVE-2024-540385 HPE Cray XD670 管理者による未認証のアクセスの脆弱性
+    * https://securityonline.info/hpe-cray-vulnerability-cve-2024-540385-authentication-bypass-threat-cvss-10-alert/
+
+
+## KEV
+* CVE-2025-1316 Edimax IC-7100 IP Camera OS Command Injection Vulnerability
+* CVE-2024-48248 NAKIVO Backup and Replication Absolute Path Traversal Vulnerability
+* CVE-2017-12637 SAP NetWeaver Directory Traversal Vulnerability
+
 
 # その他
 
+* Wiz GoogleにJoin
+    * https://www.wiz.io/blog/wiz-joining-google
+* Ubuntu 25.10 では、coreutilsをRUSTに置き換えることが検討されている
+    * https://www.theregister.com/2025/03/19/ubuntu_2510_rust/
