@@ -1,9 +1,9 @@
 ---
-title: "2025/03/17 週 セキュリティニュースメモ"
+title: "2025/03/16 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -31,6 +31,7 @@ published: false
     * https://www.securityweek.com/popular-github-action-targeted-in-supply-chain-attack/
     * 依存先の、`reviewdog/action-setup` によるものとのブログをwizが公開
         * https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup
+    * https://thehackernews.com/2025/03/github-supply-chain-breach-coinbase.html
 * CVE-2025-26909 WordPress Plugin GHOST RCE
     * https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-wp-ghost-vulnerable-to-remote-code-execution-bug/
 * CVE-2025-24071 今月のWindowsUpdateで修正されたNTMLハッシュを細工された圧縮ファイルで盗む脆弱性、PoCリリース
@@ -47,6 +48,8 @@ published: false
     * https://securityonline.info/multiple-security-vulnerabilities-plague-php-exposing-applications-to-risk/
 * CVE-2024-540385 HPE Cray XD670 管理者による未認証のアクセスの脆弱性
     * https://securityonline.info/hpe-cray-vulnerability-cve-2024-540385-authentication-bypass-threat-cvss-10-alert/
+* CVE-2024-56346 IBM AIX 任意のコード実行の脆弱性
+    * https://securityonline.info/ibm-aix-security-breach-cve-2024-56346-cvss-10-cve-2024-56347-explained/
 
 
 ## KEV
@@ -57,7 +60,8 @@ published: false
 
 # その他
 
-* Wiz GoogleにJoin
+* Google、Wizを買収
     * https://www.wiz.io/blog/wiz-joining-google
+    * https://www.securityweek.com/industry-reactions-to-google-buying-wiz-feedback-friday/
 * Ubuntu 25.10 では、coreutilsをRUSTに置き換えることが検討されている
     * https://www.theregister.com/2025/03/19/ubuntu_2510_rust/
