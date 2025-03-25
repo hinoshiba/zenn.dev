@@ -26,9 +26,25 @@ published: false
 
 * CVE-2025-1758 Progress Kemp LoadMaster RCE
     * https://securityonline.info/cve-2025-1758-critical-buffer-overflow-in-kemp-loadmaster-opens-door-to-remote-code-execution/
+* CVE-2025-29927 NextJS 認証bypassの脆弱性
+    * https://securityonline.info/urgent-patch-your-next-js-for-authorization-bypass-cve-2025-29927/
+* CVE-2025-22230 VMWare Windows Vmware tools 認証bypassの脆弱性
+    * https://www.bleepingcomputer.com/news/security/broadcom-warns-of-authentication-bypass-in-vmware-windows-tools/
+    * https://www.securityweek.com/vmware-patches-authentication-bypass-flaw-in-windows-tools-suite/
+* WindowsがNTLMの脆弱性。非公式パッチあり
+    * https://www.bleepingcomputer.com/news/security/new-windows-zero-day-leaks-ntlm-hashes-gets-unofficial-patch/
+* CVE-2025-1974 Ingress-Nginx Controller k8s 管理が奪われる脆弱性
+    * https://www.theregister.com/2025/03/25/kubernetes_flaw_rce_risk/
+    * https://securityonline.info/cve-2025-1974-cvss-9-8-ingress-nginx-flaws-threaten-mass-kubernetes-compromise/
+* CVE-2025-0927 Linuxカーネル権限昇格の脆弱性。PoCあり
+    * https://securityonline.info/cve-2025-0927-public-exploit-released-for-linux-kernel-privilege-escalation-bug/
+
+## KEV
+* CVE-2025-30154 reviewdog action-setup GitHub Action Embedded Malicious Code Vulnerability
 
 
 # その他
 
 * Cloudflare api.cloudflare.com に対するアクセスをHTTPSのみとする
     * https://www.bleepingcomputer.com/news/security/cloudflare-now-blocks-all-unencrypted-traffic-to-its-api-endpoints/
+    * https://securityonline.info/cloudflare-pulls-the-plug-on-http-api-now-https-only/
