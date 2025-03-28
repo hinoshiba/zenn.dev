@@ -31,16 +31,38 @@ published: false
 * CVE-2025-22230 VMWare Windows Vmware tools 認証bypassの脆弱性
     * https://www.bleepingcomputer.com/news/security/broadcom-warns-of-authentication-bypass-in-vmware-windows-tools/
     * https://www.securityweek.com/vmware-patches-authentication-bypass-flaw-in-windows-tools-suite/
+    * https://securityonline.info/vmware-tools-for-windows-hit-by-cve-2025-22230-auth-bypass-flaw/
 * WindowsがNTLMの脆弱性。非公式パッチあり
     * https://www.bleepingcomputer.com/news/security/new-windows-zero-day-leaks-ntlm-hashes-gets-unofficial-patch/
 * CVE-2025-1974 Ingress-Nginx Controller k8s 管理が奪われる脆弱性
     * https://www.theregister.com/2025/03/25/kubernetes_flaw_rce_risk/
     * https://securityonline.info/cve-2025-1974-cvss-9-8-ingress-nginx-flaws-threaten-mass-kubernetes-compromise/
+    * https://x.com/carlos_crowsec/status/1904939487224050162
+    * https://securityonline.info/researcher-drops-poc-for-9-8-cvss-ingress-nginx-cve-2025-1974-flaw-in-kubernetes/
 * CVE-2025-0927 Linuxカーネル権限昇格の脆弱性。PoCあり
     * https://securityonline.info/cve-2025-0927-public-exploit-released-for-linux-kernel-privilege-escalation-bug/
+* CVE-2025-2783 Google Chrome ZeroDayがAPTにより使われている
+    * https://www.darkreading.com/cyberattacks-data-breaches/google-patches-chrome-zero-day-exploited-apt
+    * https://www.bleepingcomputer.com/news/security/google-fixes-chrome-zero-day-exploited-in-espionage-campaign/
+    * https://thehackernews.com/2025/03/zero-day-alert-google-releases-chrome.html
+    * https://www.securityweek.com/google-patches-chrome-sandbox-escape-zero-day-caught-by-kaspersky/
+    * https://securityonline.info/cve-2025-2783-chrome-zero-day-exploited-in-state-sponsored-espionage-campaign/
+* CVE-2025-2857 Firefox Sandbox escape
+    * https://securityonline.info/cve-2025-2857-new-firefox-sandbox-escape-emerges-following-active-exploitation-of-cve-2025-2783/
+    * https://www.bleepingcomputer.com/news/security/mozilla-warns-windows-users-of-critical-firefox-sandbox-escape-flaw/
+* CVE-2025-2255 GitLab XSS
+    * https://securityonline.info/gitlab-alert-patch-now-xss-privilege-escalation-risks/
+* CVE-2025-2848 Synology Mail Server 設定改ざんの脆弱性
+    * https://securityonline.info/cve-2025-2848-synology-mail-server-vulnerability-allows-remote-configuration-tampering/
+* CVE-2025-20229 Splunk RCE
+    * https://securityonline.info/splunk-alert-rce-and-data-leak-vulnerabilities-threaten-platforms/
+
 
 ## KEV
 * CVE-2025-30154 reviewdog action-setup GitHub Action Embedded Malicious Code Vulnerability
+* CVE-2019-9874 Sitecore CMS and Experience Platform (XP) Deserialization Vulnerability
+* CVE-2019-9875 Sitecore CMS and Experience Platform (XP) Deserialization Vulnerability
+* CVE-2025-2783 Google Chromium Mojo Sandbox Escape Vulnerability
 
 
 # その他
@@ -48,3 +70,7 @@ published: false
 * Cloudflare api.cloudflare.com に対するアクセスをHTTPSのみとする
     * https://www.bleepingcomputer.com/news/security/cloudflare-now-blocks-all-unencrypted-traffic-to-its-api-endpoints/
     * https://securityonline.info/cloudflare-pulls-the-plug-on-http-api-now-https-only/
+* Cloudflare Object Storageサービス R2 1hダウン
+    * https://securityonline.info/r2-down-cloudflares-object-storage-hit-by-1-hour-outage/
+* Chromeのインストーラ、誤ってx86にarmを配布
+    * https://securityonline.info/chrome-installer-bug-arm-version-delivered-to-x86-users/
