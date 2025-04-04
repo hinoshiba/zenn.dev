@@ -3,7 +3,7 @@ title: "2025/03/23 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -50,6 +50,8 @@ published: false
 * CVE-2025-2857 Firefox Sandbox escape
     * https://securityonline.info/cve-2025-2857-new-firefox-sandbox-escape-emerges-following-active-exploitation-of-cve-2025-2783/
     * https://www.bleepingcomputer.com/news/security/mozilla-warns-windows-users-of-critical-firefox-sandbox-escape-flaw/
+    * https://www.theregister.com/2025/03/28/google_kaspersky_mozilla/
+    * https://thehackernews.com/2025/03/mozilla-patches-critical-firefox-bug.html
 * CVE-2025-2255 GitLab XSS
     * https://securityonline.info/gitlab-alert-patch-now-xss-privilege-escalation-risks/
 * CVE-2025-2848 Synology Mail Server 設定改ざんの脆弱性
