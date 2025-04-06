@@ -3,7 +3,7 @@ title: "2025/03/30 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -18,6 +18,10 @@ published: false
 # 事件事故
 
 # 攻撃、脅威
+
+* Oracle 2月下旬に晒されたデータ流出を認める
+    * https://www.securityweek.com/oracle-confirms-cloud-hack/
+    * https://www.bleepingcomputer.com/news/security/oracle-privately-confirms-cloud-breach-to-customers/
 
 # 脆弱性
 
@@ -45,10 +49,15 @@ published: false
     * https://securityonline.info/cve-2025-22457-unc5221-exploits-ivanti-zero-day-flaw-to-deploy-trailblaze-and-brushfire-malware/
 * CVE-2025-31334 WinRAR MotW Bypass
     * https://securityonline.info/cve-2025-31334-winrar-flaw-enables-mark-of-the-web-bypass-and-arbitrary-code-execution/
+    * https://www.bleepingcomputer.com/news/security/winrar-flaw-bypasses-windows-mark-of-the-web-security-alerts/
 * CVE-2025-31720 Jenkins 認可不備による機密情報窃取
     * https://securityonline.info/multiple-jenkins-plugin-and-core-vulnerabilities-expose-sensitive-data-and-execution-paths/
 * CVE-2025-23391 Rancher より強い管理者権限の奪取
     * https://securityonline.info/rancher-users-update-now-to-fix-admin-takeover-bug-cve-2025-23391/
+* CVE-2025-2704 OpenVPN DoSの脆弱性
+    * https://securityonline.info/cve-2025-2704-critical-bug-in-openvpn-can-trigger-server-crashes/
+* CVE-2024-53868 Apache Traffic Server セッションハイジャックの脆弱性
+    * https://securityonline.info/apache-traffic-server-hit-by-request-smuggling-vulnerability-cve-2024-53868/
 
 
 ## KEV
