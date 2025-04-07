@@ -17,12 +17,23 @@ published: false
 
 # 事件事故
 
+* ゆうちょ 7日午前9時ごろ ゆうちょダイレクト 等のシステム障害。原因調査中
+    * https://www.jp-bank.japanpost.jp/news/2025/news_id002243.html
+* NEXCO 中日本 ECT障害
+    * https://dc2.c-nexco.co.jp/etc/
+    * https://merkmal-biz.jp/post/90360/2
+
 # 攻撃、脅威
 
 # 脆弱性
+* CVE-2025-31115 XZ Utils 任意のコード実行の脆弱性
+    * https://securityonline.info/cve-2025-31115-xz-utils-hit-again-with-high-severity-multithreaded-decoder-bug/
+* CVE-2025-29987 Dell PowerProtect root権限でのこーどじっこう
+    * https://securityonline.info/unpatched-dell-powerprotect-systems-vulnerable-to-remote-compromise/
 
 ## KEV
 * CVE-2025-22457 Ivanti Connect Secure, Policy Secure and ZTA Gateways Stack-Based Buffer Overflow Vulnerability
+* CVE-2025-31161 CrushFTP Authentication Bypass Vulnerability
 
 
 # その他
