@@ -3,7 +3,7 @@ title: "2025/04/06 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -30,10 +30,43 @@ published: false
     * https://securityonline.info/cve-2025-31115-xz-utils-hit-again-with-high-severity-multithreaded-decoder-bug/
 * CVE-2025-29987 Dell PowerProtect root権限でのこーどじっこう
     * https://securityonline.info/unpatched-dell-powerprotect-systems-vulnerable-to-remote-compromise/
+* CVE-2024-48887 FortiSwitch 未認証の接続
+    * https://thehackernews.com/2025/04/fortinet-urges-fortiswitch-upgrades-to.html
+    * https://securityonline.info/fortinet-critical-unverified-password-change-flaw-in-fortiswitch/
+    * https://www.bleepingcomputer.com/news/security/critical-fortiswitch-flaw-lets-hackers-change-admin-passwords-remotely/
+    * https://www.securityweek.com/fortinet-patches-critical-fortiswitch-vulnerability/
+* CVE-2024-53197 Android 権限昇格の脆弱性
+    * https://www.darkreading.com/vulnerabilities-threats/android-zero-day-bugs-active-exploit
+    * https://www.securityweek.com/android-update-patches-two-exploited-vulnerabilities/
+    * https://thehackernews.com/2025/04/google-releases-android-update-to-patch.html
+* CVE-2025-27520 BentoML RCEの脆弱性 
+    * https://securityonline.info/cve-2025-27520-critical-bentoml-flaw-allows-full-remote-code-execution-exploit-available/
+* CVE-2024-12556 Kibana Code Injection
+    * https://securityonline.info/kibana-code-injection-vulnerability-prototype-pollution-threat-cve-2024-12556/
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2025-Apr
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2025-patch-tuesday-fixes-exploited-zero-day-134-flaws/
+        * https://thehackernews.com/2025/04/microsoft-patches-126-flaws-including.html
+        * https://securityonline.info/microsoft-april-2025-patch-tuesday-critical-security-updates-and-zero-day-exploits/
+    * CVE-2025-29824
+        * https://www.microsoft.com/en-us/security/blog/2025/04/08/exploitation-of-clfs-zero-day-leads-to-ransomware-activity/
+        * https://www.bleepingcomputer.com/news/security/microsoft-windows-clfs-zero-day-exploited-by-ransomware-gang/
+* Amazon EC2 SSM Agent 権限昇格の脆弱性が修正
+    * https://thehackernews.com/2025/04/amazon-ec2-ssm-agent-flaw-patched-after.html
 
 ## KEV
 * CVE-2025-22457 Ivanti Connect Secure, Policy Secure and ZTA Gateways Stack-Based Buffer Overflow Vulnerability
+    * https://securityonline.info/ivanti-zero-day-cve-2025-22457-exploit-details-released/
 * CVE-2025-31161 CrushFTP Authentication Bypass Vulnerability
+* CVE-2024-53197 Linux Kernel Out-of-Bounds Access Vulnerability
+* CVE-2024-53150 Linux Kernel Out-of-Bounds Read Vulnerability
 
 
 # その他
+* 4月の月次パッチでWindowsHelloが一部使えなくなった
+    * https://www.theregister.com/2025/04/09/microsoft_hello_patch/
+* Windows, 新しいセキュリティ機能により、`C:\inetpub` フォルダが作成されるとのこと
+    * https://www.bleepingcomputer.com/news/microsoft/windows-11-april-update-unexpectedly-creates-new-inetpub-folder/
+    * https://www.bleepingcomputer.com/news/security/microsoft-windows-inetpub-folder-created-by-security-fix-dont-delete/

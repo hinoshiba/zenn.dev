@@ -22,6 +22,7 @@ published: true
 * Oracle 2月下旬に晒されたデータ流出を認める
     * https://www.securityweek.com/oracle-confirms-cloud-hack/
     * https://www.bleepingcomputer.com/news/security/oracle-privately-confirms-cloud-breach-to-customers/
+    * https://www.bleepingcomputer.com/news/security/oracle-says-obsolete-servers-hacked-denies-cloud-breach/
 
 # 脆弱性
 
