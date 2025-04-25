@@ -70,3 +70,5 @@ published: true
 * Windows, 新しいセキュリティ機能により、`C:\inetpub` フォルダが作成されるとのこと
     * https://www.bleepingcomputer.com/news/microsoft/windows-11-april-update-unexpectedly-creates-new-inetpub-folder/
     * https://www.bleepingcomputer.com/news/security/microsoft-windows-inetpub-folder-created-by-security-fix-dont-delete/
+    * https://www.theregister.com/2025/04/14/windows_update_inetpub/
+    * https://www.bitdefender.com/en-us/blog/hotforsecurity/microsoft-april-2025-security-update-creates-empty-inetpub-folder-you-shouldnt-delete
