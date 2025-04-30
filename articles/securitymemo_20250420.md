@@ -3,7 +3,7 @@ title: "2025/04/20 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -54,3 +54,5 @@ published: false
 * Linux io_uring セキュリティの盲点によりルートキット攻撃が可能というコンセプト。EDRのカスタムシグネチャでも検知が難しい
     * https://www.bleepingcomputer.com/news/security/linux-io-uring-security-blindspot-allows-stealthy-rootkit-attacks/
     * https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html
+* MITRE ATT&CK v17
+    * https://medium.com/mitre-attack/attack-v17-dfb59eae2204
