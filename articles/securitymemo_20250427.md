@@ -21,6 +21,7 @@ published: false
 
 * 保険ショップの保険見直し本舗、個人情報510万件漏洩か
     * https://www.nikkei.com/article/DGXZQOUB304BK0Q5A430C2000000/
+    * https://www.okinawatimes.co.jp/articles/-/1575150
 * 関西エアポート、1万件情報漏洩　法人向けサービス不正アクセス
     * https://www.nikkei.com/article/DGXZQOUF28AK10Y5A420C2000000/
 
@@ -47,13 +48,18 @@ published: false
     * https://www.security-next.com/169884
 * CVE-2024-22031 Rancher 権限昇格の脆弱性
     * https://securityonline.info/rancher-releases-patch-for-cve-2024-22031-privilege-escalation-vulnerability/
+* CVE-2024-10442: Synology DiskStation RCEの脆弱性
+    * https://securityonline.info/cve-2024-10442-cvss-10-zero-click-rce-in-synology-diskstation-poc-publishes/
 
 ## KEV
 * CVE-2025-1976 Broadcom Brocade Fabric OS Code Injection Vulnerability
 * CVE-2025-42599 Qualitia Active! Mail Stack-Based Buffer Overflow Vulnerability
 * CVE-2025-3928 Commvault Web Server Unspecified Vulnerability
 * CVE-2025-31324 SAP NetWeaver Unrestricted File Upload Vulnerability
+* CVE-2024-38475 Apache HTTP Server Improper Escaping of Output Vulnerability
+* CVE-2023-44221 SonicWall SMA100 Appliances OS Command Injection Vulnerability
 
 # その他
 
-
+* Microsoft 起動後にWordをロードすることを予定
+    * https://www.theregister.com/2025/05/01/microsoft_will_preload_office_apps/
