@@ -3,7 +3,7 @@ title: "2025/04/27 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -16,6 +16,10 @@ published: false
 * 実質的には、[セキュリティは楽しいかね？ Part 2](https://negi.hatenablog.com/) のような事ができるようになったらいいなと、個人的に真似をして、個人的に漏れチェック等に使います
 
 # 事件事故
+
+* TikTok GDPR違反として5億3千ユーロの行政罰金
+    * https://thehackernews.com/2025/05/tiktok-slammed-with-530-million-gdpr.html
+    * https://www.bleepingcomputer.com/news/security/tiktok-fined-530-million-for-sending-european-user-data-to-china/
 
 # 攻撃、脅威
 
@@ -58,8 +62,19 @@ published: false
 * CVE-2025-31324 SAP NetWeaver Unrestricted File Upload Vulnerability
 * CVE-2024-38475 Apache HTTP Server Improper Escaping of Output Vulnerability
 * CVE-2023-44221 SonicWall SMA100 Appliances OS Command Injection Vulnerability
+* CVE-2025-34028 Commvault Command Center Path Traversal Vulnerability
+* CVE-2024-58136 Yiiframework Yii Improper Protection of Alternate Path Vulnerability
 
 # その他
 
 * Microsoft 起動後にWordをロードすることを予定
     * https://www.theregister.com/2025/05/01/microsoft_will_preload_office_apps/
+* Microsoftアカウント、デフォルトのログインとしてパスワードレス。新規アカウントに対しては標準。既存ユーザも切り替え可能
+    * https://www.bitdefender.com/en-us/blog/hotforsecurity/microsoft-passkeys-windows
+    * https://securityonline.info/microsoft-authenticator-to-drop-password-manager-features-by-august-2025/
+    * https://securityonline.info/microsoft-pushes-passwordless-new-accounts-default-to-passkeys-mfa/
+    * https://thehackernews.com/2025/05/microsoft-sets-passkeys-default-for-new.html
+    * https://news.mynavi.jp/techplus/article/20250502-3272594/
+* NodeJs 18 サポートアウト
+    * https://www.security-next.com/169928
+
