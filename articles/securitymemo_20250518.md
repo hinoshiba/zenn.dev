@@ -21,4 +21,22 @@ published: false
 
 # 脆弱性
 
+* CVE-2025-4802 glibc コード実行の可能性
+    * https://securityonline.info/glibc-vulnerability-cve-2025-4802-puts-millions-of-linux-systems-at-risk-of-code-execution/
+* CVE-2025-4918 FireFox 領域外メモリ書き込み
+    * https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/
+    * https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html
+    * https://securityonline.info/pwn2own-firefox-hacked-with-javascript-zero-days-details-on-the-exploits/
+
+## KEV
+
+* CVE-2025-4427 Ivanti Endpoint Manager Mobile (EPMM) Authentication Bypass Vulnerability
+* CVE-2025-4428 Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability
+* CVE-2024-11182 MDaemon Email Server Cross-Site Scripting (XSS) Vulnerability
+* CVE-2025-27920 Srimax Output Messenger Directory Traversal Vulnerability
+* CVE-2024-27443 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting (XSS) Vulnerability
+* CVE-2023-38950 ZKTeco BioTime Path Traversal Vulnerability
+
 # その他
+* WSL OSS化
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/
