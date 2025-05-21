@@ -27,6 +27,13 @@ published: false
     * https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/
     * https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html
     * https://securityonline.info/pwn2own-firefox-hacked-with-javascript-zero-days-details-on-the-exploits/
+* CVE-2025-22157  Jira Service Management Data Center and Server 権限昇格の脆弱性
+    * https://securityonline.info/high-severity-privilege-escalation-threat-hits-atlassian-jira-data-center/
+* CVE-2025-41227 VMware ESXi, Workstation, and Fusion DoSの脆弱性
+    * https://www.cvedetails.com/cve/CVE-2025-41227/
+    * https://securityonline.info/broadcom-fixes-rce-dos-xss-in-vmware-esxi-vcenter-workstation/
+* CVE-2025-41232 Spring Framework 未認証のアクセスの可能性
+    * https://securityonline.info/spring-framework-flaw-allows-unauthorized-access-via-security-bypass/
 
 ## KEV
 
@@ -40,3 +47,4 @@ published: false
 # その他
 * WSL OSS化
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/
+    * https://securityonline.info/wsl-goes-open-source-microsoft-opens-up-windows-subsystem-for-linux/
