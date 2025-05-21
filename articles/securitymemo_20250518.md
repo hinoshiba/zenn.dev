@@ -17,6 +17,10 @@ published: false
 
 # 事件事故
 
+* コインベース 70Kの顧客情報流出
+    * https://www.darkreading.com/threat-intelligence/coinbase-breach-compromises-70k-customers
+    * https://www.coinbase.com/en-gb/blog/protecting-our-customers-standing-up-to-extortionists
+
 # 攻撃、脅威
 
 # 脆弱性
@@ -34,6 +38,11 @@ published: false
     * https://securityonline.info/broadcom-fixes-rce-dos-xss-in-vmware-esxi-vcenter-workstation/
 * CVE-2025-41232 Spring Framework 未認証のアクセスの可能性
     * https://securityonline.info/spring-framework-flaw-allows-unauthorized-access-via-security-bypass/
+* CVE-2025-40775 BIND DDoS
+    * https://www.cvedetails.com/cve/CVE-2025-40775/
+    * https://securityonline.info/bind-dns-server-vulnerable-to-remote-crash/
+* CVE-2025-47934 OpenPGP.js 署名検証のbypassの脆弱性
+    * https://www.security-next.com/170544
 
 ## KEV
 
