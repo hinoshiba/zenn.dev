@@ -41,8 +41,16 @@ published: false
 * CVE-2025-40775 BIND DDoS
     * https://www.cvedetails.com/cve/CVE-2025-40775/
     * https://securityonline.info/bind-dns-server-vulnerable-to-remote-crash/
+    * https://jprs.jp/tech/security/2025-05-22-bind9-vuln-tsig.html
 * CVE-2025-47934 OpenPGP.js 署名検証のbypassの脆弱性
     * https://www.security-next.com/170544
+* CVE-2025-20152 Cisco ISE DoS
+    * https://www.securityweek.com/cisco-patches-high-severity-dos-privilege-escalation-vulnerabilities/
+* CVE-2025-0993 GitLab DoS
+    * https://securityonline.info/gitlab-patches-high-severity-flaws-dos-and-2fa-bypass-fixed/
+* CVE-2025-47947 ModSecurity DoS
+    * https://cyberawarehub.online/critical-modsecurity-flaw-exposes-web-servers-to-devastating-dos-attacks-heres-what-you-need-to-know/
+    * https://www.security-next.com/170641
 
 ## KEV
 
@@ -52,8 +60,11 @@ published: false
 * CVE-2025-27920 Srimax Output Messenger Directory Traversal Vulnerability
 * CVE-2024-27443 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting (XSS) Vulnerability
 * CVE-2023-38950 ZKTeco BioTime Path Traversal Vulnerability
+* CVE-2025-4632 Samsung MagicINFO 9 Server Path Traversal Vulnerability 
 
 # その他
 * WSL OSS化
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/
     * https://securityonline.info/wsl-goes-open-source-microsoft-opens-up-windows-subsystem-for-linux/
+* NIST, LEV(Likely Exploited Vulnerabilities) に関するホワイトペーパー発表
+    * https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.41.pdf
