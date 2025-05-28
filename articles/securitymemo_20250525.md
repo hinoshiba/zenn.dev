@@ -31,3 +31,7 @@ published: false
     * https://www.cvedetails.com/cve/CVE-2025-2146/
 
 # その他
+
+* WindowsUpdateにて、サードパーティソフトウェアの更新配布プレビューについて
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/
+    * https://www.theregister.com/2025/05/28/microsoft_update_backup/
