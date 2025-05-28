@@ -17,8 +17,17 @@ published: false
 
 # 事件事故
 
+* アディダス、顧客問い合わせ情報の流出
+    * https://www.bitdefender.com/en-us/blog/hotforsecurity/adidas-customers-personal-information-at-risk-after-data-breach
+    * https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/
+
 # 攻撃、脅威
 
+
+
 # 脆弱性
+
+* CVE-2025-2146 Canon's Printer RCE
+    * https://www.cvedetails.com/cve/CVE-2025-2146/
 
 # その他
