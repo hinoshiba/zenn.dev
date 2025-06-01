@@ -34,6 +34,7 @@ published: true
     * https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html
     * https://securityonline.info/critical-cve-2025-20188-cvss-10-flaw-in-cisco-ios-xe-wlcs-allows-remote-root-access/
     * https://www.security-next.com/170069
+    * https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/
 * CVE-2025-27533: Apache ActiveMQ DoS
     * https://securityonline.info/cve-2025-27533-apache-activemq-memory-allocation-bug-could-lead-to-denial-of-service/
     * https://www.exploit-db.com/exploits/52288

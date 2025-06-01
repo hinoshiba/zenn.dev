@@ -1,9 +1,9 @@
 ---
-title: "2025/05/25 週 セキュリティニュースメモ"
+title: "2025/06/01 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: true
+published: false
 ---
 
 # はじめに
@@ -17,23 +17,15 @@ published: true
 
 # 事件事故
 
-* アディダス、顧客問い合わせ情報の流出
-    * https://www.bitdefender.com/en-us/blog/hotforsecurity/adidas-customers-personal-information-at-risk-after-data-breach
-    * https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/
 
 # 攻撃、脅威
 
 
-
 # 脆弱性
 
-* CVE-2025-2146 Canon's Printer RCE
-    * https://www.cvedetails.com/cve/CVE-2025-2146/
+* CVE-2025-40909 Perl レースコンディション
+    * https://securityonline.info/cve-2025-40909-perl-threads-vulnerability-exposes-file-operation-race-condition/
+
 
 # その他
 
-* WindowsUpdateにて、サードパーティソフトウェアの更新配布プレビューについて
-    * https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/
-    * https://www.theregister.com/2025/05/28/microsoft_update_backup/
-* Windows11 のVMにてWindowsUpdateが失敗する不具合
-    * https://www.theregister.com/2025/05/29/microsoft_windows_problems/
