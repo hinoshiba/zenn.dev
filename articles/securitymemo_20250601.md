@@ -25,7 +25,20 @@ published: false
 
 * CVE-2025-40909 Perl レースコンディション
     * https://securityonline.info/cve-2025-40909-perl-threads-vulnerability-exposes-file-operation-race-condition/
+* CVE-2025-25022 IBM QRadar 未認証の権限昇格の可能性
+    * https://securityonline.info/critical-cvss-9-6-ibm-qradar-cloud-pak-security-flaws-exposed/
+* CVE-2025-49113 CVE-2025-49113 Roundcube RCE
+    * https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html
+* CVE-2025-5419 Google Chrome 細工されたHTMLにより領域外書き込み。RCEの可能性。すでに利用されている様子
+    * https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html
+    * https://securityonline.info/chrome-zero-day-alert-cve-2025-5419-actively-exploited-in-the-wild/
 
+## KEV
+* CVE-2025-21479 Qualcomm Multiple Chipsets Incorrect Authorization Vulnerability
+* CVE-2025-21480 Qualcomm Multiple Chipsets Incorrect Authorization Vulnerability
+* CVE-2025-27038 Qualcomm Multiple Chipsets Use-After-Free Vulnerability
 
 # その他
 
+* MicrosoftとCrowdstrikeが特定攻撃グループの名称を一本化する営みを開始する
+    * https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/
