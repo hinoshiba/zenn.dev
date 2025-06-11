@@ -17,12 +17,33 @@ published: false
 
 # 事件事故
 
+* 損保ジャパン、約1750万件の顧客情報流出の可能性　不正アクセスで
+    * https://www.newsweekjapan.jp/headlines/business/2025/06/555715.php
+* ソフトバンク　契約者の氏名や住所など約14万件の個人情報漏えいか
+    * https://newsdig.tbs.co.jp/articles/withbloomberg/1972637?display=1
+
 
 # 攻撃、脅威
+
+* INTERPOL、69種類のマルウェアに関連する20,000以上の悪質なIPアドレスを駆除した
+    * https://thehackernews.com/2025/06/interpol-dismantles-20000-malicious-ips.html
 
 
 # 脆弱性
 
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2025-jun
+        * https://www.theregister.com/2025/06/11/microsoft_slows_windows_11_24h2/
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/
+
+
+## KEV
+* CVE-2025-24016 Wazuh Server Deserialization of Untrusted Data Vulnerability
+* CVE-2025-33053 Web Distributed Authoring and Versioning (WebDAV) External Control of File Name or Path Vulnerability
+* CVE-2025-32433 Erlang Erlang/OTP SSH Server Missing Authentication for Critical Function Vulnerability 
+* CVE-2024-42009 RoundCube Webmail Cross-Site Scripting Vulnerability 
 
 
 # その他
