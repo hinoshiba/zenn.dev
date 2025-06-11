@@ -3,7 +3,7 @@ title: "2025/06/01 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -20,6 +20,9 @@ published: false
 
 # 攻撃、脅威
 
+* CloudflareのchallengeをもしたClickFix
+    * https://www.securityweek.com/clickfix-attack-exploits-fake-cloudflare-turnstile-to-deliver-malware/
+
 
 # 脆弱性
 
@@ -32,13 +35,22 @@ published: false
 * CVE-2025-5419 Google Chrome 細工されたHTMLにより領域外書き込み。RCEの可能性。すでに利用されている様子
     * https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html
     * https://securityonline.info/chrome-zero-day-alert-cve-2025-5419-actively-exploited-in-the-wild/
+* CVE-2025-49113: Roundcube RCE
+    * https://securityonline.info/cve-2025-49113-roundcube-rce-exploit-unveiled-the-swiss-army-knife-of-webmail-just-got-a-weaponized-blade/
+* CVE-2025-20286 Cisco ISE 未認証のあくせす
+    * https://securityonline.info/critical-cisco-ise-cloud-vulnerability-cvss-9-9-with-poc-exploit-threatens-aws-azure-oci/
+* CVE-2025-31650 5月のApache TomcatのDoS脆弱性。PoC
+    * https://www.exploit-db.com/exploits/52318
 
 ## KEV
 * CVE-2025-21479 Qualcomm Multiple Chipsets Incorrect Authorization Vulnerability
 * CVE-2025-21480 Qualcomm Multiple Chipsets Incorrect Authorization Vulnerability
 * CVE-2025-27038 Qualcomm Multiple Chipsets Use-After-Free Vulnerability
+* CVE-2025-5419 Google Chromium V8 Out-of-Bounds Read and Write Vulnerability 
 
 # その他
 
 * MicrosoftとCrowdstrikeが特定攻撃グループの名称を一本化する営みを開始する
     * https://www.bleepingcomputer.com/news/security/microsoft-and-crowdstrike-partner-to-link-hacking-group-names/
+* Microsoft inetpubフォルダを誤って削除した場合の復旧スクリプトを配布
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/
