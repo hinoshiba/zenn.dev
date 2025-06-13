@@ -21,6 +21,9 @@ published: false
     * https://www.newsweekjapan.jp/headlines/business/2025/06/555715.php
 * ソフトバンク　契約者の氏名や住所など約14万件の個人情報漏えいか
     * https://newsdig.tbs.co.jp/articles/withbloomberg/1972637?display=1
+    * https://news.yahoo.co.jp/articles/c707c32acb198d191565d38a4823f5dd7597e2a8
+* Cloudflare Google Cloudの障害影響でサービス一時停止
+    * https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/
 
 
 # 攻撃、脅威
@@ -37,6 +40,15 @@ published: false
         * https://msrc.microsoft.com/update-guide/releaseNote/2025-jun
         * https://www.theregister.com/2025/06/11/microsoft_slows_windows_11_24h2/
         * https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/
+* CVE-2025-32711 Microsoft 365 EchoLeak
+    * https://www.darkreading.com/application-security/researchers-detail-zero-click-copilot-exploit-echoleak
+    * https://www.securityweek.com/echoleak-ai-attack-enabled-theft-of-sensitive-data-via-microsoft-365-copilot/
+    * https://news.mynavi.jp/techplus/article/20250612-3351994/
+* CVE-2025-4278 GitLab HTMLインジェクションによりアカウント奪取の脆弱性
+    * https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/
+    * https://securityonline.info/urgent-gitlab-security-alert-high-severity-flaws-allow-account-takeover-code-injection/
+* CVE-2025-2884 TPM 2.0 データが読み取られる可能性
+    * https://securityonline.info/tpm-2-0-flaw-cve-2025-2884-exposes-sensitive-data-disrupts-trusted-computing/
 
 
 ## KEV
