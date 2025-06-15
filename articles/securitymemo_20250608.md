@@ -3,7 +3,7 @@ title: "2025/06/08 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -24,6 +24,9 @@ published: false
     * https://news.yahoo.co.jp/articles/c707c32acb198d191565d38a4823f5dd7597e2a8
 * Cloudflare Google Cloudの障害影響でサービス一時停止
     * https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/
+    * https://www.bleepingcomputer.com/news/security/cloudflare-outage-not-caused-by-security-incident-data-is-safe/
+    * Googleクラウドの特定機能サービスダウンについて
+        * https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/
 
 
 # 攻撃、脅威
@@ -40,6 +43,9 @@ published: false
         * https://msrc.microsoft.com/update-guide/releaseNote/2025-jun
         * https://www.theregister.com/2025/06/11/microsoft_slows_windows_11_24h2/
         * https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/
+    * CVE
+        * CVE-2025-33073 SMB権限昇格、PoCあり
+            * https://securityonline.info/windows-smb-flaw-cve-2025-33073-system-privilege-escalation-via-kerberos-poc-available/
 * CVE-2025-32711 Microsoft 365 EchoLeak
     * https://www.darkreading.com/application-security/researchers-detail-zero-click-copilot-exploit-echoleak
     * https://www.securityweek.com/echoleak-ai-attack-enabled-theft-of-sensitive-data-via-microsoft-365-copilot/
@@ -59,4 +65,5 @@ published: false
 
 
 # その他
-
+* iOS 26から、iOSパスワードマネージャにて、履歴等の機能がサポートされる
+    * https://securityonline.info/ios-26-password-app-gains-major-upgrade-view-full-history-of-saved-credentials/
