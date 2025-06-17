@@ -26,6 +26,14 @@ published: false
 * CVE-2025-26685 Microsoft Defender for Identity 未認証の権限昇格の脆弱性
     * https://securityonline.info/microsoft-defender-for-identity-flaw-cve-2025-26685-allows-unauthenticated-privilege-escalation/
 
+## KEV
+* CVE-2025-43200 Apple Multiple Products Unspecified Vulnerability
+* CVE-2023-33538 TP-Link Multiple Routers Command Injection Vulnerability
+
 
 # その他
 
+* Kali Linux 2025.2 リリース
+    * https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/
+* 6月のWindowsUpdateによりDHCPサーバが止まる不具合
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/
