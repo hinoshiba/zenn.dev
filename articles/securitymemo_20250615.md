@@ -3,7 +3,7 @@ title: "2025/06/15 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -25,10 +25,21 @@ published: false
 
 * CVE-2025-26685 Microsoft Defender for Identity 未認証の権限昇格の脆弱性
     * https://securityonline.info/microsoft-defender-for-identity-flaw-cve-2025-26685-allows-unauthenticated-privilege-escalation/
+* CVE-2025-33117 IBM QRadar RCE
+    * https://www.security-next.com/171562
+    * https://securityonline.info/ibm-qradar-siem-exposed-by-trio-of-security-flaws-including-critical-command-execution-bug/
+* CVE-2025-20260 Cisco ClamAV コード実行
+    * https://securityonline.info/cisco-clamav-critical-flaws-cve-2025-20260-cvss-9-8-allows-code-execution/
+* CVE-2025-6018 SUSE 権限昇格の脆弱性
+    * https://www.securityweek.com/linux-security-new-flaws-allow-root-access-cisa-warns-of-old-bug-exploitation/
+    * https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/
+* CVE-2025-48976 Apache Tomcat DoS
+    * https://securityonline.info/apache-tomcat-patches-4-flaws-dos-privilege-bypass-installer-risks-addressed/
 
 ## KEV
 * CVE-2025-43200 Apple Multiple Products Unspecified Vulnerability
 * CVE-2023-33538 TP-Link Multiple Routers Command Injection Vulnerability
+* CVE-2023-0386 Linux Kernel Improper Ownership Management Vulnerability 
 
 
 # その他
@@ -37,3 +48,9 @@ published: false
     * https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/
 * 6月のWindowsUpdateによりDHCPサーバが止まる不具合
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-security-updates-cause-dhcp-issues/
+* 7/1 国家サイバー統括室 発足予定
+    * https://sp.m.jiji.com/article/show/3545609
+* WordPress 4.6 以前へのセキュリティ更新 7月に停止予定
+    * https://www.security-next.com/171588
+* Microsoft レガシーな認証によるMicrosoft 365 への接続を段階的に停止
+    * https://www.theregister.com/2025/06/19/the_microsoft_axeman_is_coming/
