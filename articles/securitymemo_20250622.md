@@ -53,5 +53,6 @@ published: true
     * https://securityonline.info/windows-11-25h2-dev-build-unveils-deeper-1password-integration-for-seamless-passkey-management/
 * Apple 公衆Wifiのログインを1度だけとするCaptiveAssitを開発中
     * https://securityonline.info/ios-26-unveils-captive-assist-seamless-public-wi-fi-login-across-all-your-apple-devices/
+    * https://securityonline.info/ios-26-unveils-new-wi-fi-sync-auto-login-for-public-networks-across-all-your-apple-devices/
 * Windows Snipping Toolにて、アニメーションGIFの作成が可能となる
     * https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/

@@ -1,5 +1,5 @@
 ---
-title: "2025/06/22 週 セキュリティニュースメモ"
+title: "2025/06/29 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
@@ -20,8 +20,28 @@ published: false
 
 # 攻撃、脅威
 
+* Qantas航空、サイバー攻撃
+    * https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/
+    * https://databreaches.net/2025/07/01/qantas-customers-involved-in-mammoth-data-breach/
+* 米国、北朝鮮IT労働者スキームの仲介者を逮捕
+    * https://www.theregister.com/2025/06/30/us_north_korea_workers/
+    * https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html
+
 
 # 脆弱性
 
+* CVE-2025-32463 Linux 権限昇格。Sudo -R により。
+    * https://securityonline.info/critical-sudo-flaws-cve-2025-32463-cvss-9-3-root-privilege-escalation-host-bypass-poc-available/
+
+## KEV
+* CVE-2025-48927 TeleMessage TM SGNL Initialization of a Resource with an Insecure Default Vulnerability
+* CVE-2025-48928 TeleMessage TM SGNL Exposure of Core Dump File to an Unauthorized Control Sphere Vulnerability
+*  CVE-2025-6543 Citrix NetScaler ADC and Gateway Buffer Overflow Vulnerability
+
+
 # その他
 
+* Cloudflare AIによるスキャンをデフォルトブロック。7/1から。
+    * https://www.securityweek.com/cloudflare-puts-a-default-block-on-ai-web-scraping/
+* Microsoft Authenticator パスワードマネージャ機能を8/1に終了
+    * https://thehackernews.com/2025/07/microsoft-removes-password-management.html
