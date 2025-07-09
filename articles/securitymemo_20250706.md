@@ -23,6 +23,29 @@ published: false
 
 # 脆弱性
 
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2025-jul
+        * https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/
+        * https://msrc.microsoft.com/blog/2025/07/202507-security-update/
+        * https://www.darkreading.com/application-security/microsoft-patches-137-cves-no-zero-days
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2025-patch-tuesday-fixes-one-zero-day-137-flaws/
+* Lenovo `c:\windows\mfgstat.zip` というファイルのADSでコード実行の可能性
+    * https://gbhackers.com/writable-file-in-lenovo-path-attackers-evade-applocker/#google_vignette
+* CVE-2025-48384 Git submoduleの値にCRが入っている場合にコード実行の可能性
+    * https://securityonline.info/git-project-patches-3-flaws-rce-arbitrary-file-writes-buffer-overflow/
+* CVE-2025-49533 Adobe製品 コード実行の可能性
+    * https://www.securityweek.com/adobe-patches-critical-code-execution-bugs/
+* CVE-2025-48367 Redis DoS
+    * https://securityonline.info/redis-dos-flaw-cve-2025-48367-authenticated-clients-can-disrupt-service/
+    * https://securityonline.info/redis-vulnerability-opens-door-to-remote-code-execution-poc-releases/
+
+## KEV
+* CVE-2014-3931 Multi-Router Looking Glass (MRLG) Buffer Overflow Vulnerability
+* CVE-2016-10033 PHPMailer Command Injection Vulnerability
+* CVE-2019-5418 Rails Ruby on Rails Path Traversal Vulnerability
+* CVE-2019-9621 Synacor Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery (SSRF) Vulnerability
 
 # その他
 

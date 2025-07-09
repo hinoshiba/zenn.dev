@@ -24,6 +24,7 @@ published: true
     * https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/
     * https://databreaches.net/2025/07/01/qantas-customers-involved-in-mammoth-data-breach/
     * https://www.theregister.com/2025/07/02/qantas_data_theft/
+    * https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/
 * 米国、北朝鮮IT労働者スキームの仲介者を逮捕
     * https://www.theregister.com/2025/06/30/us_north_korea_workers/
     * https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html
