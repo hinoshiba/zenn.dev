@@ -20,6 +20,10 @@ published: false
 
 # 攻撃、脅威
 
+* 多くのeSIM携帯電話にて、eSIMがsimが盗まれる可能性の研究結果 Security Explorations
+    * https://www.darkreading.com/endpoint-security/esim-bug-millions-phones-spying-takeover
+    * https://www.securityweek.com/esim-hack-allows-for-cloning-spying/
+
 
 # 脆弱性
 
@@ -40,12 +44,15 @@ published: false
 * CVE-2025-48367 Redis DoS
     * https://securityonline.info/redis-dos-flaw-cve-2025-48367-authenticated-clients-can-disrupt-service/
     * https://securityonline.info/redis-vulnerability-opens-door-to-remote-code-execution-poc-releases/
+* CVE-2025-6948 GitLab XSS
+    * https://securityonline.info/gitlab-releases-security-updates-xss-and-authorization-bypass-flaws-patched/
 
 ## KEV
 * CVE-2014-3931 Multi-Router Looking Glass (MRLG) Buffer Overflow Vulnerability
 * CVE-2016-10033 PHPMailer Command Injection Vulnerability
 * CVE-2019-5418 Rails Ruby on Rails Path Traversal Vulnerability
 * CVE-2019-9621 Synacor Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery (SSRF) Vulnerability
+* CVE-2025-5777 Citrix NetScaler ADC and Gateway Out-of-Bounds Read Vulnerability
 
 # その他
 
