@@ -3,7 +3,7 @@ title: "2025/07/06 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -17,12 +17,20 @@ published: false
 
 # 事件事故
 
+* アメリカ、マクドナルド、採用チャットのシステムに弱いパスワードを設定したことにより応募者の情報が流出した可能性
+    * https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/
+    * https://www.securityweek.com/mcdonalds-chatbot-recruitment-platform-leaked-64-million-job-applications/
+    * https://news.mynavi.jp/techplus/article/20250711-3376880/
+* ルイ・ヴィトンUK、ハッカーによる顧客データ盗難を発表
+    * https://jp.fashionnetwork.com/news/%E3%83%AB%E3%82%A4-%E3%83%B4%E3%82%A3%E3%83%88%E3%83%B3uk-%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%A1%A7%E5%AE%A2%E3%83%87%E3%83%BC%E3%82%BF%E7%9B%97%E9%9B%A3%E3%82%92%E7%99%BA%E8%A1%A8,1748590.html
+    * https://encount.press/archives/825228/
 
 # 攻撃、脅威
 
 * 多くのeSIM携帯電話にて、eSIMがsimが盗まれる可能性の研究結果 Security Explorations
     * https://www.darkreading.com/endpoint-security/esim-bug-millions-phones-spying-takeover
     * https://www.securityweek.com/esim-hack-allows-for-cloning-spying/
+
 
 
 # 脆弱性
@@ -46,6 +54,8 @@ published: false
     * https://securityonline.info/redis-vulnerability-opens-door-to-remote-code-execution-poc-releases/
 * CVE-2025-6948 GitLab XSS
     * https://securityonline.info/gitlab-releases-security-updates-xss-and-authorization-bypass-flaws-patched/
+* CVE-2025-25257 FortiWeb SQLインジェクション
+    * https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html
 
 ## KEV
 * CVE-2014-3931 Multi-Router Looking Glass (MRLG) Buffer Overflow Vulnerability
