@@ -56,6 +56,7 @@ published: true
     * https://securityonline.info/gitlab-releases-security-updates-xss-and-authorization-bypass-flaws-patched/
 * CVE-2025-25257 FortiWeb SQLインジェクション
     * https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html
+    * https://securityonline.info/cve-2025-25257-cvss-9-6-pre-auth-sqli-in-fortinet-fortiweb-opens-door-to-rce-poc-published/
 
 ## KEV
 * CVE-2014-3931 Multi-Router Looking Glass (MRLG) Buffer Overflow Vulnerability

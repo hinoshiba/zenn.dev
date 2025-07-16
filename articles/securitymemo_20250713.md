@@ -21,10 +21,16 @@ published: false
 
 * Geminiによるメール要約を使いフィッシングを生成するテクニック
     * https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/
+    * https://www.darkreading.com/remote-workforce/google-gemini-ai-bug-invisible-malicious-prompts
 
 
 # 脆弱性
 
+## KEV
+* CVE-2025-47812 Wing FTP Server Improper Neutralization of Null Byte or NUL Character Vulnerability
+
 
 # その他
 
+* UK NCSC VRIという外部サイバーセキュリティ専門家との脆弱性研究イニシアチブを発表
+    * https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/
