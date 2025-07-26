@@ -27,12 +27,16 @@ published: false
 
 * SNSパトロールから逮捕　遠隔操作ウイルス販売目的所持で25歳男を逮捕　京都府警
     * https://news.jp/i/1319225295220605737?c=768367547562557440
+* BlackSuitリークサイト、takedown
+    * https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/
 
 
 # 脆弱性
 
 * CVE-2025-4700 GitLab XSS k8s proxy上で。
     * https://securityonline.info/gitlab-update-high-severity-xss-data-exposure-flaws-patched/
+* CVE-2025-8069 AWS VPN CLient 権限昇格の脆弱性
+    * https://securityonline.info/high-severity-flaw-cve-2025-8069-in-aws-client-vpn-for-windows-allows-privilege-escalation/
 
 ## KEV
 * CVE-2025-53770 ToolShell Sharepoint 他脆弱性と組み合わせることで未認証のRCE。ゼロデイ
@@ -45,6 +49,7 @@ published: false
     * https://www.securityweek.com/microsoft-says-chinese-apts-exploited-toolshell-zero-days-weeks-before-patch/
     * CVE-2025-49704 Microsoft SharePoint Code Injection Vulnerability
     * CVE-2025-49706 Microsoft SharePoint Improper Authentication Vulnerability
+    * https://scan.netsecurity.ne.jp/article/2025/07/25/53290.html
 * CVE-2025-54309 CrushFTP Unprotected Alternate Channel Vulnerability
 * CVE-2025-6558 Google Chromium ANGLE and GPU Improper Input Validation Vulnerability
 * CVE-2025-2776 SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability
@@ -52,3 +57,5 @@ published: false
 
 
 # その他
+* Micorosft 365 管理画面障害
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-admin-center/
