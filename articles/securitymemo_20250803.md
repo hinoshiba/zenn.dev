@@ -33,6 +33,9 @@ published: false
     * https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/
 * Proton Authenticator TOTP Secrets がログで漏れてしまう可能性
     * https://securityonline.info/ios-update-proton-authenticator-bug-leaked-totp-secrets-in-plaintext-logs/
+* CVE-2025-24311, CVE-2025-25050, CVE-2025-25215, CVE-2025-24922, CVE-2025-24919 ReVault 攻撃と名付けられたDell管理ソフトウェアに関するWindowsログイン認証bypassの脆弱性
+    * https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/
+    * https://www.securityweek.com/flaws-expose-100-dell-laptop-models-to-implants-windows-login-bypass/
 
 # その他
 
@@ -43,3 +46,5 @@ published: false
     * https://www.theregister.com/2025/08/01/microsoft_abandons_windows_11_se/
 * ブロックされたコンテンツへのMicrosoft 外部向けworkbook linkをデフォルトで無効化する 2026/07までにかけて。
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-external-workbook-links-to-blocked-file-types/
+* Microsoft AIによるマルウェア分類のプロジェクトProject Ire を開始
+    * https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html
