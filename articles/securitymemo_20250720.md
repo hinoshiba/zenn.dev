@@ -50,6 +50,7 @@ published: true
     * CVE-2025-49704 Microsoft SharePoint Code Injection Vulnerability
     * CVE-2025-49706 Microsoft SharePoint Improper Authentication Vulnerability
     * https://scan.netsecurity.ne.jp/article/2025/07/25/53290.html
+    * https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-attacks-targeting-microsoft-sharepoint-servers/
 * CVE-2025-54309 CrushFTP Unprotected Alternate Channel Vulnerability
 * CVE-2025-6558 Google Chromium ANGLE and GPU Improper Input Validation Vulnerability
 * CVE-2025-2776 SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability
