@@ -16,6 +16,11 @@ published: false
 * 実質的には、[セキュリティは楽しいかね？ Part 2](https://negi.hatenablog.com/) のような事ができるようになったらいいなと、個人的に真似をして、個人的に漏れチェック等に使います
 
 # 事件事故
+* 法政大、1万6000人超の情報漏えいか　不正アクセスで
+    * https://ascii.jp/elem/000/004/311/4311737/
+* Air France KLM 航空 顧客ポータルから顧客情報が盗まれた。パスポート等の情報は流出していないと広報
+    * https://www.darkreading.com/cyberattacks-data-breaches/air-france-klm-data-breach
+    * https://www.securityweek.com/air-france-klm-say-hackers-accessed-customer-data/
 
 # 攻撃、脅威
 
@@ -23,6 +28,7 @@ published: false
     * https://securityonline.info/cloudflare-accuses-perplexity-ai-of-evading-blocks-and-impersonating-chrome-to-scrape-websites/
     * https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/
     * https://news.mynavi.jp/techplus/article/20250806-3398753/
+
 
 
 # 脆弱性
