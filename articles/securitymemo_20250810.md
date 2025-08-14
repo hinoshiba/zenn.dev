@@ -38,6 +38,14 @@ published: false
         * https://msrc.microsoft.com/update-guide/vulnerability
         * https://msrc.microsoft.com/update-guide/releaseNote/2025-aug
         * https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/
+* CVE-2025-25256 FortiSIEM 未認証のコード実行
+    * https://www.bleepingcomputer.com/news/security/fortinet-warns-of-fortisiem-pre-auth-rce-flaw-with-exploit-in-the-wild/
+    * https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html
+    * https://securityonline.info/fortisiem-cve-2025-25256-cvss-9-8-remote-unauthenticated-command-injection-with-exploit-in-the-wild/
+* CVE-2025-7734 GitLab BobViewer上でのXSSの脆弱性
+    * https://securityonline.info/gitlab-patches-high-severity-flaws-update-now-to-prevent-xss-and-account-takeover/
+* CVE-2025-49457 Zoom Windows 権限昇格の脆弱性
+    * https://securityonline.info/zoom-patches-critical-flaw-cve-2025-49457-windows-users-face-privilege-escalation-risk/
 
 ## KEV
 * CVE-2013-3893 Microsoft Internet Explorer Resource Management Errors Vulnerability
