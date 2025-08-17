@@ -3,7 +3,7 @@ title: "2025/08/10 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -22,6 +22,9 @@ published: false
     * https://news.yahoo.co.jp/articles/2848fad0c527f4fe26988382f7a2e6ce389fe754
 
 # 攻撃、脅威
+
+* ひらがなの「ん」を用いたpunicodeのフィッシングメール
+    * https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/
 
 # 脆弱性
 
