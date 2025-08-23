@@ -28,7 +28,20 @@ published: false
     * https://www.securityweek.com/cisco-patches-critical-vulnerability-in-firewall-management-platform/
     * https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html
     * https://securityonline.info/critical-cisco-rce-flaw-cve-2025-20265-cvss-10-unauthenticated-attackers-can-hijack-firewalls/
+* CVE-2025-9074 Docker Desktop for Windows API未認証状態での内部公開
+    * https://cybersecuritynews.com/windows-docker-desktop-vulnerability/
+
+## KEV
+* CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability
+    * https://www.bitdefender.com/en-us/blog/hotforsecurity/patch-your-iphones-and-macs-apple-tackles-critical-security-flaw-with-ios-18-6-2-macos-sequoia-15-6-1
+    * https://www.theregister.com/2025/08/21/apple_imageio_exploit/
+    * https://www.securityweek.com/apple-patches-zero-day-exploited-in-targeted-attacks/
+    * https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html
+    * https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-new-actively-exploited-zero-day/
+* CVE-2025-54948 Trend Micro Apex One OS Command Injection Vulnerability
 
 
 # その他
 
+* Microsoft Windowsリカバリに関する緊急パッチをリリース
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-recovery/
