@@ -3,7 +3,7 @@ title: "2025/08/17 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -20,6 +20,9 @@ published: false
 
 # 攻撃、脅威
 
+* パスワードマネージャに対するDOMベースクリッククリックジャッキング
+    * https://www.tomsguide.com/computing/online-security/major-flaw-in-top-password-managers-lets-hackers-steal-your-login-details-2fa-codes-credit-card-info-and-more
+
 # 脆弱性
 
 * CVE-2025-52970 FortiWeb 未認証のコード実行の可能性
@@ -30,6 +33,8 @@ published: false
     * https://securityonline.info/critical-cisco-rce-flaw-cve-2025-20265-cvss-10-unauthenticated-attackers-can-hijack-firewalls/
 * CVE-2025-9074 Docker Desktop for Windows API未認証状態での内部公開
     * https://cybersecuritynews.com/windows-docker-desktop-vulnerability/
+    * https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html
+    * https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/
 
 ## KEV
 * CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability
