@@ -23,11 +23,15 @@ published: false
 
 # 脆弱性
 
+* CVE-2025-7775 NetScaler RCE
+    * https://securityonline.info/urgent-netscaler-zero-day-cve-2025-7775-under-active-attack/
+
 
 ## KEV
 * CVE-2024-8069 Citrix Session Recording Deserialization of Untrusted Data Vulnerability
 * CVE-2024-8068 Citrix Session Recording Improper Privilege Management Vulnerability
 * CVE-2025-48384 Git Link Following Vulnerability
+* CVE-2025-7775 Citrix NetScaler Memory Overflow Vulnerability
 
 
 # その他

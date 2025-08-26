@@ -35,6 +35,7 @@ published: true
     * https://cybersecuritynews.com/windows-docker-desktop-vulnerability/
     * https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html
     * https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/
+    * https://www.securityweek.com/docker-desktop-vulnerability-leads-to-host-compromise/
 
 ## KEV
 * CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability
