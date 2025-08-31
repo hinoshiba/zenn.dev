@@ -3,7 +3,7 @@ title: "2025/08/24 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -19,12 +19,36 @@ published: false
 # 攻撃、脅威
 * AIさまりによるClickFix
     * https://www.darkreading.com/vulnerabilities-threats/clickfix-attack-ai-summaries-pushing-malware
+* SalesForce データ侵害。Salesloft Driftというサードパーティ製のAI bot向けOAuthトークンを利用
+    * https://www.securityweek.com/hundreds-of-salesforce-customers-hit-by-widespread-data-theft-campaign/
+    * https://www.darkreading.com/cyberattacks-data-breaches/google-salesforce-attacks-third-party-app
+    * https://www.theregister.com/2025/08/27/salesforce_salesloft_breach/
+* 中国政府系ハッカー集団を注意喚起　「ソルトタイフーン」１３カ国共同で―警察庁
+    * https://www.jiji.com/jc/article?k=2025082800108&g=eco
+    * https://www.darkreading.com/cybersecurity-operations/cisa-fbi-nsa-warn-chinese-global-espionage-system
 
 
 # 脆弱性
 
 * CVE-2025-7775 NetScaler RCE
     * https://securityonline.info/urgent-netscaler-zero-day-cve-2025-7775-under-active-attack/
+    * https://www.securityweek.com/citrix-patches-exploited-netscaler-zero-day/
+* 「FeliCaに重大な脆弱性」報道でドコモが声明--「iDは安心して利用して」
+    * https://news.yahoo.co.jp/articles/7939afe4f18158ae6247f809f43b8d70ffc61021
+    * https://news.yahoo.co.jp/articles/77191259dd7367cb4e78771dee6619df5a5d00c2
+* CVE-2025-20241 Cisco Nexus DoS
+    * https://securityonline.info/cisco-warns-of-high-severity-dos-flaw-cve-2025-20241-in-nexus-switches/
+* CVE-2025-54309 CrushFTP 認証bypass
+    * https://securityonline.info/poc-available-crushftp-zero-day-cve-2025-54309-exploited-in-the-wild/
+* CVE-2025-52856 QNAP 不適切な認証
+    * https://securityonline.info/qnap-patches-critical-flaw-cve-2025-52856-with-cvss-9-3/
+* CVE-2025-55177 WhatsApp 未認証のコンテンツ実行。メッセージ送信を通じて。
+    * https://securityonline.info/a-critical-zero-click-whatsapp-flaw-cve-2025-55177-was-exploited-in-zero-day-attacks/
+    * https://www.bleepingcomputer.com/news/security/whatsapp-patches-vulnerability-exploited-in-zero-day-attacks/
+    * https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html
+
+## KEV
+* CVE-2025-57819 Sangoma FreePBX Authentication Bypass Vulnerability 
 
 
 ## KEV
