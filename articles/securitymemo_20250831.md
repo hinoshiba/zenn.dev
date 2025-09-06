@@ -1,5 +1,5 @@
 ---
-title: "2025/08/24 週 セキュリティニュースメモ"
+title: "2025/08/31 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
@@ -18,8 +18,30 @@ published: false
 
 # 攻撃、脅威
 
+* Cloudflare 11.5 Tbps のDDoSをブロック
+    * https://www.securityweek.com/cloudflare-blocks-record-11-5-tbps-ddos-attack/
+    * https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-breaking-115-tbps-ddos-attack/
+    * https://securityonline.info/the-largest-ddos-attack-in-history-cloudflare-fights-back/
+
 # 脆弱性
 
+* CVE-2025-57803 ImageMagic RCE
+    * https://securityonline.info/cve-2025-57803-critical-flaw-in-imagemagick-could-lead-to-remote-code-execution/
+    * https://www.security-next.com/174002
+* CVE-2025-55037 TkEasyGUI OSコマンドインジェクション
+    * https://forest.watch.impress.co.jp/docs/news/2045040.html
+* CVE-2025-38352 Android 権限昇格の脆弱性
+    * https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-flaws-in-september-update/
+* CVE-2025-58176 Dive OSS MCP Host Desktop app, 1クリックコード実行
+    * https://securityonline.info/a-single-click-can-hijack-your-pc-cve-2025-58176-rce-flaw-found-in-dive-desktop-app/
+
+
+## KEV
+* CVE-2025-38352 Linux Kernel Time-of-Check Time-of-Use (TOCTOU) Race Condition Vulnerability
+* CVE-2025-48543 Android Runtime Unspecified Vulnerability
+* CVE-2025-53690 Sitecore Multiple Products Deserialization of Untrusted Data Vulnerability
+* CVE-2023-50224 TP-Link TL-WR841N Authentication Bypass by Spoofing Vulnerability
+* CVE-2025-9377 TP-Link Archer C7(EU) and TL-WR841N/ND(MS) OS Command Injection Vulnerability
 
 # その他
 

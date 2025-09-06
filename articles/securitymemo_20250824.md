@@ -46,6 +46,8 @@ published: true
     * https://securityonline.info/a-critical-zero-click-whatsapp-flaw-cve-2025-55177-was-exploited-in-zero-day-attacks/
     * https://www.bleepingcomputer.com/news/security/whatsapp-patches-vulnerability-exploited-in-zero-day-attacks/
     * https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html
+    * https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-whatsapp-security-flaw-sophisticated-attacks
+    * https://www.securityweek.com/whatsapp-zero-day-exploited-in-attacks-targeting-apple-users/
 
 ## KEV
 * CVE-2025-57819 Sangoma FreePBX Authentication Bypass Vulnerability 
