@@ -18,9 +18,26 @@ published: false
 
 # 攻撃、脅威
 
+* npmパッケージへのサプライチェーン
+    * https://dailydarkweb.net/major-npm-supply-chain-attack-compromises-packages-with-over-2-billion-weekly-downloads/
+    * https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/
+
 
 # 脆弱性
 
-
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2025-sep
+        * https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-patch-tuesday-fixes-81-flaws-two-zero-days/
+* CVE-2025-54236 Adobe Commerce セッション乗っ取りの可能性
+    * https://securityonline.info/adobe-issues-emergency-patch-for-sessionreaper-cve-2025-54236-one-of-magentos-most-critical-flaws/
+* CVE-2025-41243 Spring Cloud Gateway Server WebFlux 設定変更を行われる可能性
+    * https://securityonline.info/cve-2025-41243-cvss-10-critical-spring-cloud-gateway-server-webflux-flaw-exposes-property-modification-risk/
+* CVE-2025-9566 PodMan 不正なコンテナイメージによりホストファイルを変更される可能性
+    * https://securityonline.info/podman-patches-symlink-traversal-vulnerability-in-kube-play-command-cve-2025-9566/
+* CVE-2025-2256 GitLab DoS 大きなSAMLレスポンス
+    * https://securityonline.info/gitlab-urges-immediate-update-for-two-high-severity-flaws/
 # その他
 
