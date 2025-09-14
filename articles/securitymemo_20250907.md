@@ -3,7 +3,7 @@ title: "2025/09/07 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -39,5 +39,9 @@ published: false
     * https://securityonline.info/podman-patches-symlink-traversal-vulnerability-in-kube-play-command-cve-2025-9566/
 * CVE-2025-2256 GitLab DoS 大きなSAMLレスポンス
     * https://securityonline.info/gitlab-urges-immediate-update-for-two-high-severity-flaws/
+
+## KEV
+* CVE-2025-5086 Dassault Systèmes DELMIA Apriso Deserialization of Untrusted Data Vulnerability
+
 # その他
 
