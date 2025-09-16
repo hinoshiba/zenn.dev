@@ -24,6 +24,8 @@ published: false
 * CVE-2025-21043 Samsung Android コード実行の可能性
     * https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html
     * https://www.bleepingcomputer.com/news/security/samsung-patches-actively-exploited-zero-day-reported-by-whatsapp/
+* CVE-2025-58364 and CVE-2025-58060 Linux CUPS 認証bypassやDoSの脆弱性
+    * https://securityonline.info/cups-flaws-allow-linux-remote-dos-cve-2025-58364-and-authentication-bypass-cve-2025-58060/
 
 # その他
 
