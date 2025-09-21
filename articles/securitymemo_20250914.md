@@ -23,6 +23,8 @@ published: false
 * 事故増殖型のサプライチェーンアタックがnpmパッケージで進行中
     * https://www.bleepingcomputer.com/news/security/self-propagating-supply-chain-attack-hits-187-npm-packages/
     * https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages
+* LastPassを語るインフォスティーラ、LastPassが警告
+    * https://blog.lastpass.com/posts/attack-targeting-macs-via-github-pages
 
 
 # 脆弱性
@@ -38,3 +40,7 @@ published: false
 
 # その他
 
+* Steam 2026/01 32bitでの提供を停止予定
+    * https://www.bleepingcomputer.com/news/software/steam-will-stop-running-on-windows-32-bit-in-january-2026/
+* Office 2016 and Office 2019 来月でサポート終了
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-reach-end-of-support-next-month/
