@@ -3,7 +3,7 @@ title: "2025/09/14 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "tech"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -25,6 +25,7 @@ published: false
     * https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages
 * LastPassを語るインフォスティーラ、LastPassが警告
     * https://blog.lastpass.com/posts/attack-targeting-macs-via-github-pages
+    * https://www.bleepingcomputer.com/news/security/lastpass-fake-password-managers-infect-mac-users-with-malware/
 
 
 # 脆弱性
