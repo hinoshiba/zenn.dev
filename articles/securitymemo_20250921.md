@@ -1,9 +1,9 @@
 ---
 title: "2025/09/21 週 セキュリティニュースメモ"
 emoji: "🔖"
-type: "tech"
+type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -38,7 +38,8 @@ published: false
     * https://www.theregister.com/2025/09/23/github_npm_registry_security/
 * Cloudflare 22.2Tbps のDDoSを低減
     * https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-new-record-breaking-222-tbps-ddos-attack/
-
+* Microsoft Teamのインストーラを語るマルバタイジング
+    * https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/
 
 # 脆弱性
 
