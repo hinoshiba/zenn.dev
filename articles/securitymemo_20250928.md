@@ -20,6 +20,11 @@ published: false
     * https://www.bleepingcomputer.com/news/security/japans-largest-brewer-suspends-operations-due-to-cyberattack/
     * https://www.theregister.com/2025/09/29/asahi_hacking_outage/
     * https://abema.tv/video/episode/89-93_s10_p48230
+* RedHat サイバー攻撃によりデータ流出を認める
+    * https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/
+    * https://dailydarkweb.net/red-hat-confirms-data-breach-after-github-repositories-stolen/
+    * https://www.darkreading.com/application-security/red-hat-widespread-breaches-private-gitlab-repositories
+    * https://databreaches.net/2025/10/02/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/
 
 # 攻撃、脅威
 
@@ -38,6 +43,11 @@ published: false
 * CVE-2025-10035 Fortra GoAnywhere MFT Deserialization of Untrusted Data Vulnerability
 * CVE-2025-59689 Libraesva Email Security Gateway Command Injection Vulnerability
 * CVE-2025-32463 Sudo Inclusion of Functionality from Untrusted Control Sphere Vulnerability
+* CVE-2014-6278 GNU Bash OS Command Injection Vulnerability
+* CVE-2015-7755 Juniper ScreenOS Improper Authentication Vulnerability
+* CVE-2017-1000353 Jenkins Remote Code Execution Vulnerability
+* CVE-2025-4008 Smartbedded Meteobridge Command Injection Vulnerability
+* CVE-2025-21043 Samsung Mobile Devices Out-of-Bounds Write Vulnerability
 
 
 # その他
