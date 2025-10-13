@@ -16,10 +16,14 @@ published: true
 
 # 事件事故
 
-* アサヒグループ、サイバー攻撃。生産ラインに影響
+* アサヒグループ、サイバー攻撃、Qilinにより。生産ラインに影響
     * https://www.bleepingcomputer.com/news/security/japans-largest-brewer-suspends-operations-due-to-cyberattack/
     * https://www.theregister.com/2025/09/29/asahi_hacking_outage/
     * https://abema.tv/video/episode/89-93_s10_p48230
+    * https://www.securityweek.com/beer-giant-asahi-says-data-stolen-in-ransomware-attack/
+    * https://www.itmedia.co.jp/news/articles/2510/08/news085.html
+    * https://www.security-next.com/175571
+    * https://news.mynavi.jp/techplus/article/20251009-3530999/
 * RedHat サイバー攻撃によりデータ流出を認める
     * https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/
     * https://dailydarkweb.net/red-hat-confirms-data-breach-after-github-repositories-stolen/
