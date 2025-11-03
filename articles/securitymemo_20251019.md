@@ -58,6 +58,7 @@ published: true
     * https://www.bleepingcomputer.com/news/microsoft/windows-11-updates-break-localhost-127001-http-2-connections/
 * AWS US-EAST-1 障害
     * https://aws.amazon.com/message/101925/
-* 
+* Windows 10月の月次更新時に、エクスプローラでファイルプレビューが表示されなくなり、NTLMの流出がブロック
     * https://www.securityweek.com/microsoft-disables-downloaded-file-previews-to-block-ntlm-hash-leaks/
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/
+    * https://news.yahoo.co.jp/articles/ff430d6ff10d7fb2bc52895e84d41af789124160

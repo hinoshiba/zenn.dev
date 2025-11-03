@@ -3,7 +3,7 @@ title: "2025/10/26 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -18,9 +18,23 @@ published: false
 
 # 攻撃、脅威
 
+* QilinがWSLを介してELFを実行し、暗号化を行う手法
+    * https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/
+
 # 脆弱性
+
+* CVE-2025-62725 Docker Compose Path Traversal
+    * https://securityonline.info/docker-compose-path-traversal-cve-2025-62725-allows-arbitrary-file-overwrite-via-oci-artifacts/
+    * https://www.theregister.com/2025/10/30/docker_compose_desktop_flaws/
 
 
 ## KEV
+* CVE-2025-6204 Dassault Systèmes DELMIA Apriso Code Injection Vulnerability
+* CVE-2025-6205 Dassault Systèmes DELMIA Apriso Missing Authorization Vulnerability
+* CVE-2025-24893 XWiki Platform Eval Injection Vulnerability
+* CVE-2025-41244 Broadcom VMware Aria Operations and VMware Tools Privilege Defined with Unsafe Actions Vulnerability
+
 
 # その他
+* Windows BSOD 時にメモリスキャンができるプロンプトを追加中
+    * https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/
