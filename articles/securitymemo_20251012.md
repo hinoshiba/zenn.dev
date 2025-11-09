@@ -39,6 +39,9 @@ published: true
         * https://msrc.microsoft.com/update-guide/releaseNote/2025-oct
         * https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/
         * https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html
+    * CVE-2025-58726
+        * https://securityonline.info/researcher-details-windows-smb-server-elevation-of-privilege-vulnerability-cve-2025-58726/
+
 * CVE-2025-54253 Adobe Experience Manager RCE
     * https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html
 * CVE-2025-49553 Adobe Connect XSS

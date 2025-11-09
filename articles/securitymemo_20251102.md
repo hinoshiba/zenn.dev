@@ -1,9 +1,9 @@
 ---
-title: "202x/mm/dd 週 セキュリティニュースメモ"
+title: "2025/11/02 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -16,9 +16,28 @@ published: false
 
 # 事件事故
 
+* ASKUL ランサムウェア 本格復旧フェーズ 2025年12月上旬以降を予定
+    * https://pdf.irpocket.com/C0032/LgpJ/JY12/n8Pm.pdf
+* バンダイチャンネルサービス一時停止 / 不正アクセスによる疑い
+    * https://www.bnfw.co.jp/news/notice/notice_detail.html?id=296&page=1
+    * https://japan.cnet.com/article/35240167/
+* 日経新聞 Slackへの不正アクセス
+    * https://www.nikkei.co.jp/nikkeiinfo/news/information/1393.html
+    * https://www.darkreading.com/cyberattacks-data-breaches/nikkei-suffers-breach-slack-compromise
+
 # 攻撃、脅威
 
+* ClickFix ビデオチュートリアル付きでOS毎に。
+    * https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/
+    * https://www.securityweek.com/clickfix-attacks-against-macos-users-evolving/
+* Teamsで同僚等の第三者を語る通知の送信やメッセージの編集を秘密に実行できた
+    * https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html
+
+
 # 脆弱性
+
+* CVE-2025-20333 and CVE-2025-20362 Cisco ASA DoS
+    * https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html
 
 
 ## KEV
