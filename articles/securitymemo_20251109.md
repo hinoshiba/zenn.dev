@@ -20,7 +20,14 @@ published: false
 
 # 脆弱性
 
+* CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881 runc コンテナエスケープ
+    * https://www.securityweek.com/runc-vulnerabilities-can-be-exploited-to-escape-containers/
+
 
 ## KEV
+* CVE-2025-21042 Samsung Mobile Devices Out-of-Bounds Write Vulnerability  
 
 # その他
+* OWASP TOP 10 2025 RC1 ソフトウェアサプライチェーンが追加
+    * https://socket.dev/blog/owasp-2025-top-10-adds-software-supply-chain-failures?utm_medium=feed
+    * https://www.securityweek.com/two-new-web-application-risk-categories-added-to-owasp-top-10/
