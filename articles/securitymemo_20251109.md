@@ -16,12 +16,22 @@ published: false
 
 # 事件事故
 
+* アスクル株式会社 ランサムウェアに関する情報流出への続報
+    * https://pdf.irpocket.com/C0032/lAG8/UMnd/Mnlw.pdf
+
 # 攻撃、脅威
 
 # 脆弱性
 
 * CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881 runc コンテナエスケープ
     * https://www.securityweek.com/runc-vulnerabilities-can-be-exploited-to-escape-containers/
+* CVE-2025-12686 Synology NAS RCE
+    * https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2025-nov
+        * https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/
 
 
 ## KEV
@@ -31,3 +41,8 @@ published: false
 * OWASP TOP 10 2025 RC1 ソフトウェアサプライチェーンが追加
     * https://socket.dev/blog/owasp-2025-top-10-adds-software-supply-chain-failures?utm_medium=feed
     * https://www.securityweek.com/two-new-web-application-risk-categories-added-to-owasp-top-10/
+* Windows 11 23H2 EoS
+    * https://learn.microsoft.com/en-us/windows/release-health/windows-message-center#3715
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/
+* Windows 10のESUで登録エラー発生、国内ユーザーにも影響か
+    * https://news.mynavi.jp/techplus/article/20251111-3653344/
