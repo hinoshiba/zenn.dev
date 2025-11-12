@@ -36,6 +36,9 @@ published: false
 
 ## KEV
 * CVE-2025-21042 Samsung Mobile Devices Out-of-Bounds Write Vulnerability  
+* CVE-2025-9242 WatchGuard Firebox Out-of-Bounds Write Vulnerability
+* CVE-2025-12480 Gladinet Triofox Improper Access Control Vulnerability
+* CVE-2025-62215 Microsoft Windows Race Condition Vulnerability
 
 # その他
 * OWASP TOP 10 2025 RC1 ソフトウェアサプライチェーンが追加
@@ -46,3 +49,5 @@ published: false
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/
 * Windows 10のESUで登録エラー発生、国内ユーザーにも影響か
     * https://news.mynavi.jp/techplus/article/20251111-3653344/
+* Windows11 サードパーティ製のパスキーをサポート
+    * https://techcommunity.microsoft.com/blog/windows-itpro-blog/windows-11-expands-passkey-manager-support/4467572
