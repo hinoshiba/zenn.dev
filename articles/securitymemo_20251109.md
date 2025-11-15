@@ -3,7 +3,7 @@ title: "2025/11/09 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -18,6 +18,8 @@ published: false
 
 * アスクル株式会社 ランサムウェアに関する情報流出への続報
     * https://pdf.irpocket.com/C0032/lAG8/UMnd/Mnlw.pdf
+* タリーズオンラインストアの再開 11/13
+    * https://shop.itoen.jp/tullyscoffee/topics/topicdetaillist/1
 
 # 攻撃、脅威
 
@@ -39,6 +41,11 @@ published: false
 * CVE-2025-9242 WatchGuard Firebox Out-of-Bounds Write Vulnerability
 * CVE-2025-12480 Gladinet Triofox Improper Access Control Vulnerability
 * CVE-2025-62215 Microsoft Windows Race Condition Vulnerability
+* CVE-2025-64446 Fortinet FortiWeb Path Traversal Vulnerability 
+    * https://www.theregister.com/2025/11/14/fortinet_active_exploit_cve_2025_64446/
+    * https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/
+    * https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html
+    * https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/
 
 # その他
 * OWASP TOP 10 2025 RC1 ソフトウェアサプライチェーンが追加
