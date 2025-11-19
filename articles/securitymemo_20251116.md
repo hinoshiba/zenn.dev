@@ -16,11 +16,18 @@ published: false
 
 # 事件事故
 
+* Cloudflare 世界規模障害
+    * https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/
+    * https://www.securityweek.com/cloudflare-says-highly-disruptive-outage-not-caused-by-attack/
+
 # 攻撃、脅威
 
 # 脆弱性
 
 
 ## KEV
+
+* CVE-2025-58034 Fortinet FortiWeb OS Command Code Injection Vulnerability
+    * https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/
 
 # その他
