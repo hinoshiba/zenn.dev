@@ -19,10 +19,22 @@ published: false
 * Cloudflare 世界規模障害
     * https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/
     * https://www.securityweek.com/cloudflare-says-highly-disruptive-outage-not-caused-by-attack/
+* 「バンダイチャンネル」会員情報の漏えい等のおそれに関するお詫びとお知らせ
+    * https://info.b-ch.com/article/519027964.html
+    * https://news.yahoo.co.jp/articles/58b9428a1bd6f3633200fda295400573c33a7b74
+* 不正アクセスで楽天モバイルを契約した疑いで高校生を逮捕 犯罪グループに転売したとみられる別の高校生も
+    * https://news.yahoo.co.jp/articles/f98a51bb28dbee5a771015162c9ea3d5932d1818
+    * https://newsdig.tbs.co.jp/articles/cbc/2298663?display=1
+* イタリアの鉄道会社Almaviva 2.3TiBのデータ侵害の可能性
+    * https://www.cybersecitalia.it/almaviva-data-leak-pubblicati-anche-i-dati-confidenziali-del-gruppo-fs/54989/
+    * https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almavia/
 
 # 攻撃、脅威
 
 # 脆弱性
+
+* CVE-2025-41115 Grafana 権限昇格
+    * https://securityonline.info/grafana-patches-critical-scim-flaw-cve-2025-41115-cvss-10-allowing-privilege-escalation-and-user-impersonation/
 
 
 ## KEV
@@ -31,3 +43,5 @@ published: false
     * https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/
 
 # その他
+* JPRSがインターネットの国別トップレベルドメインを楽しく学べるポスターとクリアファイルの全国教育機関への無償配布を開始
+    * https://jprs.co.jp/press/2025/251119.html
