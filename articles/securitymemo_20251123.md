@@ -19,8 +19,15 @@ published: false
 
 # 攻撃、脅威
 
+* WindowsUpdateを語るClickFix
+    * https://www.theregister.com/2025/11/24/clickfix_attack_infostealers_images/
+    * https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/
+
 
 # 脆弱性
+
+* CVE-2025-65108 md-to-pdf コード実行の脆弱性
+    * https://securityonline.info/critical-markdown-to-pdf-flaw-cve-2025-65108-cvss-10-0-allows-rce-via-js-injection-in-markdown-front-matter/
 
 
 
