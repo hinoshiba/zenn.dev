@@ -28,6 +28,9 @@ published: false
 
 * CVE-2025-65108 md-to-pdf コード実行の脆弱性
     * https://securityonline.info/critical-markdown-to-pdf-flaw-cve-2025-65108-cvss-10-0-allows-rce-via-js-injection-in-markdown-front-matter/
+* e CVE-2025-59366 ASUS Router 認証bypass
+    * https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/
+    * https://www.asus.com/security-advisory/
 
 
 
