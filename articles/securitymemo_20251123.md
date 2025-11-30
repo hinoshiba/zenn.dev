@@ -3,7 +3,7 @@ title: "2025/11/23 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -15,6 +15,14 @@ published: false
     * 今週にhinoshibaが見たニュースである事に留意ください
 
 # 事件事故
+
+* OpenAI が利用するMixpanel の情報侵害によりOpenAIの登録メールアドレス等の情報が流出
+    * https://openai.com/index/mixpanel-incident/
+* アサヒグループ / サイバー攻撃による情報漏えいに関する調査結果と今後の対応について
+    * https://www.asahigroup-holdings.com/newsroom/detail/20251127-0104.html
+    * https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/
+* ASKUL Webサイトの注文を12月第一週で復旧対応中
+    * https://pdf.irpocket.com/C0032/VowW/wP9e/bCCh.pdf
 
 
 # 攻撃、脅威
@@ -35,6 +43,9 @@ published: false
 
 
 ## KEV
+* CVE-2021-26829 OpenPLC ScadaBR Cross-site Scripting Vulnerability 
 
 
 # その他
+* 8月以降のWindowsUpdateによって Passwordログインボタンがそのままだと表示されない不具合, MSは修正中
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/
