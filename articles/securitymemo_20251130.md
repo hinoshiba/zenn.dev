@@ -20,7 +20,13 @@ published: false
 
 # 脆弱性
 
+* CVE-2025-60718 Windows 権限昇格の脆弱性、PoCリリース
+    * https://securityonline.info/poc-exploit-releases-for-cve-2025-60718-windows-administrator-protection-elevation-of-privilege-vulnerability/
+
 
 ## KEV
 
 # その他
+* MDE ポータルの停止により脅威ハンティングが一時停止
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-portal-outage-blocks-access-to-security-alerts/
+    * https://admin.microsoft.com/#/MessageCenter/:/messages/DZ1191468
