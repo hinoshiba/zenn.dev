@@ -16,15 +16,35 @@ published: false
 
 # 事件事故
 
+* 17歳男子高校生、生成AIを使った「快活CLUB」へのサイバー攻撃で逮捕 724万件の個人情報流出
+    * https://news.yahoo.co.jp/articles/43df98da5cc03d4eb499d78e47c2d18c63d108d7
+    * https://news.ntv.co.jp/category/society/ce9f4c1e4861492c9373932d16f7443f
+* ASKUL Webサイトでの注文を12/3 に復旧
+    * https://pdf.irpocket.com/C0032/VowW/kiU3/UgoY.pdf
+    * https://news.mynavi.jp/techplus/article/20251203-3755740/
+* 日本検定協会 サイバー攻撃を確認
+    * https://www.shinken.or.jp/archives/infomation/14909
+    * https://www.security-next.com/177719
+
 # 攻撃、脅威
 
 # 脆弱性
 
 * CVE-2025-60718 Windows 権限昇格の脆弱性、PoCリリース
     * https://securityonline.info/poc-exploit-releases-for-cve-2025-60718-windows-administrator-protection-elevation-of-privilege-vulnerability/
+* CVE-2025-55182 CVE-2025-66478 React2Shell
+    * https://react2shell.com/
+    * https://www.securityweek.com/react2shell-in-the-wild-exploitation-expected-for-critical-react-vulnerability/
+    * https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/
+    * https://www.security-next.com/177961
+* CVE-2025-9491 
+    * https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/
 
 
 ## KEV
+
+* CVE-2021-26828 OpenPLC ScadaBR Unrestricted Upload of File with Dangerous Type Vulnerability 
 
 # その他
 * MDE ポータルの停止により脅威ハンティングが一時停止
