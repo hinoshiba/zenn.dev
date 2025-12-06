@@ -3,7 +3,7 @@ title: "2025/11/30 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -37,9 +37,12 @@ published: false
     * https://www.securityweek.com/react2shell-in-the-wild-exploitation-expected-for-critical-react-vulnerability/
     * https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/
     * https://www.security-next.com/177961
-* CVE-2025-9491 
-    * https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/
-    * https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/
+    * https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html
+    * https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/
+    * https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html
+    * https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/
+* CVE-2025-66476 Vim for Windows コード実行の脆弱性
+    * https://www.openwall.com/lists/oss-security/2025/12/02/5
 
 
 ## KEV
@@ -50,3 +53,12 @@ published: false
 * MDE ポータルの停止により脅威ハンティングが一時停止
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-portal-outage-blocks-access-to-security-alerts/
     * https://admin.microsoft.com/#/MessageCenter/:/messages/DZ1191468
+* Cloudflare 障害 React2Shellの対応のため
+    * https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/
+    * https://www.securityweek.com/cloudflare-outage-caused-by-react2shell-mitigations/
+    * https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/
+* インド通信省、スマホに政府アプリのインストールを義務化するも2日で撤回
+    * https://news.mynavi.jp/techplus/article/20251205-3760108/
+* Let's Encrypto の証明書の期間が、90日から45日に。
+    * https://letsencrypt.org/2025/12/02/from-90-to-45
+    * https://news.mynavi.jp/techplus/article/20251205-3760801/
