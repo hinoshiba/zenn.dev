@@ -41,6 +41,11 @@ published: true
     * https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/
     * https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html
     * https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/
+    * https://www.securityweek.com/react2shell-attacks-linked-to-north-korean-hackers/
+    * https://www.lac.co.jp/lacwatch/alert/20251209_004572.html
+    * https://securityonline.info/critical-react2shell-vulnerability-cve-2025-55182-analysis-surge-in-attacks-targeting-rsc-enabled-services-worldwide/
+    * https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html
+    * https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html
 * CVE-2025-66476 Vim for Windows コード実行の脆弱性
     * https://www.openwall.com/lists/oss-security/2025/12/02/5
 
