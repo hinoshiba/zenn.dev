@@ -40,6 +40,9 @@ published: true
 * CVE-2025-59718 and CVE-2025-59719 FortiOS 認証bypassの脆弱性
     * https://www.securityweek.com/fortinet-patches-critical-authentication-bypass-vulnerabilities/
     * https://www.cvedetails.com/cve/CVE-2025-59718/ 
+    * https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html
+    * https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/
+    * https://www.securityweek.com/in-the-wild-exploitation-of-fresh-fortinet-flaws-begins/
 
 ## KEV
 * CVE-2025-6218 RARLAB WinRAR Path Traversal Vulnerability
