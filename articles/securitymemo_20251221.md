@@ -17,10 +17,17 @@ published: false
 # 事件事故
 
 # 攻撃、脅威
+* VPN 拡張機能、Phantom Shuttle、認証情報を含めて送信していたという報告
+    * https://socket.dev/blog/malicious-chrome-extensions-phantom-shuttle
 
 # 脆弱性
+
+* CVE-2025-68615 Net-SNMP DoS
+    * https://github.com/net-snmp/net-snmp/security/advisories/GHSA-4389-rwqf-q9gq
 
 
 ## KEV
 
 # その他
+* Docker Hardened Images(DHI) 無料化
+    * https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/
