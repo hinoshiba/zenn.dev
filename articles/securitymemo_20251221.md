@@ -3,7 +3,7 @@ title: "2025/12/21 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -24,6 +24,9 @@ published: false
 
 * CVE-2025-68615 Net-SNMP DoS
     * https://github.com/net-snmp/net-snmp/security/advisories/GHSA-4389-rwqf-q9gq
+* CVE-2025-14847 MongoDB 未認証のデータ読み込み
+    * https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html
+    * https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/
 
 
 ## KEV
@@ -31,3 +34,6 @@ published: false
 # その他
 * Docker Hardened Images(DHI) 無料化
     * https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/
+* Gmail、メールアドレスのユーザ部分変更可能へ
+    * https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/
+    * https://support.google.com/accounts/answer/19870?dark=0&sjid=9364014948975224882-NC&hl=ja
