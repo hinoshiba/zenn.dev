@@ -16,6 +16,9 @@ published: false
 
 # 事件事故
 
+* 韓国クーパン、顧客情報大量流出で11.8億ドルの補償発表
+    * https://jp.reuters.com/markets/global-markets/Q3W7EQ47VZIDTIEP7GL6KYRL2Y-2025-12-29/
+
 # 攻撃、脅威
 
 # 脆弱性
@@ -24,3 +27,6 @@ published: false
 ## KEV
 
 # その他
+* OWASP Top 10 for Agentic Applications 2026 がリリース
+    * https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/
+    * https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/
