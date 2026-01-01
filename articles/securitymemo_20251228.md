@@ -23,6 +23,9 @@ published: false
 
 # 脆弱性
 
+* CVE-2025-13915 IBM API Connect コード実行の可能性
+    * https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/
+
 
 ## KEV
 
