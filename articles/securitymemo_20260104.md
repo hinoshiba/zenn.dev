@@ -18,9 +18,21 @@ published: false
 
 # 攻撃、脅威
 
+* 中国ハッカー、1日263万回侵入　情報窃取や攻撃、増加の一途　台湾
+    * https://news.yahoo.co.jp/articles/136ac2fb1d9a9a505ef2bc76388d2ba9a8d502ed
+    * https://www.taipeitimes.com/News/front/archives/2026/01/05/2003850052
+    * https://www.nsb.gov.tw/en/#/%E5%85%AC%E5%91%8A%E8%B3%87%E8%A8%8A/%E6%96%B0%E8%81%9E%E7%A8%BF%E6%9A%A8%E6%96%B0%E8%81%9E%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99/2026-01-04/Analysis%20on%20China%E2%80%99s%20Cyber%20Threats%20to%20Taiwan%E2%80%99s%20Critical%20Infrastructure%20in%202025
+
 # 脆弱性
+
+* CVE-2025-52835 WING WordPress Migrator CSRF
+    * https://www.security-next.com/179217
+    * https://nvd.nist.gov/vuln/detail/CVE-2025-52835
+    * https://patchstack.com/database/wordpress/plugin/wing-migrator/vulnerability/wordpress-wing-wordpress-migrator-plugin-1-1-9-cross-site-request-forgery-csrf-vulnerability
 
 
 ## KEV
 
 # その他
+* CISA Known Exploited Vulnerabilities Surged 20% in 2025 @ CYBLE
+    * https://cyble.com/blog/cisa-kev-2025-exploited-vulnerabilities-growth/
