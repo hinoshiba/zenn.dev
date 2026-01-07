@@ -18,6 +18,10 @@ published: false
 
 # 攻撃、脅威
 
+* BSoDを模したClickFix
+    * https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death
+    * https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html
+    * https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/
 * 中国ハッカー、1日263万回侵入　情報窃取や攻撃、増加の一途　台湾
     * https://news.yahoo.co.jp/articles/136ac2fb1d9a9a505ef2bc76388d2ba9a8d502ed
     * https://www.taipeitimes.com/News/front/archives/2026/01/05/2003850052
@@ -29,6 +33,8 @@ published: false
     * https://www.security-next.com/179217
     * https://nvd.nist.gov/vuln/detail/CVE-2025-52835
     * https://patchstack.com/database/wordpress/plugin/wing-migrator/vulnerability/wordpress-wing-wordpress-migrator-plugin-1-1-9-cross-site-request-forgery-csrf-vulnerability
+*  CVE-2025-68668 n8n 認証済みユーザのシステムコマンド実行
+    * https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html
 
 
 ## KEV
