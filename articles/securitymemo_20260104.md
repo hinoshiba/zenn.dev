@@ -3,7 +3,7 @@ title: "2026/01/04 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -15,6 +15,14 @@ published: false
     * 今週にhinoshibaが見たニュースである事に留意ください
 
 # 事件事故
+
+* スマレジ、外部アプリベンダーから会員情報漏えい
+    * https://corp.smaregi.jp/news/press/20260108.php
+        ```
+        特定の外部アプリにおいて、外部アプリベンダーが保有する会員データが第三者によって不正に取得・公開されていた事実が判明いたしました。
+        弊社サーバーにおける不審な挙動や不正アクセスの痕跡は確認されておりません
+        ```
+    * https://www.itmedia.co.jp/news/articles/2601/09/news095.html
 
 # 攻撃、脅威
 
@@ -35,6 +43,14 @@ published: false
     * https://patchstack.com/database/wordpress/plugin/wing-migrator/vulnerability/wordpress-wing-wordpress-migrator-plugin-1-1-9-cross-site-request-forgery-csrf-vulnerability
 *  CVE-2025-68668 n8n 認証済みユーザのシステムコマンド実行
     * https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html
+*  CVE-2026-21858 n8n 未認証のコード実行
+    * https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html
+    * https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html
+    * https://securityonline.info/public-exploit-released-critical-n8n-flaw-cve-2026-21858-exposes-100k-servers/
+* CVE-2025-69194 wget2 パストラバーサルの脆弱性
+    * https://bugzilla.redhat.com/show_bug.cgi?id=2425773
+* CVE-2026-20029 CISCO ISE 認証済みユーザによるコード実行の可能性。PoCあり
+    * https://thehackernews.com/2026/01/cisco-patches-ise-security.html
 
 
 ## KEV
@@ -42,3 +58,5 @@ published: false
 # その他
 * CISA Known Exploited Vulnerabilities Surged 20% in 2025 @ CYBLE
     * https://cyble.com/blog/cisa-kev-2025-exploited-vulnerabilities-growth/
+* アイルランドのパスポート、IRLコードに誤りがあり、1万3000まいのパスポートリコール
+    * https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/
