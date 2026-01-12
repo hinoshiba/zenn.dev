@@ -10,11 +10,15 @@ published: false
 * 自身なりに気になったセキュリティ情報の **私のメモ** です
 * 毎週日曜日起点で作成し、土曜日まで、その週の記事を更新し続けます
     * zennでの公開は、翌週の記事を作成したタイミングで実施します。ただし、GitHub上では常にpublicです。そのため、zenn上で未公開でも、[GitHub上では確認](https://github.com/hinoshiba/zenn.dev/tree/main/articles) はできます。
-* あくまで、発見した週に記入します(タイトルが近い場合は、最初に見つけた週)
+* あくまで、みた週に記入します(タイトルが近い場合は、最初に見つけた週)
     * 1週間以上前の出来事は、極力日付を入れる気持ちではいますが、確実性はありません
-    * 今週にhinoshibaが見たニュースである事に留意ください
 
 # 事件事故
+
+* Instagram、1750万アカウントの情報流出か
+    * https://x.com/Malwarebytes/status/2009664994070184282?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2009664994070184282%7Ctwgr%5Ef62979b2a8bd0ed4a75804bc5e86055dd6a47545%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fgori.me%2Ffacebook%2Finstagram%2F163028
+    * https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/
+    * https://haveibeenpwned.com/Breach/Instagram
 
 # 攻撃、脅威
 
@@ -24,3 +28,5 @@ published: false
 ## KEV
 
 # その他
+* Word Kindleに送るの機能なくなる
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/
