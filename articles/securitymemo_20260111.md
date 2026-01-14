@@ -22,6 +22,9 @@ published: false
 
 # 攻撃、脅威
 
+* 社長名で届く「LINEグループを作成してください」　迷惑メールに注意
+    * https://news.yahoo.co.jp/articles/e2c31e183ef44966b958054990f725e202d9cfc4
+
 # 脆弱性
 
 * WindowsUpdate
@@ -34,6 +37,7 @@ published: false
         * https://www.theregister.com/2026/01/14/patch_tuesday_january_2026/
 * CVE-2025-64155 FortiSIEM OSコマンドインジェクション
     * https://securityonline.info/fortinet-critical-alert-cve-2025-64155-rce-config-leaks-exposed/
+    * https://www.fortiguard.com/psirt/FG-IR-25-772
 
 
 ## KEV
