@@ -24,9 +24,25 @@ published: false
 
 # 脆弱性
 
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2026-jan
+        * https://securityonline.info/patch-tuesday-jan-2026-microsoft-fixes-114-flaws-3-zero-days/
+        * https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/
+    * CVE-2026-20805
+        * https://www.theregister.com/2026/01/14/patch_tuesday_january_2026/
+* CVE-2025-64155 FortiSIEM OSコマンドインジェクション
+    * https://securityonline.info/fortinet-critical-alert-cve-2025-64155-rce-config-leaks-exposed/
+
 
 ## KEV
+
+* CVE-2025-8110 Gogs Path Traversal Vulnerability
+    * https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/
 
 # その他
 * Word Kindleに送るの機能なくなる
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/
+* Windows 11 24H2 and 25H2 で、期限切れのセキュアブート用証明書を自動的に置き換える
+    * https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/
