@@ -24,6 +24,8 @@ published: false
 
 * 社長名で届く「LINEグループを作成してください」　迷惑メールに注意
     * https://news.yahoo.co.jp/articles/e2c31e183ef44966b958054990f725e202d9cfc4
+* 【注意喚起】ドコモを装った不正なアプリのインストール、マルウェア感染にご注意ください
+    * https://www.docomo.ne.jp/info/notice/page/260114_00.html
 
 # 脆弱性
 
@@ -38,6 +40,10 @@ published: false
 * CVE-2025-64155 FortiSIEM OSコマンドインジェクション
     * https://securityonline.info/fortinet-critical-alert-cve-2025-64155-rce-config-leaks-exposed/
     * https://www.fortiguard.com/psirt/FG-IR-25-772
+    * https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html
+* CVE-2026-0227 PAN-OS DoS
+    * https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/
+    * https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html
 
 
 ## KEV
