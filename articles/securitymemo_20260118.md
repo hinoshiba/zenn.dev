@@ -20,6 +20,9 @@ published: false
 
 # 攻撃、脅威
 
+* 非公式7-Zip Webサイトにて公開されているインストーラによる不審なファイルの展開
+    * https://wizsafe.iij.ad.jp/2026/01/2075/
+
 # 脆弱性
 
 
@@ -27,6 +30,7 @@ published: false
     * https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/
 * CVE-2026-24061 Telnetd 遠隔からの未認証リモートアクセス
     * https://seclists.org/oss-sec/2026/q1/89
+    * https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/
 * Cloudflare 検査のbypass脆弱性(修正済み)
     * https://blog.cloudflare.com/acme-path-vulnerability/
     * https://www.theregister.com/2026/01/20/cloudflare_fixes_acme_validation/
@@ -43,3 +47,5 @@ published: false
     * https://openai.com/index/introducing-chatgpt-go/
 * Gmailの変更機能リリース
     * https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/
+* curl AIによる不正報告が多発し、HackerOneから撤退。バグ報奨金プログラムを終了
+    * https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/

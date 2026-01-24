@@ -56,3 +56,5 @@ published: true
     * https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/
 * Windows 11 24H2 and 25H2 で、期限切れのセキュアブート用証明書を自動的に置き換える
     * https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/
+* Let's Encrypt 160時間の短期証明書とIPアドレス証明書の提供開始
+    * https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
