@@ -3,7 +3,7 @@ title: "2026/01/18 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -49,3 +49,4 @@ published: false
     * https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/
 * curl AIによる不正報告が多発し、HackerOneから撤退。バグ報奨金プログラムを終了
     * https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/
+    * https://socket.dev/blog/curl-shuts-down-bug-bounty-program-after-flood-of-ai-slop-reports
