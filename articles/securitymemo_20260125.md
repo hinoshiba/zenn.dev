@@ -16,6 +16,10 @@ published: false
 # 攻撃、脅威
 
 # 脆弱性
+* CVE-2026-21509 Microsoft Office 2016 と2019 セキュリティ機能のbypass
+    * https://www.theregister.com/2026/01/27/office_zeroday_exploited_in_the/
+    * https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/
 
 
 ## KEV
