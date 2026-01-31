@@ -3,7 +3,7 @@ title: "2026/01/26 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -28,3 +28,7 @@ published: false
 * 1password フィッシングサイトにて警告表示する機能を提供開始(自動有効化)
     * https://1password.com/blog/as-ai-supercharges-phishing-scams-1password-introduces-built-in-protection
     * https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/
+* IPA 10大脅威2026
+    * https://www.ipa.go.jp/security/10threats/10threats2026.html
+* 次回のメジャーWindowsServerバージョンから、NTLM認証をデフォルト無効にする予定
+    * https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/
