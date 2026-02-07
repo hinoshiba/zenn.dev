@@ -25,6 +25,9 @@ published: false
     * https://www.rapid7.com/blog/post/tr-chrysalis-backdoor-dive-into-lotus-blossoms-toolkit/
     * https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/
     * https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/
+* CrashFix
+    * https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/
+    * https://securityonline.info/crashfix-new-clickfix-variant-deliberately-breaks-browsers-to-deploy-rat/
 
 # 脆弱性
 
@@ -32,6 +35,8 @@ published: false
     * https://scan.netsecurity.ne.jp/article/2026/02/04/54550.html
 * NETGEAR製品、特定パケットを受けるとtelnetが有効になるTelnetEnableについてJVN注意喚起
     * https://jvn.jp/jp/JVN46722282/index.html
+* CVE-2026-25049 n8n システムコード実行の脆弱性
+    * https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html
 
 ## KEV
 
