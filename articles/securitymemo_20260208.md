@@ -13,11 +13,20 @@ published: false
 
 # 事件事故
 
+* JAL / 「手荷物当日配送サービス」予約システムへの不正アクセスについて
+    * https://www.jal.co.jp/jp/ja/info/2026/other/260210/
+
 # 攻撃、脅威
 
 # 脆弱性
+
+* CVE-2026-21643 FortiClient EMS SQLi
+    * https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html
 
 
 ## KEV
 
 # その他
+* Firefox AI機能を一括無効化するボタンを追加
+    * https://news.mynavi.jp/techplus/article/20260208-4083211/
+    * https://www.bitdefender.com/en-us/blog/hotforsecurity/firefox-ai-kill-switch
