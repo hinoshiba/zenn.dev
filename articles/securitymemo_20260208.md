@@ -22,7 +22,23 @@ published: false
 
 * CVE-2026-21643 FortiClient EMS SQLi
     * https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html
-
+* WindowsUpdate
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2026-feb
+        * https://cybersecuritynews.com/microsoft-patch-tuesday-february-2026/
+        * https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/
+        * https://gbhackers.com/microsoft-patch-tuesday-february-2026-fixes-54-flaws/
+    * CVE-2026-21533 Windows Remote Desktop Services EoP
+        * https://cybersecuritynews.com/windows-remote-desktop-services-0-day-vulnerability/
+    * CVE-2026-20841 Notepad Code Execuion
+        * https://cvemon.intruder.io/cves/CVE-2026-20841
+        * https://x.com/co11ateral/status/2021544437889867825
+    * CVE-2026-21514 Word セキュリティ機能の回避
+        * https://gbhackers.com/microsoft-office-word-0-day-vulnerability/
+* CVE-2025-7659 GitLab IDE 未認証のアクセス
+    * https://cvemon.intruder.io/cves/CVE-2025-7659
+    * https://securityonline.info/gitlab-patch-alert-high-severity-web-ide-flaw-exposes-private-repos/
 
 ## KEV
 
