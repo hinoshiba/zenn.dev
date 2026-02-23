@@ -15,6 +15,8 @@ published: true
 
 * JAL / 「手荷物当日配送サービス」予約システムへの不正アクセスについて
     * https://www.jal.co.jp/jp/ja/info/2026/other/260210/
+    * 原因は誤操作で不正アクセスではなかった
+    * https://xtech.nikkei.com/atcl/nxt/column/18/00001/11510/
 * Gala湯沢 / 弊社サーバーへの不正アクセスによりお客さま情報が漏えいした可能性について
     * https://gala.co.jp/winter/pickup/60429/
         * `2020 年12 月 16 日から 2026 年２月１日までGALAシーズンパスポートをご購入されたお客さまの個人情報 最大 1,518 名分`
