@@ -14,10 +14,41 @@ published: false
 # 事件事故
 
 # 攻撃、脅威
+* CloudflareのCaptiveを突破するスクリプトについて
+    * https://x.com/ihtesham2005/status/2030586222868136096?s=12
+* Claude CodeのInstallFix
+    * https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code
+    * https://pushsecurity.com/blog/installfix/
+* https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html
+* https://gbhackers.com/phantomraven-malware/
 
 # 脆弱性
 
+* CVE-2026-27577 n8n sandbox escape rce
+    * https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html
+*  CVE-2025-54820 FortiManager 遠隔からのコード実行
+    * https://gbhackers.com/fortinet-fortimanager-fgtupdates-flaw/
+* Windows Update 3月
+    * https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update
+    * https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/
+    * CVE-2026-26110 Office コード実行　
+        * https://gbhackers.com/critical-vulnerability-in-microsoft-office/
+    * CVE-2026-26127 DoS
+        * https://gbhackers.com/microsoft-net-0-day-flaw-denial-of-service-attacks/
+    * CVE-2026-21262 MSSQL 権限昇格の可能性
+        * https://gbhackers.com/microsoft-sql-server-zero-day-exposes-privilege-escalation-risk-for-users/
+
 
 ## KEV
+* CVE-2021-22054 Omnissa Workspace ONE Server-Side Request Forgery
+* CVE-2025-26399 SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability
+* CVE-2026-1603 Ivanti Endpoint Manager (EPM) Authentication Bypass Vulnerability
+* CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code Resources Vulnerability
 
 # その他
+* フィッシング対策ツールtop10
+    * https://gbhackers.com/best-anti-phishing-tools/
+* Microsoft 365 E7 発表。AIの利用
+    * https://microsoftpartners.microsoft.com/abs/Blog/?title=Introducing%20Microsoft%20365%20E7:%20The%20Frontier%20Suite
+* Kali Linux上にローカルLLMを構築するデモブログ
+    * https://www.kali.org/blog/kali-llm-ollama-5ire/
