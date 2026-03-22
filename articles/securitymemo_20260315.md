@@ -3,7 +3,7 @@ title: "2026/03/15 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -17,6 +17,11 @@ published: false
     * https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/
 
 # 攻撃、脅威
+
+* GlassWorm
+    * https://qiita.com/sarubot/items/df077776b293163e0a42
+* Trivy サプライチェーン攻撃により侵害される
+    * https://gbhackers.com/trivy-vulnerability-scanner-compromised/
 
 # 脆弱性
 * CVE-2026-32746 Telnetd RCE脆弱性
@@ -32,6 +37,8 @@ published: false
     * https://gbhackers.com/forticlient-hit-by-severe-sql-injection-vulnerability/
 * CVE-2026-26954 SandBox JS RCE
     * https://securityonline.info/golden-ticket-critical-10-cvss-sandboxjs-flaw-cve-2026-26954-rce/
+* CVE-2026-33001 Jenkins RCE
+    * https://securityonline.info/pipeline-poison-critical-jenkins-vulnerabilities-rce-cve-2026-33001/
 
 
 ## KEV
