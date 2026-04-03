@@ -22,6 +22,7 @@ published: true
     * https://qiita.com/sarubot/items/df077776b293163e0a42
 * Trivy サプライチェーン攻撃により侵害される
     * https://gbhackers.com/trivy-vulnerability-scanner-compromised/
+    * https://gbhackers.com/microsoft-to-detect-defend-against-trivy-supply-chain-attack/
 
 # 脆弱性
 * CVE-2026-32746 Telnetd RCE脆弱性
