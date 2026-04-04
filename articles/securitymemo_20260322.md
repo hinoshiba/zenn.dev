@@ -3,7 +3,7 @@ title: "2026/03/22 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -13,6 +13,8 @@ published: false
 
 # 事件事故
 
+* LiteLLM PyPI サプライチェーンで悪用
+    * https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/
 * Telnyx PyPI サプライチェーンで悪用
     * https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/
     * https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html
@@ -45,3 +47,9 @@ published: false
     * https://gbhackers.com/cisa-adds-critical-aquasecurity-trivy-scanner-vulnerability/
 
 # その他
+* Kali Linux 2026.1
+    * https://gbhackers.com/kali-linux-2026-1-launches-with-8-new-hacking-tools/
+* OpenAI ChatGPTにライブラリ機能をリリース
+    * https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/
+* 米国FCC 外国製の新規ルータの販売禁止
+    * https://news.mynavi.jp/techplus/article/20260326-4261961/
