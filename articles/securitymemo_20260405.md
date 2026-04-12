@@ -3,7 +3,7 @@ title: "2026/04/05 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -24,11 +24,23 @@ published: false
     * https://gbhackers.com/windows-defender-0-day-published-online/
 * macOS Clickfix scripteditorを利用した版
     * https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/
+* 「CPU-Z」「HWMonitor」にマルウェアが混入か
+    * https://forest.watch.impress.co.jp/docs/news/2100780.html
+    * https://www.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/
+    * https://dailydarkweb.net/cpuid-website-compromised-cpu-z-and-hwmonitor-serve-malware/
+* OpenAI mac関係のアプリに対して、サプライチェーン攻撃の影響。影響のないバージョンへの更新をユーザへ呼びかけ
+    * https://x.com/OpenAI/status/2042780052669239782?s=20
 
 # 脆弱性
 
 * CVE-2026-34040 Docker認証bypass
     * https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html
+* CVE-2026-33784 Junos 遠隔からのコード実行の脆弱性
+    * https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/
+* CVE-2026-5173 GitLab 認証bypassの脆弱性
+    * https://gbhackers.com/gitlab-addresses-multiple-vulnerabilities/
+* CVE-2026-34621 Adobe Acrobat Reader プロトタイプ汚染
+    * https://www.security-next.com/183306
 
 
 ## KEV
@@ -45,3 +57,8 @@ published: false
     * https://www.theregister.com/2026/04/06/anthropic_closes_door_on_subscription/
 * Claude Codeのセキュリティルールが50件を超えると読み込まないバグがあった
     * https://gbhackers.com/critical-claude-code-flaw/
+* Claude Mythos Preview 高性能すぎるため、一部企業に限定して提供
+* MITRE 金融詐欺防御フレームワークをリリース
+    * https://ctid.mitre.org/projects/fight-financial-fraud/
+* EmoCheck 配布終了のお知らせ
+    * https://www.jpcert.or.jp/press/2026/PR20260410.html
