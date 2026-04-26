@@ -34,6 +34,7 @@ published: true
     * https://gbhackers.com/microsoft-patch-tuesday-april-2026/
     * Microsoft Defender を悪用したRedSunのPoCは公開
         * https://gbhackers.com/poc-microsoft-defender-0-day-flaw/
+        * https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/
 * CVE-2026-20204 Splunk Enterprise RCE
     * https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/
 * CVE-2026-39813 FortiSandbox 未認証のAPIアクセス
