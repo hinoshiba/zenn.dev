@@ -17,6 +17,9 @@ published: false
 
 # 脆弱性
 
+* OpenClaw ポリシバイパスの脆弱性
+    * https://gbhackers.com/openclaw-flaws-bypass-attacks/
+
 
 ## KEV
 
