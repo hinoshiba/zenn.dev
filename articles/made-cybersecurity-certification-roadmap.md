@@ -20,7 +20,8 @@ https://www.hinoshiba.com/CyberSecurityCertificationRoadmap/?theme=light&lang=ja
 ぱっと俯瞰し、Tierや系統別に資格を眺めるには、十分すぎるロードマップです。  
 
 ただ、参考にしながら使ううちに、私個人的にかゆい点が2つほどあり、せっかくなのでロードマップを作成してみました。  
-https://x.com/hinoshiba/status/2050477598325735786
+
+@[tweet](https://x.com/hinoshiba/status/2050477598325735786)  
 
 # pauljerimy氏のロードマップに対して感じた、2つの課題
 
