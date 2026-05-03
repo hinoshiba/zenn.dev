@@ -17,6 +17,8 @@ published: true
     * https://corp.moneyforward.com/news/info/20260501-mf-press-1/
 * 複数Chatworkアカウントが侵害、不正な請求書送信も - 鉄道設備機器メーカー
     * https://www.security-next.com/184004
+* Ubuntu dot com DDoSによりダウン
+    * https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/
 
 # 攻撃、脅威
 * SAP NPM パッケージサプライチェーンアタック
@@ -43,13 +45,16 @@ published: true
     * https://securityonline.info/linux-kernel-copy-fail-root-exploit-poc-public-disclosure/
 * CVE-2026-5403 WireShark Code Execution
     * https://gbhackers.com/multiple-wireshark-vulnerabilities/
+* CVE-2026-41940 cPanel 認証bypassの脆弱性
+    * https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/
 
 
 ## KEV
 * CVE-2024-1708 ConnectWise ScreenConnect Path Traversal Vulnerability
 * CVE-2026-32202 Microsoft Windows Protection Mechanism Failure Vulnerability
     * https://gbhackers.com/cisa-warns-of-windows-shell-zero-day/
-
+* CVE-2026-31431 Copy Fail
+    * https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html
 # その他
 * Claude Opus 4.6により本番環境含めたデータがwipeされた事件
     * https://gbhackers.com/claude-opus-4-6-powered-ai-coding-agent-wipes-production-database/
