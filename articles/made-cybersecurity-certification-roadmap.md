@@ -3,7 +3,7 @@ title: "サイバーセキュリティの資格ロードマップを作成して
 emoji: "📖"
 type: "tech"
 topics: ["セキュリティ", "資格", "OSCP", "CISSP", "AI"]
-published: false
+published: true
 ---
 
 こんにちは、 hinoshiba です。  
