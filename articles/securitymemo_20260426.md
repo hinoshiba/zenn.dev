@@ -47,6 +47,8 @@ published: true
     * https://gbhackers.com/multiple-wireshark-vulnerabilities/
 * CVE-2026-41940 cPanel 認証bypassの脆弱性
     * https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/
+    * https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability
+    * https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html
 
 
 ## KEV
