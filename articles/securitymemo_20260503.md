@@ -54,3 +54,5 @@ published: true
     * https://www.theregister.com/security/2026/05/04/ai-boms-replace-sboms-as-way-to-track-ai-agents-and-bots/5221716
 * OpenAIがアカウントへの拡張セキュリティ保護機能をリリース
     * https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/
+* Lets Encrypt が発行機関の潜在的な不具合により、新規証明書の発行を一時停止
+    * https://cybersecuritynews.com/lets-encrypt-halts-certificate-issuance/#google_vignette
