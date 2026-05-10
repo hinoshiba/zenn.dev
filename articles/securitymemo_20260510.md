@@ -16,6 +16,8 @@ published: false
 # 攻撃、脅威
 
 # 脆弱性
+* CVE-2026-7482 Ollama メモリリークの脆弱性
+    * https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html
 
 
 ## KEV
