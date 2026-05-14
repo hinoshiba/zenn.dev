@@ -49,6 +49,10 @@ published: true
     * https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/
     * https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability
     * https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html
+    * 2026/05 攻撃が継続中
+        * https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html
+        * https://gbhackers.com/cpanel-and-whm-servers-targeted/
+        * https://gbhackers.com/new-cpanel-and-whm-vulnerabilities/
 
 
 ## KEV
