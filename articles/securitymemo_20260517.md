@@ -3,7 +3,7 @@ title: "2025/05/17 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -45,9 +45,14 @@ published: false
     * https://www.security-next.com/184692
 * CVE-2026-41702 VMWare Fusion 権限昇格の脆弱性
     * https://gbhackers.com/vmware-fusion-flaw-gain-root-privileges/
+* CVE-2026-48172 cPanelプラグイン Lite Speed 権限昇格の脆弱性
+    * https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html
 
 ## KEV
 
 * CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting Vulnerability
 
 # その他
+* 1Password OpenAIのための信頼アクセスレイヤモデル
+    * https://1password.com/blog/1password-trusted-access-layer-for-openai-code
+    * https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/
