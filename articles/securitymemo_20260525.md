@@ -15,9 +15,19 @@ published: false
 
 # 攻撃、脅威
 
+* FBI Phising as a Service, Kali365 に関して警告
+    * https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-kali365-phishing-kit-breaks-microsoft-365-accounts-no-password-required
+    * https://www.ic3.gov/PSA/2026/PSA260521
+
 # 脆弱性
+
+* CVE‑2026‑48095 7-ZIP コード実行の可能性
+    * https://gbhackers.com/multiple-7-zip-vulnerabilities-arbitrary-code-execution/
+    * https://securityonline.info/7-zip-heap-buffer-overflow-cve-2026-48095/
 
 
 ## KEV
+
+* CVE-2026-48172 LiteSpeed cPanel Plugin Privilege Escalation Vulnerability
 
 # その他
