@@ -15,9 +15,22 @@ published: false
 
 # 攻撃、脅威
 
+* ネットワークQoSを操作しEDRの検知の通信を妨害するテクニック、EDRChoker
+    * https://gbhackers.com/edrchoker-tool-abuses-windows-qos-policies/
+
 # 脆弱性
 
 
 ## KEV
 
+* CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability
+* CVE-2026-50751 Check Point Security Gateway Improper Authentication Vulnerability
+
 # その他
+* Apple 侵害されたパスワードの自動変更機能を発表
+    * https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/
+* ChatGPT LockDown Modeをリリース
+    * https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/
+    * https://securityonline.info/chatgpt-lockdown-mode/
+* 利用しているプロジェクトの脆弱性を確認するCVE Lite CLI
+    * https://jp.inoreader.com/article/3a9c6e763effaf39-owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds
