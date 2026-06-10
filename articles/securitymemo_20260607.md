@@ -20,11 +20,23 @@ published: false
 
 # 脆弱性
 
+* CVE-2026-50751 Checkpoint VPN 認証bypass
+    * https://gbhackers.com/check-point-vpn-zero-day/
+    * https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/
+* Windows Update 6月
+    * info
+        * https://msrc.microsoft.com/update-guide/vulnerability
+        * https://msrc.microsoft.com/update-guide/releaseNote/2026-jun
+    * https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/
+
 
 ## KEV
 
 * CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability
 * CVE-2026-50751 Check Point Security Gateway Improper Authentication Vulnerability
+* CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability
+* CVE-2026-11645 Google Chromium V8 Out-of-Bounds Read and Write Vulnerability
+* CVE-2026-20245 Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability
 
 # その他
 * Apple 侵害されたパスワードの自動変更機能を発表
@@ -34,3 +46,7 @@ published: false
     * https://securityonline.info/chatgpt-lockdown-mode/
 * 利用しているプロジェクトの脆弱性を確認するCVE Lite CLI
     * https://jp.inoreader.com/article/3a9c6e763effaf39-owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds
+* Anthropic Claude Fable 5 を公開。Mythosクラスと表記。
+    * https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/
+* Microsoft Defender for Endpointにて、インバウンドRPCの監視機能が追加
+    * https://gbhackers.com/microsoft-defender-adds-monitoring-for-rpc-protocol/
