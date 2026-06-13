@@ -3,7 +3,7 @@ title: "2026/06/07 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -64,5 +64,9 @@ published: false
 * Anthropic Claude Fable 5 を公開。Mythosクラスと表記。
     * https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/
     * https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html
+    * JailBreakに関する情報
+        * https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/
+    * 米国政府からの要請で公開一時停止
+        * https://www.anthropic.com/news/fable-mythos-access
 * Microsoft Defender for Endpointにて、インバウンドRPCの監視機能が追加
     * https://gbhackers.com/microsoft-defender-adds-monitoring-for-rpc-protocol/
