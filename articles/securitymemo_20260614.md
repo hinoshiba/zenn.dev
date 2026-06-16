@@ -17,6 +17,13 @@ published: false
 
 # 脆弱性
 
+* CVE-2026-20262 Catalyst SD-WAN Manager 権限昇格の脆弱性
+    * https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/
+    * https://www.theregister.com/patches/2026/06/15/cisco-sd-wan-make-me-root-bug-under-attack/5255916
+* CVE-2026-53435 Jenkins RCE 
+    * https://gbhackers.com/jenkins-rce-flaw-exploited/
+    * https://securityonline.info/jenkins-rce-vulnerability-cve-2026-53435/
+
 
 ## KEV
 
