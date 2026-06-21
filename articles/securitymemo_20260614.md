@@ -3,7 +3,7 @@ title: "2026/06/14 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -14,6 +14,11 @@ published: false
 # 事件事故
 
 # 攻撃、脅威
+
+* FortiBleed 攻撃者がFortinetに関する認証情報を大量に保有しており、攻撃への注意喚起
+    * https://socradar.io/blog/fortibleed-fortinet-firewalls-compromised/
+    * https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/
+    * https://www.security-next.com/186120
 
 # 脆弱性
 
