@@ -3,7 +3,7 @@ title: "2026/06/21 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -20,6 +20,8 @@ published: false
 * LastPass 顧客連絡先やサポート情報などの営業系データがKlue経由で流出した可能性
     * https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/
     * https://gbhackers.com/lastpass-customer-data-accessed-in-klue-supply-chain-attack/
+* Grafana TanStackに関係するサプライチェーン攻撃によってプライベートリポジトリが盗まれる
+    * https://gbhackers.com/grafana-confirms-tanstack-npm-supply-chain-attack/
 
 # 攻撃、脅威
 
@@ -29,6 +31,8 @@ published: false
     * https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html
     * https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/
     * https://securityonline.info/squidbleed-vulnerability/
+* CVE-2026-52813 Gogs RCE
+    * https://securityonline.info/gogs-rce-vulnerability/
 
 
 ## KEV
@@ -37,6 +41,8 @@ published: false
 * CVE-2026-34908 Ubiquiti UniFi OS Improper Access Control Vulnerability
 * CVE-2026-34909 Ubiquiti UniFi OS Path Traversal Vulnerability
 * CVE-2026-34910 Ubiquiti UniFi OS Improper Input Validation Vulnerability
+* CVE-2026-12569 PTC Windchill and FlexPLM Improper Input Validation Vulnerability
+* CVE-2026-20230 Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability
 
 # その他
 * GitHub actions/checkout v7をリリース。pull request target を悪用した情報窃取をブロック
@@ -44,3 +50,7 @@ published: false
     * https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html
 * OpenAI Daybreak 計画に関連するCyberモデルやプラグインを公開
     * https://openai.com/index/daybreak-securing-the-world/
+* ChatGPT 5.6 、一般公開延期を大統領から要請
+    * https://gbhackers.com/chatgpt-5-6-release-reportedly-delayed/
+* Gemini 3.5 Flash Agentic Computer Use のサポート
+    * https://gbhackers.com/gemini-3-5-flash-now-supports-agentic-computer-use/#google_vignette
