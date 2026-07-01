@@ -26,10 +26,18 @@ published: false
     * https://securityonline.info/gemini-cli-vulnerability/
 * CVE-2026-44024 Fluentd RCEの脆弱性
     * https://securityonline.info/fluentd-vulnerabilities-v1-19-3/
+    * https://gbhackers.com/fluentd-security-flaws/
+* CVE-2026-48286 Adobe 誤った認証でコード実行が可能になる可能性
+    * https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html
+    * https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/
+* CVE-2026-55957 Apache tomcat 認証bypassの脆弱性
+    * https://gbhackers.com/apache-tomcat-vulnerabilities/#google_vignette
+    * https://securityonline.info/apache-tomcat-vulnerabilities-cve-2026-55957/
 
 
 ## KEV
 * CVE-2026-48558 SimpleHelp Authentication Bypass Vulnerability
+* CVE-2026-45659 Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability
 
 # その他
 * WhatsApp ユーザ名の機能をグローバル展開
