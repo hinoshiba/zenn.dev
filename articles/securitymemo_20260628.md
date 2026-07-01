@@ -13,11 +13,29 @@ published: false
 
 # 事件事故
 
+* 日産北米法人 Oracleゼロデイにより社員データの流出
+    * https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/
+    * https://oag.ca.gov/system/files/June%2025%202026%20Employee%20Communication%20Cybersecurity%20Incident%20%28English%29%20%28REG%29.pdf
+* アフラック生命保険、顧客の個人情報438万人分が流出　23万人分の銀行口座番号も…不正アクセス受け
+    * https://news.yahoo.co.jp/articles/8ab0f6ef5d73d615439a1a85244e1cbabad3ce66
+
 # 攻撃、脅威
 
 # 脆弱性
+* CVE-2026-12537 Gemini CLI OS Command Injectionの脆弱性
+    * https://securityonline.info/gemini-cli-vulnerability/
+* CVE-2026-44024 Fluentd RCEの脆弱性
+    * https://securityonline.info/fluentd-vulnerabilities-v1-19-3/
 
 
 ## KEV
+* CVE-2026-48558 SimpleHelp Authentication Bypass Vulnerability
 
 # その他
+* WhatsApp ユーザ名の機能をグローバル展開
+    * https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html
+    * https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/
+* Kali Linux 2026.2 Release 
+    * https://www.kali.org/blog/kali-linux-2026-2-release/
+* OpenClaw モバイルアプリのリリース
+    * https://securityonline.info/openclaw-agentic-ai-app/
