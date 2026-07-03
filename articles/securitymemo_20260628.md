@@ -18,8 +18,13 @@ published: false
     * https://oag.ca.gov/system/files/June%2025%202026%20Employee%20Communication%20Cybersecurity%20Incident%20%28English%29%20%28REG%29.pdf
 * アフラック生命保険、顧客の個人情報438万人分が流出　23万人分の銀行口座番号も…不正アクセス受け
     * https://news.yahoo.co.jp/articles/8ab0f6ef5d73d615439a1a85244e1cbabad3ce66
+* 兵庫県の陸上自衛隊中部方面総監部にて、ウイルスに感染したUSBメモリーを利用していたことが発覚 6/26
+    * https://topics.smt.docomo.ne.jp/article/npn/nation/npn-300412715
+* 朝日放送テレビ、グループ会社アイネックスで不正アクセス・情報漏洩の可能性
+    * https://news.yahoo.co.jp/articles/d25a112b7fee9d6ab16df397550afd01fd196073
 
 # 攻撃、脅威
+
 
 # 脆弱性
 * CVE-2026-12537 Gemini CLI OS Command Injectionの脆弱性
@@ -33,6 +38,11 @@ published: false
 * CVE-2026-55957 Apache tomcat 認証bypassの脆弱性
     * https://gbhackers.com/apache-tomcat-vulnerabilities/#google_vignette
     * https://securityonline.info/apache-tomcat-vulnerabilities-cve-2026-55957/
+* Apple Hide Email機能に、元のメールアドレスがわかる脆弱性
+    * https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/
+    * https://securityboulevard.com/2026/07/apples-hide-my-email-doesnt-hide-it-very-well/
+    * https://gbhackers.com/apple-hide-my-email-vulnerability/
+
 
 
 ## KEV
