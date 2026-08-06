@@ -3,7 +3,7 @@ title: "2026/07/19 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -27,8 +27,14 @@ published: false
     * https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html
 * CVE-2026-6875 ServiceNow AI Platform RCE の脆弱性
     * https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/
+*  CVE-2026-64600 RefluXFS 権限昇格の脆弱性
+    * https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html
 
 
 ## KEV
 
 # その他
+* AI Kill Switch法案, HuggingFaceサンドボックス突破事件を受け。
+    * https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-openai-hack/
+* Claude Opus 5リリース
+    * https://www.anthropic.com/news/claude-opus-5
