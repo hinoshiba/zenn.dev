@@ -3,7 +3,7 @@ title: "2026/08/09 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -27,6 +27,12 @@ published: false
     * https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/
     * Windows USB PnP SYSTEM権限奪取
         * https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html
+* ShieldBreak Windows Defender 権限昇格 ゼロデイ
+    * https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html
+* CVE-2026-53413 Zoom ゼロクリック RCE
+    * https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html
+* CVE-2026-13133 - LINE for Windows 任意のDLL読み込みの脆弱性
+    * https://news.mynavi.jp/techplus/article/20260813-4808944/
 
 ## KEV
 
@@ -39,3 +45,5 @@ published: false
     * https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html
 * DEF CON帰りDelta便でWi-Fiデオース攻撃
     * https://www.theregister.com/security/2026/08/11/def-con-dingus-suspected-of-trying-to-take-over-delta-in-flight-wi-fi/5286331
+* OpenAI Ultra FastMode
+    * https://openai.com/index/previewing-ultrafast/
