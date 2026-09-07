@@ -28,6 +28,8 @@ published: true
     * https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html
 * FalconFlank, CrowdStrike Falconの権限昇格ゼロデイPoCが公開
     * https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318
+* CVE-2026-6471 PostGREShell
+    * https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/
 
 
 ## KEV

@@ -17,6 +17,9 @@ published: false
 
 # 脆弱性
 
+* CVE-2026-59346 VMware Workstation/Fusion バッファオーバーフローの脆弱性
+    * https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/
+
 
 ## KEV
 
