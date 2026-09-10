@@ -21,8 +21,13 @@ published: false
     * info
         * https://msrc.microsoft.com/update-guide/vulnerability
         * https://msrc.microsoft.com/update-guide/releaseNote/2026-Sep
+    * https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/
 * CVE-2026-59346 VMware Workstation/Fusion バッファオーバーフローの脆弱性
     * https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/
+* ChatGPTのプロンプトインジェクション脆弱性でGmailデータが流出
+    * https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html
+* ShieldBreakパッチの不完全さを示す新たなPoC「ShieldCrash」を公開
+    * https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/
 
 
 ## KEV
