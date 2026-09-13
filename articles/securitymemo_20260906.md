@@ -3,7 +3,7 @@ title: "2026/09/06 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -12,6 +12,9 @@ published: false
     * zennでの公開は、翌週の記事を作成したタイミングで実施します。ただし、GitHub上では常にpublicです。そのため、zenn上で未公開でも、[GitHub上では確認](https://github.com/hinoshiba/zenn.dev/tree/main/articles) はできます。
 
 # 事件事故
+
+* ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について / デジタル庁
+    * https://www.digital.go.jp/news/2026-0911-01
 
 # 攻撃、脅威
 
@@ -28,6 +31,8 @@ published: false
     * https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html
 * ShieldBreakパッチの不完全さを示す新たなPoC「ShieldCrash」を公開
     * https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/
+* CVE-2026-85706 GitLab パストラバーサルの脆弱性
+    * https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/
 
 
 ## KEV
