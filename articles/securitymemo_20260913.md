@@ -13,11 +13,24 @@ published: false
 
 # 事件事故
 
+* 自律型AIエージェント群、8月のHugging Face侵入の2カ月前にRubyGemsも攻撃していたと判明
+    * https://www.theregister.com/security/2026/09/14/openais-malicious-bot-swarm-attacked-rubygems/5296356
+* フィンテックRevolut、政府機関なりすましフィッシングでデータ侵害
+    * https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/
+
 # 攻撃、脅威
 
 # 脆弱性
 
+* CVE-2026-76461 Cisco Secure Email Gatewayの重大脆弱性CVE-2026-76461、細工メール1通でroot権限奪取が実環境で悪用
+    * https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604
+* CVE-2026-90894 Parallels Desktop 非管理者MacユーザーがROOT権限を奪取可能
+    * https://gbhackers.com/parallels-desktop-flaw/
 
 ## KEV
 
 # その他
+* CISA、週次脆弱性速報を廃止しリスクベースの優先度付けへ転換
+    * https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968
+* ChatGPT内広告の新形式「Sponsored Agents」を試験提供開始
+    * https://www.unite.ai/openai-tests-sponsored-agents-and-rolls-out-ai-tools-for-chatgpt-ads/
