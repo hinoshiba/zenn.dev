@@ -3,7 +3,7 @@ title: "2026/09/13 週 セキュリティニュースメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -26,6 +26,8 @@ published: false
     * https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604
 * CVE-2026-90894 Parallels Desktop 非管理者MacユーザーがROOT権限を奪取可能
     * https://gbhackers.com/parallels-desktop-flaw/
+* Plugin4Shell Claude Code・Codex・Copilot・Gemini CLIのプラグインpin検証不備によるゼロクリックRCE
+    * https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335 
 
 ## KEV
 
