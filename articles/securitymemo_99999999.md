@@ -18,6 +18,4 @@ published: false
 # 脆弱性
 
 
-## KEV
-
 # その他
