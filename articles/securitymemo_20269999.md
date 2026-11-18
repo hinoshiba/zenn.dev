@@ -3,7 +3,7 @@ title: "2026 年 長期セキュリティメモ"
 emoji: "🔖"
 type: "idea"
 topics: ["Security"]
-published: true
+published: false
 ---
 
 # はじめに
