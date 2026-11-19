@@ -21,6 +21,8 @@ published: false
     * https://www.securityweek.com/uber-data-breach-impacts-150000-people/
 * 楽天証券のテスト環境に不正アクセス、最大約1125万口座のログインID等と最大約447万口座の年収・資産情報などが漏えいのおそれ
     * https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a
+* NewsPicksの個人情報漏えい、BIツール「Metabase」の脆弱性悪用が原因と調査結果を公表
+    * https://www.itmedia.co.jp/news/article/2611/18/2000003300/
 
 # 攻撃、脅威
 
@@ -33,6 +35,10 @@ published: false
 
 * CVE-2026-99288 Linux Kernel リモートからのクラッシュ。NoisyTCP
     * https://access.redhat.com/security/cve/cve-2026-99288
+* CVE-2026-114938 OpenJDKのBase64デコーダに重大な欠陥「Java4Shell」(HoF)
+    * https://calif.io/java4shell
+* CVE-2026-123007 NGINXのHTTP/2処理に認証不要でリモートコード実行のおそれがある脆弱性「NGINX2Shell」(HoF)
+    * https://utm.hinoshiba.com/2026/11/nginx2root-nginx-rce/
 
 
 # その他
